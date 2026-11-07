@@ -1,0 +1,40 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="XiaomiBE6500Manager.MainWindow"
+        Title="Xiaomi BE6500 Manager" Icon="avares://xiaomi-be6500-manager/Assets/app_icon.png"
+        Width="1280" Height="720" MinWidth="640" MinHeight="400">
+  <Grid>
+    <!-- Home screen -->
+    <Grid x:Name="HomePanel">
+      <StackPanel Width="420" VerticalAlignment="Center" Spacing="6">
+        <TextBlock x:Name="IpLabel" />
+        <TextBox x:Name="IpBox" Text="192.168.31.1" />
+        <TextBlock x:Name="LangLabel" Margin="0,10,0,0" />
+        <ComboBox x:Name="LangBox" HorizontalAlignment="Stretch" />
+        <TextBlock x:Name="ErrorText" Foreground="#C62828" IsVisible="False" TextWrapping="Wrap" />
+        <Button x:Name="ConnectButton" Margin="0,18,0,0" HorizontalAlignment="Stretch"
+                HorizontalContentAlignment="Center" Classes="accent" />
+      </StackPanel>
+    </Grid>
+
+    <!-- Router UI -->
+    <DockPanel x:Name="BrowserPanel" IsVisible="False">
+      <Border DockPanel.Dock="Top" Background="#F3F3F3" BorderBrush="#DDDDDD" BorderThickness="0,0,0,1" Padding="8,6">
+        <DockPanel>
+          <Button x:Name="HomeButton" DockPanel.Dock="Left" Padding="8,6">
+            <PathIcon Width="16" Height="16" Data="M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z" />
+          </Button>
+          <StackPanel DockPanel.Dock="Right" Orientation="Horizontal" Spacing="6">
+            <ComboBox x:Name="BrowserLangBox" MinWidth="150" />
+            <TextBlock x:Name="MissingText" VerticalAlignment="Center" Margin="6,0" />
+            <Button x:Name="BackButton" Content="←" />
+            <Button x:Name="ForwardButton" Content="→" />
+            <Button x:Name="ReloadButton" Content="↻" />
+          </StackPanel>
+          <TextBlock x:Name="TitleText" VerticalAlignment="Center" FontWeight="SemiBold" Margin="12,0" />
+        </DockPanel>
+      </Border>
+      <ContentControl x:Name="WebHost" />
+    </DockPanel>
+  </Grid>
+</Window>

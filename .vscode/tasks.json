@@ -1,0 +1,8 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "build", "type": "process", "command": "dotnet", "args": ["build", "${workspaceFolder}/XiaomiBE6500Manager.slnx"], "group": { "kind": "build", "isDefault": true }, "problemMatcher": "$msCompile" },
+    { "label": "test", "type": "process", "command": "dotnet", "args": ["test", "${workspaceFolder}/XiaomiBE6500Manager.slnx"], "group": "test", "problemMatcher": "$msCompile" },
+    { "label": "publish all", "type": "shell", "command": "./scripts/publish.sh all", "problemMatcher": [] }
+  ]
+}

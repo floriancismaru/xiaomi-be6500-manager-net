@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Xiaomi BE6500 Manager",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/src/XiaomiBE6500Manager/bin/Debug/net10.0/xiaomi-be6500-manager.dll",
+      "cwd": "${workspaceFolder}/src/XiaomiBE6500Manager",
+      "console": "internalConsole"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "dotnet.defaultSolution": "XiaomiBE6500Manager.slnx",
+  "editor.formatOnSave": true,
+  "files.exclude": { "**/bin": true, "**/obj": true }
+}

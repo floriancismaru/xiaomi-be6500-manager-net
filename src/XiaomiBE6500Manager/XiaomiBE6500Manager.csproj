@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>xiaomi-be6500-manager</AssemblyName>
+    <RootNamespace>XiaomiBE6500Manager</RootNamespace>
+    <AssemblyTitle>Xiaomi BE6500 Manager</AssemblyTitle>
+    <Product>Xiaomi BE6500 Manager</Product>
+    <ApplicationIcon>Assets\app_icon.ico</ApplicationIcon>
+    <BuiltInComInteropSupport>false</BuiltInComInteropSupport>
+    <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Avalonia" Version="12.1.5" />
+    <PackageReference Include="Avalonia.Desktop" Version="12.1.5" />
+    <PackageReference Include="Avalonia.Themes.Fluent" Version="12.1.5" />
+    <PackageReference Include="Avalonia.Controls.WebView" Version="12.1.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <AvaloniaResource Include="Assets\app_icon.png" />
+    <ProjectReference Include="..\XiaomiBE6500Manager.Core\XiaomiBE6500Manager.Core.csproj" />
+  </ItemGroup>
+</Project>

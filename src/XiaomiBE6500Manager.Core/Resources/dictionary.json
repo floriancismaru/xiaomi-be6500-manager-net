@@ -1,0 +1,4947 @@
+{
+ "version": 1,
+ "firmware": "unknown",
+ "dict": {
+  "小米路由器": [
+   "Xiaomi Router",
+   "Router Xiaomi"
+  ],
+  "Redmi路由器": [
+   "Redmi Router",
+   "Router Redmi"
+  ],
+  "欢迎使用小米路由器": [
+   "Welcome to Xiaomi Router",
+   "Bun venit la routerul Xiaomi"
+  ],
+  "随时随地管理你的路由器": [
+   "Manage your router anytime, anywhere",
+   "Gestionați-vă routerul oricând și oriunde"
+  ],
+  "请输入路由器管理密码": [
+   "Enter the router admin password",
+   "Introduceți parola de administrare a routerului"
+  ],
+  "密码错误": [
+   "Wrong password",
+   "Parolă greșită"
+  ],
+  "密码输入有误": [
+   "Incorrect password entered",
+   "Parola introdusă este incorectă"
+  ],
+  "多次密码错误，将禁止继续尝试": [
+   "After repeated wrong passwords, further attempts will be blocked",
+   "După mai multe parole greșite, încercările vor fi blocate"
+  ],
+  "注销": [
+   "Log out",
+   "Deconectare"
+  ],
+  "保存": [
+   "Save",
+   "Salvare"
+  ],
+  "取消": [
+   "Cancel",
+   "Anulare"
+  ],
+  "确认": [
+   "Confirm",
+   "Confirmare"
+  ],
+  "确定": [
+   "OK",
+   "OK"
+  ],
+  "确认信息": [
+   "Confirmation",
+   "Confirmare"
+  ],
+  "提示信息": [
+   "Notice",
+   "Informare"
+  ],
+  "消息框": [
+   "Message",
+   "Mesaj"
+  ],
+  "加载中...": [
+   "Loading...",
+   "Se încarcă..."
+  ],
+  "处理中...": [
+   "Processing...",
+   "Se procesează..."
+  ],
+  "重启中...": [
+   "Restarting...",
+   "Se repornește..."
+  ],
+  "重启": [
+   "Restart",
+   "Repornire"
+  ],
+  "重启路由器": [
+   "Restart router",
+   "Repornire router"
+  ],
+  "关闭路由器": [
+   "Shut down router",
+   "Oprire router"
+  ],
+  "路由器关机": [
+   "Router shutdown",
+   "Oprirea routerului"
+  ],
+  "恢复出厂设置": [
+   "Restore factory settings",
+   "Restabilire setări din fabrică"
+  ],
+  "系统升级": [
+   "System upgrade",
+   "Actualizare sistem"
+  ],
+  "常见问题": [
+   "FAQ",
+   "Întrebări frecvente"
+  ],
+  "官方网站": [
+   "Official website",
+   "Site oficial"
+  ],
+  "官方微博": [
+   "Official Weibo",
+   "Weibo oficial"
+  ],
+  "官方微信": [
+   "Official WeChat",
+   "WeChat oficial"
+  ],
+  "用户社区": [
+   "User community",
+   "Comunitate utilizatori"
+  ],
+  "点击此处查看": [
+   "Click here to view",
+   "Faceți clic aici pentru detalii"
+  ],
+  "点击此处立即升级": [
+   "Click here to upgrade now",
+   "Faceți clic aici pentru a actualiza acum"
+  ],
+  "现在安装": [
+   "Install now",
+   "Instalează acum"
+  ],
+  "我已安装，现在打开": [
+   "Already installed, open now",
+   "Deja instalat, deschide acum"
+  ],
+  "或者": [
+   "or",
+   "sau"
+  ],
+  "安全": [
+   "Security",
+   "Securitate"
+  ],
+  "易用": [
+   "Easy to use",
+   "Ușor de utilizat"
+  ],
+  "加速": [
+   "Boost",
+   "Accelerare"
+  ],
+  "赚钱": [
+   "Earn money",
+   "Câștigă bani"
+  ],
+  "超时": [
+   "Timeout",
+   "Timp expirat"
+  ],
+  "路由器名称": [
+   "Router name",
+   "Nume router"
+  ],
+  "修改路由器名称": [
+   "Change router name",
+   "Modificare nume router"
+  ],
+  "修改局域网IP地址网段": [
+   "Change LAN IP address range",
+   "Modificare interval adrese IP LAN"
+  ],
+  "避让IP冲突": [
+   "Avoid IP conflict",
+   "Evitare conflict IP"
+  ],
+  "有线中继模式": [
+   "Wired repeater mode",
+   "Mod repetor prin cablu"
+  ],
+  "本地管理小米路由器": [
+   "Manage Xiaomi router locally",
+   "Administrare locală a routerului Xiaomi"
+  ],
+  "手机客户端": [
+   "Mobile client",
+   "Client mobil"
+  ],
+  "PC客户端": [
+   "PC client",
+   "Client PC"
+  ],
+  "MAC客户端": [
+   "Mac client",
+   "Client Mac"
+  ],
+  "下载米家APP": [
+   "Download Mi Home app",
+   "Descărcați aplicația Mi Home"
+  ],
+  "下载和家亲APP": [
+   "Download Hejiaqin app",
+   "Descărcați aplicația Hejiaqin"
+  ],
+  "下载小翼管家APP": [
+   "Download Xiaoyi Guanjia app",
+   "Descărcați aplicația Xiaoyi Guanjia"
+  ],
+  "扫描二维码，下载米家APP": [
+   "Scan the QR code to download the Mi Home app",
+   "Scanați codul QR pentru a descărca aplicația Mi Home"
+  ],
+  "手机扫描二维码安装米家APP": [
+   "Scan the QR code with your phone to install the Mi Home app",
+   "Scanați codul QR cu telefonul pentru a instala aplicația Mi Home"
+  ],
+  "使用小米WiFi APP管理您的路由器": [
+   "Manage your router with the Xiaomi WiFi app",
+   "Administrați-vă routerul cu aplicația Xiaomi WiFi"
+  ],
+  "全新小米WiFi APP 极简操作，享受生活": [
+   "The new Xiaomi WiFi app: simple operation, enjoy life",
+   "Noua aplicație Xiaomi WiFi: operare simplă, bucurați-vă de viață"
+  ],
+  "不支持手机端网页管理路由器": [
+   "Managing the router from a mobile web page is not supported",
+   "Administrarea routerului din pagina web de pe mobil nu este acceptată"
+  ],
+  "7x24小时安全防护 一键拉黑蹭网老王": [
+   "24/7 security protection, block Wi-Fi freeloaders with one tap",
+   "Protecție de securitate 24/7, blocați cu o atingere pe cei care folosesc Wi-Fi-ul fără drept"
+  ],
+  "分享WiFi赚点钱 欢迎老王来蹭网": [
+   "Share Wi-Fi and earn some money",
+   "Partajați Wi-Fi și câștigați bani"
+  ],
+  "提高带宽，游戏加速 团战胜人一筹": [
+   "More bandwidth and game acceleration",
+   "Lățime de bandă mai mare și accelerare pentru jocuri"
+  ],
+  "服务热线  950816": [
+   "Service hotline 950816",
+   "Linie de asistență 950816"
+  ],
+  "关机中，请等待路由器指示灯熄灭后再断开电源": [
+   "Shutting down. Wait for the router indicator light to go off before unplugging the power",
+   "Se oprește. Așteptați stingerea indicatorului luminos al routerului înainte de a deconecta alimentarea"
+  ],
+  "关闭路由器将断开其他设备的数据访问和网络连接，之后便可以安全的断开电源。（再次启动需要手工连接电源）": [
+   "Shutting down the router disconnects all other devices from data access and the network, after which power can be safely disconnected. (To start it again you must reconnect the power manually.)",
+   "Oprirea routerului întrerupe accesul la date și conexiunea la rețea a celorlalte dispozitive, după care alimentarea poate fi deconectată în siguranță. (Pentru a-l porni din nou trebuie să reconectați manual alimentarea.)"
+  ],
+  "是否确定关闭路由器，操作将断开和小米路由器的连接。": [
+   "Are you sure you want to shut down the router? This disconnects you from the Xiaomi router.",
+   "Sigur doriți să opriți routerul? Operația va întrerupe conexiunea cu routerul Xiaomi."
+  ],
+  "确定重启路由器，重启将断开和小米路由器的连接。": [
+   "Restart the router? Restarting disconnects you from the Xiaomi router.",
+   "Reporniți routerul? Repornirea va întrerupe conexiunea cu routerul Xiaomi."
+  ],
+  "确定要恢复出厂设置让小米路由器回到初始状态？": [
+   "Restore factory settings and return the Xiaomi router to its initial state?",
+   "Restabiliți setările din fabrică și readuceți routerul Xiaomi la starea inițială?"
+  ],
+  "路由器重启需要等待十几秒或更多时间，重启过程中将会断开网络连接，稍后将自动重新连接网络。": [
+   "Restarting takes ten-plus seconds or more. The network connection drops during the restart and reconnects automatically afterwards.",
+   "Repornirea durează zece secunde sau mai mult. Conexiunea la rețea se întrerupe în timpul repornirii și se reface automat după aceea."
+  ],
+  "操作生效,重启成功！": [
+   "Applied, restart successful!",
+   "Aplicat, repornire reușită!"
+  ],
+  "操作生效，等待设备重启...": [
+   "Applied, waiting for the device to restart...",
+   "Aplicat, se așteaptă repornirea dispozitivului..."
+  ],
+  "设置成功": [
+   "Settings saved",
+   "Setări salvate"
+  ],
+  "该过程无线网络会重启，将出现短暂掉线。": [
+   "The wireless network restarts during this process, causing a brief disconnection.",
+   "Rețeaua wireless se repornește în timpul acestui proces, ceea ce provoacă o scurtă întrerupere."
+  ],
+  "自动连接路由器失败，请检查无线或者网线是否连接正确。": [
+   "Failed to connect to the router automatically. Check that the wireless or network cable is connected correctly.",
+   "Conectarea automată la router a eșuat. Verificați dacă conexiunea wireless sau cablul de rețea este corect."
+  ],
+  "执行此操作，局域网IP将会变更为": [
+   "This operation changes the LAN IP to",
+   "Această operație va schimba IP-ul LAN în"
+  ],
+  "检测到与上级路由器存在IP冲突，建议切换到": [
+   "An IP conflict with the upstream router was detected; switching to is recommended:",
+   "S-a detectat un conflict IP cu routerul din amonte; se recomandă trecerea la:"
+  ],
+  "检测到与上级路由器存在IP冲突，请": [
+   "An IP conflict with the upstream router was detected, please",
+   "S-a detectat un conflict IP cu routerul din amonte, vă rugăm"
+  ],
+  "检测到最新版本为": [
+   "Latest version detected:",
+   "Cea mai recentă versiune detectată:"
+  ],
+  "检测到Mesh网络均为有线组网，": [
+   "The Mesh network is fully wired,",
+   "Rețeaua Mesh este în întregime prin cablu,"
+  ],
+  "您可以开放专有回程频段以获得更好的Wi-Fi体验": [
+   "You can enable the dedicated backhaul band for a better Wi-Fi experience",
+   "Puteți activa banda dedicată de backhaul pentru o experiență Wi-Fi mai bună"
+  ],
+  "搜索并添加Mesh节点": [
+   "Search and add Mesh nodes",
+   "Căutare și adăugare noduri Mesh"
+  ],
+  "请选择要添加的设备": [
+   "Select the device to add",
+   "Selectați dispozitivul de adăugat"
+  ],
+  "请靠近主路由": [
+   "Move close to the main router",
+   "Apropiați-vă de routerul principal"
+  ],
+  "请放置在主路由1米以外": [
+   "Place it more than 1 meter from the main router",
+   "Plasați-l la peste 1 metru de routerul principal"
+  ],
+  "没有搜索到可用的mesh节点": [
+   "No available Mesh node found",
+   "Nu s-a găsit niciun nod Mesh disponibil"
+  ],
+  "正在同步Mesh节点配置...": [
+   "Synchronizing Mesh node configuration...",
+   "Se sincronizează configurația nodului Mesh..."
+  ],
+  "正在扩展Mesh节点(1-2分钟)...": [
+   "Extending Mesh node (1-2 minutes)...",
+   "Se extinde nodul Mesh (1-2 minute)..."
+  ],
+  "此时5G网络已关闭": [
+   "The 5G network is now off",
+   "Rețeaua 5G este acum oprită"
+  ],
+  "此时5G网络已打开": [
+   "The 5G network is now on",
+   "Rețeaua 5G este acum pornită"
+  ],
+  "5G Wi-Fi启动失败，": [
+   "5G Wi-Fi failed to start,",
+   "Pornirea Wi-Fi 5G a eșuat,"
+  ],
+  "请联系小米客服解决": [
+   "Please contact Xiaomi customer service",
+   "Vă rugăm contactați serviciul clienți Xiaomi"
+  ],
+  "短信箱已满，": [
+   "The SMS inbox is full,",
+   "Căsuța de mesaje este plină,"
+  ],
+  "请删除无用短信以保障短信功能正常": [
+   "Delete unneeded messages so SMS keeps working",
+   "Ștergeți mesajele nefolosite pentru ca funcția SMS să funcționeze"
+  ],
+  "你有新短信，": [
+   "You have a new message,",
+   "Aveți un mesaj nou,"
+  ],
+  "等待自动跳转... 用时": [
+   "Waiting for automatic redirect... elapsed",
+   "Se așteaptă redirecționarea automată... timp scurs"
+  ],
+  "两次输入不一致。": [
+   "The two entries do not match.",
+   "Cele două introduceri nu coincid."
+  ],
+  "请检查您的输入。": [
+   "Please check your input.",
+   "Vă rugăm verificați ce ați introdus."
+  ],
+  "请输入有效的IP地址": [
+   "Enter a valid IP address",
+   "Introduceți o adresă IP validă"
+  ],
+  "请输入正确的服务器地址": [
+   "Enter a correct server address",
+   "Introduceți o adresă de server corectă"
+  ],
+  "请输入正确的端口号。": [
+   "Enter a correct port number.",
+   "Introduceți un număr de port corect."
+  ],
+  "请输入正确的端口号（XXX、XXX-YYY）。": [
+   "Enter a correct port number (XXX or XXX-YYY).",
+   "Introduceți un număr de port corect (XXX sau XXX-YYY)."
+  ],
+  "起始端口必须小于终止端口": [
+   "The start port must be less than the end port",
+   "Portul inițial trebuie să fie mai mic decât portul final"
+  ],
+  "必须是完整的URL,如 http://miwifi.com": [
+   "Must be a full URL, e.g. http://miwifi.com",
+   "Trebuie să fie o adresă URL completă, de ex. http://miwifi.com"
+  ],
+  "MAC地址格式有误，如ab:cd:ef:11:22:33": [
+   "Invalid MAC address format, e.g. ab:cd:ef:11:22:33",
+   "Format adresă MAC invalid, de ex. ab:cd:ef:11:22:33"
+  ],
+  "该地址由4个 0~255 之间的数字组成，数字之间用点区隔": [
+   "The address consists of 4 numbers between 0 and 255, separated by dots",
+   "Adresa este formată din 4 numere între 0 și 255, separate prin puncte"
+  ],
+  "IPv6地址由8组四个十六进制数组成，每组之间用:区隔": [
+   "An IPv6 address consists of 8 groups of four hexadecimal digits separated by colons",
+   "O adresă IPv6 este formată din 8 grupuri de patru cifre hexazecimale separate prin două puncte"
+  ],
+  "LAN IPv6前缀需要以::结尾": [
+   "The LAN IPv6 prefix must end with ::",
+   "Prefixul IPv6 LAN trebuie să se termine cu ::"
+  ],
+  "密码应同时包含数字、英文字母和特殊字符(~!@#$等)": [
+   "The password must contain digits, letters and special characters (~!@#$ etc.)",
+   "Parola trebuie să conțină cifre, litere și caractere speciale (~!@#$ etc.)"
+  ],
+  "密码应同时包含数字、英文字母和英文字符": [
+   "The password must contain digits, letters and English symbols",
+   "Parola trebuie să conțină cifre, litere și simboluri englezești"
+  ],
+  "请输入数字、英文字母或英文符号": [
+   "Enter digits, letters or English symbols",
+   "Introduceți cifre, litere sau simboluri englezești"
+  ],
+  "输入格式不正确,请输入标准字符": [
+   "Incorrect format, enter standard characters",
+   "Format incorect, introduceți caractere standard"
+  ],
+  "输入不完整.": [
+   "Incomplete input.",
+   "Introducere incompletă."
+  ],
+  "黑白名单名称不支持特殊字符$ & | ；‘ ·": [
+   "Allow/block list names do not support the special characters $ & | ; ' ·",
+   "Numele listelor permise/blocate nu acceptă caracterele speciale $ & | ; ' ·"
+  ],
+  "请输入0~10000的正整数。": [
+   "Enter a positive integer from 0 to 10000.",
+   "Introduceți un număr întreg pozitiv între 0 și 10000."
+  ],
+  "请输入一个2位负整数。": [
+   "Enter a 2-digit negative integer.",
+   "Introduceți un număr întreg negativ de 2 cifre."
+  ],
+  "您输入的范围不合理。": [
+   "The range you entered is not reasonable.",
+   "Intervalul introdus nu este rezonabil."
+  ],
+  "无效的手机号": [
+   "Invalid phone number",
+   "Număr de telefon invalid"
+  ],
+  "起始日期不能大于截止日期。": [
+   "The start date cannot be later than the end date.",
+   "Data de început nu poate fi după data de sfârșit."
+  ],
+  "截止日期不能小于起始日期。": [
+   "The end date cannot be earlier than the start date.",
+   "Data de sfârșit nu poate fi înainte de data de început."
+  ],
+  "时间跨度不得超过": [
+   "The time span must not exceed",
+   "Intervalul de timp nu trebuie să depășească"
+  ],
+  "请检查您输入的Email格式。": [
+   "Check the email format you entered.",
+   "Verificați formatul adresei de e-mail introduse."
+  ],
+  "请检查您输入的姓名。": [
+   "Check the name you entered.",
+   "Verificați numele introdus."
+  ],
+  "请检查您输入的手机号码。": [
+   "Check the mobile number you entered.",
+   "Verificați numărul de mobil introdus."
+  ],
+  "请检查您输入的时间格式。": [
+   "Check the time format you entered.",
+   "Verificați formatul orei introduse."
+  ],
+  "请检查您输入的验证码。": [
+   "Check the verification code you entered.",
+   "Verificați codul de verificare introdus."
+  ],
+  "请检查您输入的邮政编码。": [
+   "Check the postal code you entered.",
+   "Verificați codul poștal introdus."
+  ],
+  "请输入": [
+   "Please enter",
+   "Introduceți"
+  ],
+  "请选择": [
+   "Please select",
+   "Selectați"
+  ],
+  "请填写": [
+   "Please fill in",
+   "Completați"
+  ],
+  "请上传": [
+   "Please upload",
+   "Încărcați"
+  ],
+  "请至少输入": [
+   "Enter at least",
+   "Introduceți cel puțin"
+  ],
+  "请输入一个": [
+   "Enter a",
+   "Introduceți un"
+  ],
+  "最多允许": [
+   "Maximum allowed",
+   "Maxim permis"
+  ],
+  "表示允许值，": [
+   "is the allowed value,",
+   "este valoarea permisă,"
+  ],
+  "表示实际值": [
+   "is the actual value",
+   "este valoarea reală"
+  ],
+  "输入值太大，最大允许": [
+   "Value too large, maximum allowed",
+   "Valoare prea mare, maxim permis"
+  ],
+  "输入值太小，最小允许": [
+   "Value too small, minimum allowed",
+   "Valoare prea mică, minim permis"
+  ],
+  "字太多，最多允许": [
+   "Too many characters, maximum allowed",
+   "Prea multe caractere, maxim permis"
+  ],
+  "字太少，最少允许": [
+   "Too few characters, minimum allowed",
+   "Prea puține caractere, minim permis"
+  ],
+  "字节太多，最多允许": [
+   "Too many bytes, maximum allowed",
+   "Prea mulți octeți, maxim permis"
+  ],
+  "字节太少，最少允许": [
+   "Too few bytes, minimum allowed",
+   "Prea puțini octeți, minim permis"
+  ],
+  "日期太早，最早允许": [
+   "Date too early, earliest allowed",
+   "Dată prea devreme, cea mai devreme permisă"
+  ],
+  "日期太晚，最晚允许": [
+   "Date too late, latest allowed",
+   "Dată prea târzie, cea mai târzie permisă"
+  ],
+  "个字。": [
+   " characters.",
+   " caractere."
+  ],
+  "个字节。": [
+   " bytes.",
+   " octeți."
+  ],
+  "位以内正整数。": [
+   "-digit positive integer at most.",
+   " cifre cel mult, număr întreg pozitiv."
+  ],
+  "字节": [
+   "bytes",
+   "octeți"
+  ],
+  "字": [
+   "characters",
+   "caractere"
+  ],
+  "天": [
+   "days",
+   "zile"
+  ],
+  "天。": [
+   "days.",
+   "zile."
+  ],
+  "小时": [
+   "hours",
+   "ore"
+  ],
+  "分钟": [
+   "minutes",
+   "minute"
+  ],
+  "分": [
+   "min",
+   "min"
+  ],
+  "秒": [
+   "seconds",
+   "secunde"
+  ],
+  "中": [
+   "Medium",
+   "Mediu"
+  ],
+  "低": [
+   "Low",
+   "Scăzut"
+  ],
+  "年": [
+   "year",
+   "an"
+  ],
+  "日": [
+   "day",
+   "zi"
+  ],
+  "时": [
+   "h",
+   "h"
+  ],
+  "月": [
+   "month",
+   "lună"
+  ],
+  "高": [
+   "High",
+   "Ridicat"
+  ],
+  "上传": [
+   "Upload",
+   "Încărcare"
+  ],
+  "下载": [
+   "Download",
+   "Descărcare"
+  ],
+  "主卧": [
+   "Master bedroom",
+   "Dormitor principal"
+  ],
+  "书房": [
+   "Study",
+   "Birou"
+  ],
+  "停用": [
+   "Disable",
+   "Dezactivare"
+  ],
+  "克隆": [
+   "Clone",
+   "Clonare"
+  ],
+  "关闭": [
+   "Off",
+   "Oprit"
+  ],
+  "内存": [
+   "Memory",
+   "Memorie"
+  ],
+  "切换": [
+   "Switch",
+   "Comutare"
+  ],
+  "删除": [
+   "Delete",
+   "Ștergere"
+  ],
+  "前缀": [
+   "Prefix",
+   "Prefix"
+  ],
+  "协议": [
+   "Protocol",
+   "Protocol"
+  ],
+  "厨房": [
+   "Kitchen",
+   "Bucătărie"
+  ],
+  "名称": [
+   "Name",
+   "Nume"
+  ],
+  "启用": [
+   "Enable",
+   "Activare"
+  ],
+  "在线": [
+   "Online",
+   "Online"
+  ],
+  "地址": [
+   "Address",
+   "Adresă"
+  ],
+  "域名": [
+   "Domain name",
+   "Nume de domeniu"
+  ],
+  "完成": [
+   "Done",
+   "Finalizat"
+  ],
+  "客厅": [
+   "Living room",
+   "Living"
+  ],
+  "密码": [
+   "Password",
+   "Parolă"
+  ],
+  "带宽": [
+   "Bandwidth",
+   "Lățime de bandă"
+  ],
+  "应用": [
+   "Apply",
+   "Aplicare"
+  ],
+  "开关": [
+   "Switch",
+   "Comutator"
+  ],
+  "开启": [
+   "On",
+   "Pornit"
+  ],
+  "必填": [
+   "Required",
+   "Obligatoriu"
+  ],
+  "恢复": [
+   "Restore",
+   "Restabilire"
+  ],
+  "提示": [
+   "Notice",
+   "Informare"
+  ],
+  "操作": [
+   "Action",
+   "Acțiune"
+  ],
+  "放弃": [
+   "Give up",
+   "Renunțare"
+  ],
+  "断开": [
+   "Disconnect",
+   "Deconectare"
+  ],
+  "星期": [
+   "Week",
+   "Săptămână"
+  ],
+  "更新": [
+   "Update",
+   "Actualizare"
+  ],
+  "本机": [
+   "This device",
+   "Acest dispozitiv"
+  ],
+  "标准": [
+   "Standard",
+   "Standard"
+  ],
+  "模式": [
+   "Mode",
+   "Mod"
+  ],
+  "次卧": [
+   "Second bedroom",
+   "Dormitor secundar"
+  ],
+  "每天": [
+   "Every day",
+   "În fiecare zi"
+  ],
+  "添加": [
+   "Add",
+   "Adăugare"
+  ],
+  "状态": [
+   "Status",
+   "Stare"
+  ],
+  "由于": [
+   "Due to",
+   "Din cauza"
+  ],
+  "离线": [
+   "Offline",
+   "Offline"
+  ],
+  "租约": [
+   "Lease",
+   "Închiriere"
+  ],
+  "移除": [
+   "Remove",
+   "Eliminare"
+  ],
+  "穿墙": [
+   "Wall penetration",
+   "Penetrare pereți"
+  ],
+  "结束": [
+   "End",
+   "Sfârșit"
+  ],
+  "继续": [
+   "Continue",
+   "Continuare"
+  ],
+  "编辑": [
+   "Edit",
+   "Editare"
+  ],
+  "网关": [
+   "Gateway",
+   "Gateway"
+  ],
+  "网口": [
+   "Network port",
+   "Port de rețea"
+  ],
+  "自动": [
+   "Auto",
+   "Automat"
+  ],
+  "节能": [
+   "Power saving",
+   "Economisire energie"
+  ],
+  "设置": [
+   "Settings",
+   "Setări"
+  ],
+  "账号": [
+   "Account",
+   "Cont"
+  ],
+  "连接": [
+   "Connect",
+   "Conectare"
+  ],
+  "选填": [
+   "Optional",
+   "Opțional"
+  ],
+  "选项": [
+   "Options",
+   "Opțiuni"
+  ],
+  "重试": [
+   "Retry",
+   "Reîncercare"
+  ],
+  "重连": [
+   "Reconnect",
+   "Reconectare"
+  ],
+  "阁楼": [
+   "Attic",
+   "Mansardă"
+  ],
+  "阳台": [
+   "Balcony",
+   "Balcon"
+  ],
+  "频段": [
+   "Band",
+   "Bandă"
+  ],
+  "餐厅": [
+   "Dining room",
+   "Sufragerie"
+  ],
+  "下一步": [
+   "Next",
+   "Următorul pas"
+  ],
+  "互联网": [
+   "Internet",
+   "Internet"
+  ],
+  "优先级": [
+   "Priority",
+   "Prioritate"
+  ],
+  "内测版": [
+   "Beta",
+   "Beta"
+  ],
+  "办公室": [
+   "Office",
+   "Birou"
+  ],
+  "华为云": [
+   "Huawei Cloud",
+   "Huawei Cloud"
+  ],
+  "卫生间": [
+   "Bathroom",
+   "Baie"
+  ],
+  "原密码": [
+   "Old password",
+   "Parola veche"
+  ],
+  "去开启": [
+   "Go to enable",
+   "Mergeți la activare"
+  ],
+  "地下室": [
+   "Basement",
+   "Subsol"
+  ],
+  "已断开": [
+   "Disconnected",
+   "Deconectat"
+  ],
+  "已生效": [
+   "In effect",
+   "În vigoare"
+  ],
+  "已连接": [
+   "Connected",
+   "Conectat"
+  ],
+  "开发版": [
+   "Developer version",
+   "Versiune de dezvoltare"
+  ],
+  "新密码": [
+   "New password",
+   "Parolă nouă"
+  ],
+  "无限制": [
+   "Unlimited",
+   "Nelimitat"
+  ],
+  "星期一": [
+   "Monday",
+   "Luni"
+  ],
+  "星期三": [
+   "Wednesday",
+   "Miercuri"
+  ],
+  "星期二": [
+   "Tuesday",
+   "Marți"
+  ],
+  "星期五": [
+   "Friday",
+   "Vineri"
+  ],
+  "星期六": [
+   "Saturday",
+   "Sâmbătă"
+  ],
+  "星期四": [
+   "Service name",
+   "Nume serviciu"
+  ],
+  "星期日": [
+   "Server",
+   "Server"
+  ],
+  "服务名": [
+   "Service name",
+   "Nume serviciu"
+  ],
+  "服务器": [
+   "Server",
+   "Server"
+  ],
+  "未启用": [
+   "Not enabled",
+   "Neactivat"
+  ],
+  "未开启": [
+   "Not enabled",
+   "Neactivat"
+  ],
+  "未生效": [
+   "Not in effect",
+   "Fără efect"
+  ],
+  "未设置": [
+   "Not set",
+   "Nesetat"
+  ],
+  "未连接": [
+   "Not connected",
+   "Neconectat"
+  ],
+  "注意：": [
+   "Note:",
+   "Notă:"
+  ],
+  "用户名": [
+   "Username",
+   "Nume utilizator"
+  ],
+  "畅快连": [
+   "Changkuai Connect",
+   "Changkuai Connect"
+  ],
+  "百度云": [
+   "Baidu Cloud",
+   "Baidu Cloud"
+  ],
+  "知道了": [
+   "Got it",
+   "Am înțeles"
+  ],
+  "稳定版": [
+   "Stable version",
+   "Versiune stabilă"
+  ],
+  "聚合口": [
+   "Aggregated port",
+   "Port agregat"
+  ],
+  "自定义": [
+   "Custom",
+   "Personalizat"
+  ],
+  "设置中": [
+   "Setting up",
+   "Se configurează"
+  ],
+  "账户：": [
+   "Account:",
+   "Cont:"
+  ],
+  "速率为": [
+   "Rate is",
+   "Viteza este"
+  ],
+  "(本机)": [
+   "(This device)",
+   "(Acest dispozitiv)"
+  ],
+  "IP地址": [
+   "IP address",
+   "Adresă IP"
+  ],
+  "IP类型": [
+   "IP type",
+   "Tip IP"
+  ],
+  "WAN口": [
+   "WAN port",
+   "Port WAN"
+  ],
+  "| 本机": [
+   "| This device",
+   "| Acest dispozitiv"
+  ],
+  "上传带宽": [
+   "Upload bandwidth",
+   "Lățime de bandă încărcare"
+  ],
+  "上传日志": [
+   "Upload logs",
+   "Încărcare jurnale"
+  ],
+  "上传速度": [
+   "Upload speed",
+   "Viteză de încărcare"
+  ],
+  "上传限速": [
+   "Upload speed limit",
+   "Limită viteză încărcare"
+  ],
+  "上次测速": [
+   "Last speed test",
+   "Ultimul test de viteză"
+  ],
+  "上网信息": [
+   "Internet information",
+   "Informații internet"
+  ],
+  "上网方式": [
+   "Internet connection type",
+   "Tip conexiune internet"
+  ],
+  "上网设置": [
+   "Internet settings",
+   "Setări internet"
+  ],
+  "下载带宽": [
+   "Download bandwidth",
+   "Lățime de bandă descărcare"
+  ],
+  "下载速度": [
+   "Download speed",
+   "Viteză de descărcare"
+  ],
+  "下载限速": [
+   "Download speed limit",
+   "Limită viteză descărcare"
+  ],
+  "不再提示": [
+   "Don't show again",
+   "Nu mai afișa"
+  ],
+  "任务名称": [
+   "Task name",
+   "Nume sarcină"
+  ],
+  "保存成功": [
+   "Saved successfully",
+   "Salvat cu succes"
+  ],
+  "信号强度": [
+   "Signal strength",
+   "Putere semnal"
+  ],
+  "全盘访问": [
+   "Full disk access",
+   "Acces complet la disc"
+  ],
+  "内部端口": [
+   "Internal port",
+   "Port intern"
+  ],
+  "前缀长度": [
+   "Prefix length",
+   "Lungime prefix"
+  ],
+  "加密方式": [
+   "Encryption",
+   "Criptare"
+  ],
+  "升级检测": [
+   "Upgrade check",
+   "Verificare actualizări"
+  ],
+  "协议类型": [
+   "Protocol type",
+   "Tip protocol"
+  ],
+  "取消连接": [
+   "Cancel connection",
+   "Anulare conexiune"
+  ],
+  "可选备份": [
+   "Optional backup",
+   "Copie de rezervă opțională"
+  ],
+  "增加一项": [
+   "Add an item",
+   "Adăugare element"
+  ],
+  "外网带宽": [
+   "WAN bandwidth",
+   "Lățime de bandă WAN"
+  ],
+  "外网接口": [
+   "WAN interface",
+   "Interfață WAN"
+  ],
+  "外网速度": [
+   "WAN speed",
+   "Viteză WAN"
+  ],
+  "外部端口": [
+   "External port",
+   "Port extern"
+  ],
+  "如何扩展": [
+   "How to extend",
+   "Cum se extinde"
+  ],
+  "子网掩码": [
+   "Subnet mask",
+   "Mască de subrețea"
+  ],
+  "安全中心": [
+   "Security center",
+   "Centru de securitate"
+  ],
+  "已连接:": [
+   "Connected:",
+   "Conectat:"
+  ],
+  "带宽聚合": [
+   "Bandwidth aggregation",
+   "Agregare lățime de bandă"
+  ],
+  "常用设置": [
+   "Common settings",
+   "Setări uzuale"
+  ],
+  "应用名称": [
+   "Application name",
+   "Nume aplicație"
+  ],
+  "开始IP": [
+   "Start IP",
+   "IP de început"
+  ],
+  "开始升级": [
+   "Start upgrade",
+   "Începe actualizarea"
+  ],
+  "开始备份": [
+   "Start backup",
+   "Începe copia de rezervă"
+  ],
+  "开始安装": [
+   "Start installation",
+   "Începe instalarea"
+  ],
+  "开始恢复": [
+   "Start restore",
+   "Începe restabilirea"
+  ],
+  "开始搜索": [
+   "Start search",
+   "Începe căutarea"
+  ],
+  "开始测速": [
+   "Start speed test",
+   "Începe testul de viteză"
+  ],
+  "当前时间": [
+   "Current time",
+   "Ora curentă"
+  ],
+  "当前版本": [
+   "Current version",
+   "Versiunea curentă"
+  ],
+  "当前网速": [
+   "Current network speed",
+   "Viteza curentă a rețelei"
+  ],
+  "手动升级": [
+   "Manual upgrade",
+   "Actualizare manuală"
+  ],
+  "手动安装": [
+   "Manual installation",
+   "Instalare manuală"
+  ],
+  "手动配置": [
+   "Manual configuration",
+   "Configurare manuală"
+  ],
+  "手工添加": [
+   "Add manually",
+   "Adăugare manuală"
+  ],
+  "手工设置": [
+   "Manual setup",
+   "Setare manuală"
+  ],
+  "执行一次": [
+   "Run once",
+   "Rulare o dată"
+  ],
+  "拨号失败": [
+   "Dial-up failed",
+   "Apelare eșuată"
+  ],
+  "拨号成功": [
+   "Dial-up succeeded",
+   "Apelare reușită"
+  ],
+  "插件安装": [
+   "Plug-in installation",
+   "Instalare plugin"
+  ],
+  "断开连接": [
+   "Disconnect",
+   "Deconectare"
+  ],
+  "新建备份": [
+   "New backup",
+   "Copie de rezervă nouă"
+  ],
+  "无线信道": [
+   "Wireless channel",
+   "Canal wireless"
+  ],
+  "时区设置": [
+   "Time zone settings",
+   "Setări fus orar"
+  ],
+  "时间设置": [
+   "Time settings",
+   "Setări oră"
+  ],
+  "暂无更新": [
+   "No updates",
+   "Nicio actualizare"
+  ],
+  "更改时区": [
+   "Change time zone",
+   "Schimbare fus orar"
+  ],
+  "更改时间": [
+   "Change time",
+   "Schimbare oră"
+  ],
+  "更新成功": [
+   "Updated successfully",
+   "Actualizat cu succes"
+  ],
+  "更新日志": [
+   "Update log",
+   "Jurnal actualizări"
+  ],
+  "最大速度": [
+   "Maximum speed",
+   "Viteză maximă"
+  ],
+  "最近更新": [
+   "Last updated",
+   "Ultima actualizare"
+  ],
+  "桥接模式": [
+   "Bridge mode",
+   "Mod bridge"
+  ],
+  "检查周期": [
+   "Check interval",
+   "Interval de verificare"
+  ],
+  "添加服务": [
+   "Add service",
+   "Adăugare serviciu"
+  ],
+  "添加规则": [
+   "Add rule",
+   "Adăugare regulă"
+  ],
+  "温馨提示": [
+   "Tip",
+   "Sugestie"
+  ],
+  "游戏优先": [
+   "Gaming priority",
+   "Prioritate jocuri"
+  ],
+  "游戏网口": [
+   "Gaming port",
+   "Port jocuri"
+  ],
+  "灯效控制": [
+   "Light effect control",
+   "Control efecte luminoase"
+  ],
+  "特殊拨号": [
+   "Special dial-up",
+   "Apelare specială"
+  ],
+  "状态更新": [
+   "Status update",
+   "Actualizare stare"
+  ],
+  "目标IP": [
+   "Target IP",
+   "IP țintă"
+  ],
+  "确认密码": [
+   "Confirm password",
+   "Confirmare parolă"
+  ],
+  "立即升级": [
+   "Upgrade now",
+   "Actualizează acum"
+  ],
+  "立即恢复": [
+   "Restore now",
+   "Restabilește acum"
+  ],
+  "立即测速": [
+   "Test speed now",
+   "Testează viteza acum"
+  ],
+  "立即连接": [
+   "Connect now",
+   "Conectează acum"
+  ],
+  "端口转发": [
+   "Port forwarding",
+   "Redirecționare porturi"
+  ],
+  "系统版本": [
+   "System version",
+   "Versiune sistem"
+  ],
+  "系统自动": [
+   "System automatic",
+   "Automat de sistem"
+  ],
+  "系统设置": [
+   "System settings",
+   "Setări sistem"
+  ],
+  "终端设备": [
+   "Terminal devices",
+   "Dispozitive terminale"
+  ],
+  "绑定设备": [
+   "Bound devices",
+   "Dispozitive asociate"
+  ],
+  "结束IP": [
+   "End IP",
+   "IP de sfârșit"
+  ],
+  "结束任务": [
+   "End task",
+   "Încheiere sarcină"
+  ],
+  "结束端口": [
+   "End port",
+   "Port final"
+  ],
+  "编辑服务": [
+   "Edit service",
+   "Editare serviciu"
+  ],
+  "网关地址": [
+   "Gateway address",
+   "Adresă gateway"
+  ],
+  "网络名称": [
+   "Network name",
+   "Nume rețea"
+  ],
+  "网络密码": [
+   "Network password",
+   "Parolă rețea"
+  ],
+  "网络速度": [
+   "Network speed",
+   "Viteza rețelei"
+  ],
+  "网页优先": [
+   "Web priority",
+   "Prioritate web"
+  ],
+  "自动模式": [
+   "Auto mode",
+   "Mod automat"
+  ],
+  "自动配置": [
+   "Auto configuration",
+   "Configurare automată"
+  ],
+  "视频优先": [
+   "Video priority",
+   "Prioritate video"
+  ],
+  "解绑选中": [
+   "Unbind selected",
+   "Disociază selecția"
+  ],
+  "解除绑定": [
+   "Unbind",
+   "Disociere"
+  ],
+  "设备IP": [
+   "Device IP",
+   "IP dispozitiv"
+  ],
+  "设备信息": [
+   "Device information",
+   "Informații dispozitiv"
+  ],
+  "设备列表": [
+   "Device list",
+   "Listă dispozitive"
+  ],
+  "设备名称": [
+   "Device name",
+   "Nume dispozitiv"
+  ],
+  "设置失败": [
+   "Setting failed",
+   "Setare eșuată"
+  ],
+  "设置带宽": [
+   "Set bandwidth",
+   "Setare lățime de bandă"
+  ],
+  "访问外网": [
+   "Internet access",
+   "Acces la internet"
+  ],
+  "起始端口": [
+   "Start port",
+   "Port inițial"
+  ],
+  "路由状态": [
+   "Router status",
+   "Stare router"
+  ],
+  "输入密码": [
+   "Enter password",
+   "Introduceți parola"
+  ],
+  "连接失败": [
+   "Connection failed",
+   "Conexiune eșuată"
+  ],
+  "连接异常": [
+   "Connection abnormal",
+   "Conexiune anormală"
+  ],
+  "连接时长": [
+   "Connection duration",
+   "Durată conexiune"
+  ],
+  "连接正常": [
+   "Connection normal",
+   "Conexiune normală"
+  ],
+  "连接类型": [
+   "Connection type",
+   "Tip conexiune"
+  ],
+  "连接错误": [
+   "Connection error",
+   "Eroare de conexiune"
+  ],
+  "选择网络": [
+   "Select network",
+   "Selectare rețea"
+  ],
+  "重启规则": [
+   "Restart rules",
+   "Reguli de repornire"
+  ],
+  "重启计划": [
+   "Restart schedule",
+   "Program de repornire"
+  ],
+  "重新搜索": [
+   "Search again",
+   "Căutare din nou"
+  ],
+  "重新测速": [
+   "Retest speed",
+   "Retestare viteză"
+  ],
+  "问题排查": [
+   "Troubleshooting",
+   "Depanare"
+  ],
+  "限速设置": [
+   "Speed limit settings",
+   "Setări limitare viteză"
+  ],
+  "静态IP": [
+   "Static IP",
+   "IP static"
+  ],
+  "频段带宽": [
+   "Band width",
+   "Lățime bandă"
+  ],
+  "高级设置": [
+   "Advanced settings",
+   "Setări avansate"
+  ],
+  "默认网关": [
+   "Default gateway",
+   "Gateway implicit"
+  ],
+  "，已断开": [
+   ", disconnected",
+   ", deconectat"
+  ],
+  "-端口转发": [
+   "- Port forwarding",
+   "- Redirecționare porturi"
+  ],
+  "IP地址:": [
+   "IP address:",
+   "Adresă IP:"
+  ],
+  "IP地址：": [
+   "IP address:",
+   "Adresă IP:"
+  ],
+  "MAC地址": [
+   "MAC address",
+   "Adresă MAC"
+  ],
+  "MLO设置": [
+   "MLO settings",
+   "Setări MLO"
+  ],
+  "WAN1口": [
+   "WAN1 port",
+   "Port WAN1"
+  ],
+  "WAN2口": [
+   "WAN2 port",
+   "Port WAN2"
+  ],
+  "任务管理器": [
+   "Task manager",
+   "Manager de sarcini"
+  ],
+  "优先级模式": [
+   "Priority mode",
+   "Mod prioritate"
+  ],
+  "保存并生效": [
+   "Save and apply",
+   "Salvare și aplicare"
+  ],
+  "全LAN口": [
+   "All LAN ports",
+   "Toate porturile LAN"
+  ],
+  "周一至周五": [
+   "Monday to Friday",
+   "De luni până vineri"
+  ],
+  "地址前缀：": [
+   "Address prefix:",
+   "Prefix adresă:"
+  ],
+  "备份与恢复": [
+   "Backup and restore",
+   "Copie de rezervă și restabilire"
+  ],
+  "外网状态：": [
+   "WAN status:",
+   "Stare WAN:"
+  ],
+  "子网掩码：": [
+   "Subnet mask:",
+   "Mască de subrețea:"
+  ],
+  "客户端IP": [
+   "Client IP",
+   "IP client"
+  ],
+  "局域网IP": [
+   "LAN IP",
+   "IP LAN"
+  ],
+  "局域网设置": [
+   "LAN settings",
+   "Setări LAN"
+  ],
+  "异信道部署": [
+   "Different-channel deployment",
+   "Implementare pe canale diferite"
+  ],
+  "按设备分流": [
+   "Split traffic by device",
+   "Distribuire trafic pe dispozitiv"
+  ],
+  "控制模式：": [
+   "Control mode:",
+   "Mod de control:"
+  ],
+  "无线组网：": [
+   "Wireless networking:",
+   "Rețea wireless:"
+  ],
+  "是否提交?": [
+   "Submit?",
+   "Trimiteți?"
+  ],
+  "有线组网：": [
+   "Wired networking:",
+   "Rețea prin cablu:"
+  ],
+  "服务列表：": [
+   "Service list:",
+   "Listă servicii:"
+  ],
+  "服务商设置": [
+   "Provider settings",
+   "Setări furnizor"
+  ],
+  "服务器地址": [
+   "Server address",
+   "Adresă server"
+  ],
+  "服务提供商": [
+   "Service provider",
+   "Furnizor de servicii"
+  ],
+  "注意事项:": [
+   "Notes:",
+   "Observații:"
+  ],
+  "注意事项：": [
+   "Notes:",
+   "Observații:"
+  ],
+  "测速不准？": [
+   "Speed test inaccurate?",
+   "Test de viteză inexact?"
+  ],
+  "状态指示灯": [
+   "Status indicator light",
+   "Indicator luminos de stare"
+  ],
+  "目标IP：": [
+   "Target IP:",
+   "IP țintă:"
+  ],
+  "租约(分)": [
+   "Lease (min)",
+   "Închiriere (min)"
+  ],
+  "网口自定义": [
+   "Port customization",
+   "Personalizare porturi"
+  ],
+  "获取失败,": [
+   "Failed to get,",
+   "Obținere eșuată,"
+  ],
+  "设置DMZ": [
+   "Set DMZ",
+   "Setare DMZ"
+  ],
+  "设置QoS": [
+   "Set QoS",
+   "Setare QoS"
+  ],
+  "请输入地址": [
+   "Enter address",
+   "Introduceți adresa"
+  ],
+  "请选择网口": [
+   "Select a port",
+   "Selectați un port"
+  ],
+  "路由器型号": [
+   "Router model",
+   "Model router"
+  ],
+  "连接类型：": [
+   "Connection type:",
+   "Tip conexiune:"
+  ],
+  "默认网关：": [
+   "Default gateway:",
+   "Gateway implicit:"
+  ],
+  "5G漫游阈值": [
+   "5G roaming threshold",
+   "Prag roaming 5G"
+  ],
+  "5G连网设备": [
+   "5G connected devices",
+   "Dispozitive conectate 5G"
+  ],
+  "6G连网设备": [
+   "6G connected devices",
+   "Dispozitive conectate 6G"
+  ],
+  "DHCP服务": [
+   "DHCP service",
+   "Serviciu DHCP"
+  ],
+  "DMZ状态：": [
+   "DMZ status:",
+   "Stare DMZ:"
+  ],
+  "IPv4信息": [
+   "IPv4 information",
+   "Informații IPv4"
+  ],
+  "IPv6信息": [
+   "IPv6 information",
+   "Informații IPv6"
+  ],
+  "IP和MAC": [
+   "IP and MAC",
+   "IP și MAC"
+  ],
+  "IP地址获取": [
+   "IP address assignment",
+   "Obținere adresă IP"
+  ],
+  "LAN口聚合": [
+   "LAN port aggregation",
+   "Agregare porturi LAN"
+  ],
+  "MAC地址:": [
+   "MAC address:",
+   "Adresă MAC:"
+  ],
+  "NAT6开关": [
+   "NAT6 switch",
+   "Comutator NAT6"
+  ],
+  "UPnP状态": [
+   "UPnP status",
+   "Stare UPnP"
+  ],
+  "WAN1优先": [
+   "WAN1 priority",
+   "Prioritate WAN1"
+  ],
+  "WAN2优先": [
+   "WAN2 priority",
+   "Prioritate WAN2"
+  ],
+  "WAN口策略": [
+   "WAN port policy",
+   "Politică port WAN"
+  ],
+  "WAN口选择": [
+   "WAN port selection",
+   "Selecție port WAN"
+  ],
+  "WiFi名称": [
+   "Wi-Fi name",
+   "Nume Wi-Fi"
+  ],
+  "WiFi密码": [
+   "Wi-Fi password",
+   "Parolă Wi-Fi"
+  ],
+  "一键无线中继": [
+   "One-tap wireless repeater",
+   "Repetor wireless cu o atingere"
+  ],
+  "什么是VPN": [
+   "What is a VPN",
+   "Ce este un VPN"
+  ],
+  "保存中...": [
+   "Saving...",
+   "Se salvează..."
+  ],
+  "修改端口设置": [
+   "Change port settings",
+   "Modificare setări porturi"
+  ],
+  "修改管理密码": [
+   "Change admin password",
+   "Modificare parolă administrator"
+  ],
+  "内部IP地址": [
+   "Internal IP address",
+   "Adresă IP internă"
+  ],
+  "双WAN设置": [
+   "Dual WAN settings",
+   "Setări dual WAN"
+  ],
+  "台终端接入？": [
+   "terminal(s) connected?",
+   "terminale conectate?"
+  ],
+  "固定WAN口": [
+   "Fixed WAN port",
+   "Port WAN fix"
+  ],
+  "外网带宽检测": [
+   "WAN bandwidth test",
+   "Test lățime de bandă WAN"
+  ],
+  "小米路由器2": [
+   "Xiaomi Router 2",
+   "Router Xiaomi 2"
+  ],
+  "小米路由器3": [
+   "Xiaomi Router 3",
+   "Router Xiaomi 3"
+  ],
+  "小米路由器4": [
+   "Xiaomi Router 4",
+   "Router Xiaomi 4"
+  ],
+  "工作模式切换": [
+   "Work mode switch",
+   "Comutare mod de lucru"
+  ],
+  "开机自动连接": [
+   "Auto-connect on startup",
+   "Conectare automată la pornire"
+  ],
+  "手动安装插件": [
+   "Install plug-in manually",
+   "Instalare manuală plugin"
+  ],
+  "手工限速模式": [
+   "Manual speed limit mode",
+   "Mod limitare manuală viteză"
+  ],
+  "拨号状态异常": [
+   "Dial-up status abnormal",
+   "Stare apelare anormală"
+  ],
+  "插件安装成功": [
+   "Plug-in installed successfully",
+   "Plugin instalat cu succes"
+  ],
+  "无可添加设备": [
+   "No devices to add",
+   "Niciun dispozitiv de adăugat"
+  ],
+  "无线访问控制": [
+   "Wireless access control",
+   "Control acces wireless"
+  ],
+  "日志上传成功": [
+   "Logs uploaded successfully",
+   "Jurnale încărcate cu succes"
+  ],
+  "暂停所有下载": [
+   "Pause all downloads",
+   "Pauză pentru toate descărcările"
+  ],
+  "暂无设备接入": [
+   "No devices connected",
+   "Niciun dispozitiv conectat"
+  ],
+  "最高上传速度": [
+   "Maximum upload speed",
+   "Viteză maximă de încărcare"
+  ],
+  "最高下载速度": [
+   "Maximum download speed",
+   "Viteză maximă de descărcare"
+  ],
+  "最高速度设置": [
+   "Maximum speed settings",
+   "Setări viteză maximă"
+  ],
+  "服务商及域名": [
+   "Provider and domain",
+   "Furnizor și domeniu"
+  ],
+  "查询中...": [
+   "Querying...",
+   "Se interoghează..."
+  ],
+  "没有设置信息": [
+   "No settings information",
+   "Nu există informații de configurare"
+  ],
+  "添加服务地址": [
+   "Add service address",
+   "Adăugare adresă serviciu"
+  ],
+  "确认保存吗？": [
+   "Confirm saving?",
+   "Confirmați salvarea?"
+  ],
+  "网线连网设备": [
+   "Wired devices",
+   "Dispozitive prin cablu"
+  ],
+  "联网方式设置": [
+   "Connection method settings",
+   "Setări metodă de conectare"
+  ],
+  "自动 (6)": [
+   "Auto (6)",
+   "Automat (6)"
+  ],
+  "至少选择1个": [
+   "Select at least 1",
+   "Selectați cel puțin 1"
+  ],
+  "访客连网设备": [
+   "Guest devices",
+   "Dispozitive oaspete"
+  ],
+  "请选择固件：": [
+   "Select firmware:",
+   "Selectați firmware:"
+  ],
+  "请选择网口：": [
+   "Select a port:",
+   "Selectați un port:"
+  ],
+  "还未添加设备": [
+   "No devices added yet",
+   "Niciun dispozitiv adăugat încă"
+  ],
+  "连接中...": [
+   "Connecting...",
+   "Se conectează..."
+  ],
+  "选择已有网络": [
+   "Select an existing network",
+   "Selectați o rețea existentă"
+  ],
+  "静态IPv6": [
+   "Static IPv6",
+   "IPv6 static"
+  ],
+  "IPv6防火墙": [
+   "IPv6 firewall",
+   "Firewall IPv6"
+  ],
+  "IoT连网设备": [
+   "IoT devices",
+   "Dispozitive IoT"
+  ],
+  "MAC地址克隆": [
+   "MAC address clone",
+   "Clonare adresă MAC"
+  ],
+  "MLO连网设备": [
+   "MLO devices",
+   "Dispozitive MLO"
+  ],
+  "QoS智能分配": [
+   "QoS smart allocation",
+   "Alocare inteligentă QoS"
+  ],
+  "QoS智能限速": [
+   "QoS smart speed limit",
+   "Limitare inteligentă viteză QoS"
+  ],
+  "TCP和UDP": [
+   "TCP and UDP",
+   "TCP și UDP"
+  ],
+  "TWT节能模式": [
+   "TWT power saving mode",
+   "Mod economisire energie TWT"
+  ],
+  "UPnP未开启": [
+   "UPnP not enabled",
+   "UPnP neactivat"
+  ],
+  "VPN设置失败": [
+   "VPN setup failed",
+   "Configurare VPN eșuată"
+  ],
+  "WAN1口带宽": [
+   "WAN1 bandwidth",
+   "Lățime de bandă WAN1"
+  ],
+  "WAN2口带宽": [
+   "WAN2 bandwidth",
+   "Lățime de bandă WAN2"
+  ],
+  "Wi-Fi名称": [
+   "Wi-Fi name",
+   "Nume Wi-Fi"
+  ],
+  "Wi-Fi密码": [
+   "Wi-Fi password",
+   "Parolă Wi-Fi"
+  ],
+  "Wi-Fi设置": [
+   "Wi-Fi settings",
+   "Setări Wi-Fi"
+  ],
+  "”作为WAN口": [
+   "\" as the WAN port",
+   "\" ca port WAN"
+  ],
+  "仅DHCPv6": [
+   "DHCPv6 only",
+   "Doar DHCPv6"
+  ],
+  "从在线列表添加": [
+   "Add from online list",
+   "Adăugare din lista online"
+  ],
+  "内部IP地址：": [
+   "Internal IP address:",
+   "Adresă IP internă:"
+  ],
+  "切换国家或地区": [
+   "Change country or region",
+   "Schimbare țară sau regiune"
+  ],
+  "可选恢复的项目": [
+   "Items that can be restored",
+   "Elemente care pot fi restabilite"
+  ],
+  "备份路由器设置": [
+   "Back up router settings",
+   "Copie de rezervă a setărilor routerului"
+  ],
+  "如何设置VPN": [
+   "How to set up a VPN",
+   "Cum se configurează un VPN"
+  ],
+  "小米路由器3A": [
+   "Xiaomi Router 3A",
+   "Router Xiaomi 3A"
+  ],
+  "小米路由器3C": [
+   "Xiaomi Router 3C",
+   "Router Xiaomi 3C"
+  ],
+  "小米路由器3G": [
+   "Xiaomi Router 3G",
+   "Router Xiaomi 3G"
+  ],
+  "小米路由器4A": [
+   "Xiaomi Router 4A",
+   "Router Xiaomi 4A"
+  ],
+  "小米路由器4C": [
+   "Xiaomi Router 4C",
+   "Router Xiaomi 4C"
+  ],
+  "小米路由器4Q": [
+   "Xiaomi Router 4Q",
+   "Router Xiaomi 4Q"
+  ],
+  "小米路由器HD": [
+   "Xiaomi Router HD",
+   "Router Xiaomi HD"
+  ],
+  "局域网IP地址": [
+   "LAN IP address",
+   "Adresă IP LAN"
+  ],
+  "当前系统时间：": [
+   "Current system time:",
+   "Ora curentă a sistemului:"
+  ],
+  "手动配置DNS": [
+   "Configure DNS manually",
+   "Configurare manuală DNS"
+  ],
+  "按服务地址分流": [
+   "Split traffic by service address",
+   "Distribuire trafic după adresa serviciului"
+  ],
+  "数字输入格式为": [
+   "Numbers must be entered in the format",
+   "Numerele trebuie introduse în formatul"
+  ],
+  "是否确认修改？": [
+   "Confirm the change?",
+   "Confirmați modificarea?"
+  ],
+  "智能VPN分流": [
+   "Smart VPN traffic splitting",
+   "Distribuire inteligentă trafic VPN"
+  ],
+  "智能识别网口“": [
+   "Smart port detection \"",
+   "Detectare inteligentă port \""
+  ],
+  "更换了接入宽带": [
+   "Changed the broadband connection",
+   "Conexiunea de bandă largă a fost schimbată"
+  ],
+  "正在拨号...": [
+   "Dialing...",
+   "Se apelează..."
+  ],
+  "正在断开...": [
+   "Disconnecting...",
+   "Se deconectează..."
+  ],
+  "正在测速...": [
+   "Testing speed...",
+   "Se testează viteza..."
+  ],
+  "白名单设备列表": [
+   "Allowlist devices",
+   "Listă dispozitive permise"
+  ],
+  "碰碰连设置失败": [
+   "Tap-to-connect setup failed",
+   "Configurarea conectării prin atingere a eșuat"
+  ],
+  "秒完成模式切换": [
+   "seconds to complete mode switch",
+   "secunde pentru finalizarea schimbării de mod"
+  ],
+  "系统ROM版本": [
+   "System ROM version",
+   "Versiune ROM sistem"
+  ],
+  "自动 (44)": [
+   "Auto (44)",
+   "Automat (44)"
+  ],
+  "自动配置DNS": [
+   "Configure DNS automatically",
+   "Configurare automată DNS"
+  ],
+  "请选择备份文件": [
+   "Select a backup file",
+   "Selectați un fișier de rezervă"
+  ],
+  "还没有策略加入": [
+   "No policies added yet",
+   "Nicio politică adăugată încă"
+  ],
+  "还没有进行测速": [
+   "No speed test done yet",
+   "Niciun test de viteză efectuat încă"
+  ],
+  "连接设备数量：": [
+   "Connected devices:",
+   "Dispozitive conectate:"
+  ],
+  "选择放置的位置": [
+   "Select placement location",
+   "Selectați locația de amplasare"
+  ],
+  "黑名单设备列表": [
+   "Blocklist devices",
+   "Listă dispozitive blocate"
+  ],
+  "默认网关不合法": [
+   "Default gateway is invalid",
+   "Gateway-ul implicit este invalid"
+  ],
+  "，请立即升级。": [
+   ", please upgrade now.",
+   ", vă rugăm actualizați acum."
+  ],
+  "-DMZ主机设置": [
+   "- DMZ host settings",
+   "- Setări gazdă DMZ"
+  ],
+  "-局域网默认网关": [
+   "- LAN default gateway",
+   "- Gateway implicit LAN"
+  ],
+  "2.4G漫游阈值": [
+   "2.4G roaming threshold",
+   "Prag roaming 2.4G"
+  ],
+  "2.4G连网设备": [
+   "2.4G connected devices",
+   "Dispozitive conectate 2.4G"
+  ],
+  "3、点击开始搜索": [
+   "3. Click Start search",
+   "3. Faceți clic pe Începe căutarea"
+  ],
+  "5G-2连网设备": [
+   "5G-2 connected devices",
+   "Dispozitive conectate 5G-2"
+  ],
+  "DMZ IP地址": [
+   "DMZ IP address",
+   "Adresă IP DMZ"
+  ],
+  "IPv6宽带密码": [
+   "IPv6 broadband password",
+   "Parolă bandă largă IPv6"
+  ],
+  "IPv6宽带账号": [
+   "IPv6 broadband account",
+   "Cont bandă largă IPv6"
+  ],
+  "IPv6网络设置": [
+   "IPv6 network settings",
+   "Setări rețea IPv6"
+  ],
+  "IPv6设置介绍": [
+   "About IPv6 settings",
+   "Despre setările IPv6"
+  ],
+  "IP地址最后一位": [
+   "Last part of IP address",
+   "Ultima parte a adresei IP"
+  ],
+  "LAN口聚合成功": [
+   "LAN port aggregation succeeded",
+   "Agregarea porturilor LAN a reușit"
+  ],
+  "MAC地址白名单": [
+   "MAC address allowlist",
+   "Listă adrese MAC permise"
+  ],
+  "Mesh组网设备": [
+   "Mesh network devices",
+   "Dispozitive rețea Mesh"
+  ],
+  "Wi-Fi名称：": [
+   "Wi-Fi name:",
+   "Nume Wi-Fi:"
+  ],
+  "Wi-Fi密码：": [
+   "Wi-Fi password:",
+   "Parolă Wi-Fi:"
+  ],
+  "什么是DDNS？": [
+   "What is DDNS?",
+   "Ce este DDNS?"
+  ],
+  "什么是DHCP？": [
+   "What is DHCP?",
+   "Ce este DHCP?"
+  ],
+  "什么是双WAN？": [
+   "What is dual WAN?",
+   "Ce este dual WAN?"
+  ],
+  "修改WAN口选择": [
+   "Change WAN port selection",
+   "Modificare selecție port WAN"
+  ],
+  "前往上网设置配置": [
+   "Go to Internet settings",
+   "Mergeți la Setări internet"
+  ],
+  "前往上网配置设置": [
+   "Go to Internet settings",
+   "Mergeți la Setări internet"
+  ],
+  "双WAN功能介绍": [
+   "About the dual WAN feature",
+   "Despre funcția dual WAN"
+  ],
+  "台终端接入支持。": [
+   "terminals can connect.",
+   "terminale se pot conecta."
+  ],
+  "家庭WiFi限速": [
+   "Home Wi-Fi speed limit",
+   "Limită viteză Wi-Fi acasă"
+  ],
+  "小米路由器青春版": [
+   "Xiaomi Router Youth Edition",
+   "Router Xiaomi Youth Edition"
+  ],
+  "手动设置漫游参数": [
+   "Set roaming parameters manually",
+   "Setare manuală parametri roaming"
+  ],
+  "手工设置外网带宽": [
+   "Set WAN bandwidth manually",
+   "Setare manuală lățime de bandă WAN"
+  ],
+  "手工输入网络名称": [
+   "Enter the network name manually",
+   "Introduceți manual numele rețelei"
+  ],
+  "新建端口转发规则": [
+   "New port forwarding rule",
+   "Regulă nouă de redirecționare porturi"
+  ],
+  "新建范围转发规则": [
+   "New range forwarding rule",
+   "Regulă nouă de redirecționare interval"
+  ],
+  "正在查询中...": [
+   "Querying...",
+   "Se interoghează..."
+  ],
+  "没有UPnP设备": [
+   "No UPnP devices",
+   "Niciun dispozitiv UPnP"
+  ],
+  "没有运行中的任务": [
+   "No running tasks",
+   "Nicio sarcină în execuție"
+  ],
+  "添加Mesh节点": [
+   "Add Mesh node",
+   "Adăugare nod Mesh"
+  ],
+  "游戏网口注意事项": [
+   "Gaming port notes",
+   "Observații port jocuri"
+  ],
+  "点击进行网络检测": [
+   "Click to run network check",
+   "Faceți clic pentru verificarea rețelei"
+  ],
+  "直接恢复出厂设置": [
+   "Restore factory settings directly",
+   "Restabilire directă a setărilor din fabrică"
+  ],
+  "管理后台访问控制": [
+   "Admin console access control",
+   "Control acces consolă administrare"
+  ],
+  "系统错误，请重试": [
+   "System error, please try again",
+   "Eroare de sistem, încercați din nou"
+  ],
+  "编辑端口转发规则": [
+   "Edit port forwarding rule",
+   "Editare regulă redirecționare porturi"
+  ],
+  "编辑范围转发规则": [
+   "Edit range forwarding rule",
+   "Editare regulă redirecționare interval"
+  ],
+  "设置成功，请等待": [
+   "Settings saved, please wait",
+   "Setări salvate, așteptați"
+  ],
+  "访客WiFi限速": [
+   "Guest Wi-Fi speed limit",
+   "Limită viteză Wi-Fi oaspeți"
+  ],
+  "超出最大添加数量": [
+   "Maximum number of entries exceeded",
+   "Numărul maxim de intrări a fost depășit"
+  ],
+  "还未添加服务地址": [
+   "No service addresses added yet",
+   "Nicio adresă de serviciu adăugată încă"
+  ],
+  "连接设备数量：6": [
+   "Connected devices: 6",
+   "Dispozitive conectate: 6"
+  ],
+  "连接设备数量：7": [
+   "Connected devices: 7",
+   "Dispozitive conectate: 7"
+  ],
+  "隐藏网络不被发现": [
+   "Hide network from discovery",
+   "Ascunde rețeaua de la descoperire"
+  ],
+  "(UTC+2)安曼": [
+   "(UTC+2) Amman",
+   "(UTC+2) Amman"
+  ],
+  "(UTC+2)开罗": [
+   "(UTC+2) Cairo",
+   "(UTC+2) Cairo"
+  ],
+  "(UTC+4)巴库": [
+   "(UTC+4) Baku",
+   "(UTC+4) Baku"
+  ],
+  "(UTC+6)达卡": [
+   "(UTC+6) Dhaka",
+   "(UTC+6) Dhaka"
+  ],
+  "(UTC+8)台北": [
+   "(UTC+8) Taipei",
+   "(UTC+8) Taipei"
+  ],
+  "(UTC+8)珀斯": [
+   "(UTC+8) Perth",
+   "(UTC+8) Perth"
+  ],
+  "(UTC+9)首尔": [
+   "(UTC+9) Seoul",
+   "(UTC+9) Seul"
+  ],
+  "1. Qos设置；": [
+   "1. QoS settings;",
+   "1. Setări QoS;"
+  ],
+  "2.4GHz 选项": [
+   "2.4GHz options",
+   "Opțiuni 2.4GHz"
+  ],
+  "IPv4和IPv6": [
+   "IPv4 and IPv6",
+   "IPv4 și IPv6"
+  ],
+  "IPv4网关地址：": [
+   "IPv4 gateway address:",
+   "Adresă gateway IPv4:"
+  ],
+  "IPv6网关地址：": [
+   "IPv6 gateway address:",
+   "Adresă gateway IPv6:"
+  ],
+  "IPv6连接类型：": [
+   "IPv6 connection type:",
+   "Tip conexiune IPv6:"
+  ],
+  "MAC地址克隆设置": [
+   "MAC address clone settings",
+   "Setări clonare adresă MAC"
+  ],
+  "PPPOE设置页面": [
+   "PPPoE settings page",
+   "Pagina de setări PPPoE"
+  ],
+  "UPnP设备列表：": [
+   "UPnP device list:",
+   "Listă dispozitive UPnP:"
+  ],
+  "VPN 服务列表：": [
+   "VPN service list:",
+   "Listă servicii VPN:"
+  ],
+  "Wi-Fi多频合一": [
+   "Wi-Fi multi-band combined",
+   "Wi-Fi multi-bandă combinat"
+  ],
+  "中进行WAN口配置": [
+   "to configure the WAN port",
+   "pentru a configura portul WAN"
+  ],
+  "从设备列表添加设备": [
+   "Add devices from the device list",
+   "Adăugare dispozitive din lista de dispozitive"
+  ],
+  "你确认要关闭自己？": [
+   "Are you sure you want to turn off yourself?",
+   "Sigur doriți să vă opriți singur?"
+  ],
+  "你还未选择任何设备": [
+   "You haven't selected any device",
+   "Nu ați selectat niciun dispozitiv"
+  ],
+  "修改Wi-Fi设置": [
+   "Change Wi-Fi settings",
+   "Modificare setări Wi-Fi"
+  ],
+  "创建Token令牌": [
+   "Create Token",
+   "Creare token"
+  ],
+  "可以尝试以下方法：": [
+   "You can try the following:",
+   "Puteți încerca următoarele:"
+  ],
+  "如何设置DDNS？": [
+   "How to set up DDNS?",
+   "Cum se configurează DDNS?"
+  ],
+  "宽带运营商机房故障": [
+   "Broadband operator data center failure",
+   "Defecțiune la centrul de date al operatorului de bandă largă"
+  ],
+  "小米路由器1500": [
+   "Xiaomi Router 1500",
+   "Router Xiaomi 1500"
+  ],
+  "小米路由器2100": [
+   "Xiaomi Router 2100",
+   "Router Xiaomi 2100"
+  ],
+  "小米路由器2600": [
+   "Xiaomi Router 2600",
+   "Router Xiaomi 2600"
+  ],
+  "小米路由器4 v2": [
+   "Xiaomi Router 4 v2",
+   "Router Xiaomi 4 v2"
+  ],
+  "小米路由器MINI": [
+   "Xiaomi Router MINI",
+   "Router Xiaomi MINI"
+  ],
+  "小米路由器Mesh": [
+   "Xiaomi Router Mesh",
+   "Router Xiaomi Mesh"
+  ],
+  "尝试无线中继失败了": [
+   "Wireless repeater attempt failed",
+   "Încercarea de repetor wireless a eșuat"
+  ],
+  "尝试有线中继失败了": [
+   "Wired repeater attempt failed",
+   "Încercarea de repetor prin cablu a eșuat"
+  ],
+  "已纳入家人上网保护": [
+   "Already under family internet protection",
+   "Deja sub protecția internetului pentru familie"
+  ],
+  "已绑定的设备列表：": [
+   "Bound device list:",
+   "Listă dispozitive asociate:"
+  ],
+  "开启访客Wi-Fi": [
+   "Enable guest Wi-Fi",
+   "Activare Wi-Fi oaspeți"
+  ],
+  "当前未开启访客模式": [
+   "Guest mode is currently off",
+   "Modul oaspete este dezactivat"
+  ],
+  "我已接好网线，继续": [
+   "I have connected the cable, continue",
+   "Am conectat cablul, continuă"
+  ],
+  "找不到要中继的网络": [
+   "Cannot find a network to repeat",
+   "Nu s-a găsit nicio rețea de repetat"
+  ],
+  "新密码与原密码相同": [
+   "The new password is the same as the old one",
+   "Parola nouă este aceeași cu cea veche"
+  ],
+  "无线MAC地址过滤": [
+   "Wireless MAC address filtering",
+   "Filtrare adrese MAC wireless"
+  ],
+  "未启动无法强制更新": [
+   "Not started, cannot force update",
+   "Nu este pornit, actualizarea forțată nu este posibilă"
+  ],
+  "正在测速，请等待。": [
+   "Testing speed, please wait.",
+   "Se testează viteza, așteptați."
+  ],
+  "添加Mesh子路由": [
+   "Add Mesh sub-router",
+   "Adăugare sub-router Mesh"
+  ],
+  "端口转发规则列表：": [
+   "Port forwarding rule list:",
+   "Listă reguli redirecționare porturi:"
+  ],
+  "系统错误，请重试。": [
+   "System error, please try again.",
+   "Eroare de sistem, încercați din nou."
+  ],
+  "网络服务提供商配置": [
+   "ISP configuration",
+   "Configurare furnizor de internet"
+  ],
+  "范围转发规则列表：": [
+   "Range forwarding rule list:",
+   "Listă reguli redirecționare interval:"
+  ],
+  "访客WiFi限速:": [
+   "Guest Wi-Fi speed limit:",
+   "Limită viteză Wi-Fi oaspeți:"
+  ],
+  "请至少选择一个设备": [
+   "Select at least one device",
+   "Selectați cel puțin un dispozitiv"
+  ],
+  "请选择插件安装包:": [
+   "Select the plug-in package:",
+   "Selectați pachetul plugin:"
+  ],
+  "还没有服务添加进来": [
+   "No services added yet",
+   "Niciun serviciu adăugat încă"
+  ],
+  "还没有设备添加进来": [
+   "No devices added yet",
+   "Niciun dispozitiv adăugat încă"
+  ],
+  "还没有设备连接进来": [
+   "No devices connected yet",
+   "Niciun dispozitiv conectat încă"
+  ],
+  "连接设备数量 --": [
+   "Connected devices --",
+   "Dispozitive conectate --"
+  ],
+  "通过MAC地址添加": [
+   "Add by MAC address",
+   "Adăugare după adresa MAC"
+  ],
+  "静态IP地址不合法": [
+   "Static IP address is invalid",
+   "Adresa IP statică este invalidă"
+  ],
+  "(UTC)协调世界时": [
+   "(UTC) Coordinated Universal Time",
+   "(UTC) Timp universal coordonat"
+  ],
+  "(UTC)卡萨布兰卡": [
+   "(UTC) Casablanca",
+   "(UTC) Casablanca"
+  ],
+  "(UTC+1)都柏林": [
+   "(UTC+1) Dublin",
+   "(UTC+1) Dublin"
+  ],
+  "(UTC+12)斐济": [
+   "(UTC+12) Fiji",
+   "(UTC+12) Fiji"
+  ],
+  "(UTC+2)明斯克": [
+   "(UTC+2) Minsk",
+   "(UTC+2) Minsk"
+  ],
+  "(UTC+2)特罗尔": [
+   "(UTC+2) Troll",
+   "(UTC+2) Troll"
+  ],
+  "(UTC+2)贝鲁特": [
+   "(UTC+2) Beirut",
+   "(UTC+2) Beirut"
+  ],
+  "(UTC+3)内罗毕": [
+   "(UTC+3) Nairobi",
+   "(UTC+3) Nairobi"
+  ],
+  "(UTC+3)巴格达": [
+   "(UTC+3) Baghdad",
+   "(UTC+3) Bagdad"
+  ],
+  "(UTC+4)埃里温": [
+   "(UTC+4) Yerevan",
+   "(UTC+4) Erevan"
+  ],
+  "(UTC+4)路易港": [
+   "(UTC+4) Port Louis",
+   "(UTC+4) Port Louis"
+  ],
+  "(UTC+5)卡拉奇": [
+   "(UTC+5) Karachi",
+   "(UTC+5) Karachi"
+  ],
+  "(UTC+5)塔什干": [
+   "(UTC+5) Tashkent",
+   "(UTC+5) Tașkent"
+  ],
+  "(UTC+8)望加锡": [
+   "(UTC+8) Makassar",
+   "(UTC+8) Makassar"
+  ],
+  "(UTC+8)马尼拉": [
+   "(UTC+8) Manila",
+   "(UTC+8) Manila"
+  ],
+  "(UTC-1)佛得角": [
+   "(UTC-1) Cape Verde",
+   "(UTC-1) Capul Verde"
+  ],
+  "(UTC-11)纽埃": [
+   "(UTC-11) Niue",
+   "(UTC-11) Niue"
+  ],
+  "(UTC-3)戈塔布": [
+   "(UTC-3) Godthab",
+   "(UTC-3) Godthab"
+  ],
+  "(UTC-3)格陵兰": [
+   "(UTC-3) Greenland",
+   "(UTC-3) Groenlanda"
+  ],
+  "(UTC-3)米克隆": [
+   "(UTC-3) Miquelon",
+   "(UTC-3) Miquelon"
+  ],
+  "(UTC-4)亚松森": [
+   "(UTC-4) Asuncion",
+   "(UTC-4) Asunción"
+  ],
+  "(UTC-4)库亚巴": [
+   "(UTC-4) Cuiaba",
+   "(UTC-4) Cuiabá"
+  ],
+  "(UTC-5)哈瓦那": [
+   "(UTC-5) Havana",
+   "(UTC-5) Havana"
+  ],
+  "(UTC-6)中美洲": [
+   "(UTC-6) Central America",
+   "(UTC-6) America Centrală"
+  ],
+  "(UTC-9)甘比尔": [
+   "(UTC-9) Gambier",
+   "(UTC-9) Gambier"
+  ],
+  "2025 小米路由器": [
+   "2025 Xiaomi Router",
+   "2025 Router Xiaomi"
+  ],
+  "DHCP静态IP分配": [
+   "DHCP static IP assignment",
+   "Atribuire IP static DHCP"
+  ],
+  "IPv6网络方式设置": [
+   "IPv6 network method settings",
+   "Setări metodă rețea IPv6"
+  ],
+  "LAN IPv6前缀": [
+   "LAN IPv6 prefix",
+   "Prefix IPv6 LAN"
+  ],
+  "LAN口聚合注意事项": [
+   "LAN port aggregation notes",
+   "Observații agregare porturi LAN"
+  ],
+  "Mesh网络扩展失败": [
+   "Mesh network extension failed",
+   "Extinderea rețelei Mesh a eșuat"
+  ],
+  "Mesh网络扩展成功": [
+   "Mesh network extension succeeded",
+   "Extinderea rețelei Mesh a reușit"
+  ],
+  "WAN 1 外网带宽": [
+   "WAN 1 bandwidth",
+   "Lățime de bandă WAN 1"
+  ],
+  "WAN 1 外网状态": [
+   "WAN 1 status",
+   "Stare WAN 1"
+  ],
+  "WAN 2 外网带宽": [
+   "WAN 2 bandwidth",
+   "Lățime de bandă WAN 2"
+  ],
+  "WAN 2 外网状态": [
+   "WAN 2 status",
+   "Stare WAN 2"
+  ],
+  "WAN IPv6地址": [
+   "WAN IPv6 address",
+   "Adresă IPv6 WAN"
+  ],
+  "WAN IPv6网关": [
+   "WAN IPv6 gateway",
+   "Gateway IPv6 WAN"
+  ],
+  "WAN口协商速率设置": [
+   "WAN port negotiated speed settings",
+   "Setări viteză negociată port WAN"
+  ],
+  "WAN口转发规则设置": [
+   "WAN port forwarding rule settings",
+   "Setări reguli redirecționare port WAN"
+  ],
+  "从备份恢复路由器设置": [
+   "Restore router settings from backup",
+   "Restabilire setări router din copia de rezervă"
+  ],
+  "你确定要删除此项吗？": [
+   "Are you sure you want to delete this item?",
+   "Sigur doriți să ștergeți acest element?"
+  ],
+  "关闭IPv6设置失败": [
+   "Failed to turn off IPv6",
+   "Dezactivarea IPv6 a eșuat"
+  ],
+  "关闭IPv6设置成功": [
+   "IPv6 turned off successfully",
+   "IPv6 dezactivat cu succes"
+  ],
+  "出现异常，请刷新页面": [
+   "An error occurred, please refresh the page",
+   "A apărut o eroare, reîncărcați pagina"
+  ],
+  "复用IPv4拨号链路": [
+   "Reuse IPv4 dial-up link",
+   "Reutilizare legătură de apelare IPv4"
+  ],
+  "小米路由器3 Pro": [
+   "Xiaomi Router 3 Pro",
+   "Router Xiaomi 3 Pro"
+  ],
+  "当前未有5G连网设备": [
+   "No 5G devices connected",
+   "Niciun dispozitiv 5G conectat"
+  ],
+  "有线中继工作模式说明": [
+   "Wired repeater mode description",
+   "Descriere mod repetor prin cablu"
+  ],
+  "未检测到IPv6信息": [
+   "No IPv6 information detected",
+   "Nu s-au detectat informații IPv6"
+  ],
+  "正在扩展Mesh网络": [
+   "Extending Mesh network",
+   "Se extinde rețeaua Mesh"
+  ],
+  "确定要删除这项数据吗": [
+   "Are you sure you want to delete this data?",
+   "Sigur doriți să ștergeți aceste date?"
+  ],
+  "腾讯云DNSPods": [
+   "Tencent Cloud DNSPod",
+   "Tencent Cloud DNSPod"
+  ],
+  "设置中，请稍等...": [
+   "Applying settings, please wait...",
+   "Se aplică setările, așteptați..."
+  ],
+  "设置有误，请重新输入": [
+   "Invalid settings, please enter again",
+   "Setări invalide, introduceți din nou"
+  ],
+  "配置中，请稍候...": [
+   "Configuring, please wait...",
+   "Se configurează, așteptați..."
+  ],
+  "(UTC+1)中非西部": [
+   "(UTC+1) West Central Africa",
+   "(UTC+1) Africa Centrală de Vest"
+  ],
+  "(UTC+1)温得和克": [
+   "(UTC+1) Windhoek",
+   "(UTC+1) Windhoek"
+  ],
+  "(UTC+10)霍巴特": [
+   "(UTC+10) Hobart",
+   "(UTC+10) Hobart"
+  ],
+  "(UTC+12)马加丹": [
+   "(UTC+12) Magadan",
+   "(UTC+12) Magadan"
+  ],
+  "(UTC+13)萨摩亚": [
+   "(UTC+13) Samoa",
+   "(UTC+13) Samoa"
+  ],
+  "(UTC+2)基希讷乌": [
+   "(UTC+2) Chisinau",
+   "(UTC+2) Chișinău"
+  ],
+  "(UTC+2)大马士革": [
+   "(UTC+2) Damascus",
+   "(UTC+2) Damasc"
+  ],
+  "(UTC+2)耶路撒冷": [
+   "(UTC+2) Jerusalem",
+   "(UTC+2) Ierusalim"
+  ],
+  "(UTC+4)第比利斯": [
+   "(UTC+4) Tbilisi",
+   "(UTC+4) Tbilisi"
+  ],
+  "(UTC+6)阿斯塔纳": [
+   "(UTC+6) Astana",
+   "(UTC+6) Astana"
+  ],
+  "(UTC+8)乌兰巴托": [
+   "(UTC+8) Ulaanbaatar",
+   "(UTC+8) Ulaanbaatar"
+  ],
+  "(UTC+9)查亚普拉": [
+   "(UTC+9) Jayapura",
+   "(UTC+9) Jayapura"
+  ],
+  "(UTC-10)夏威夷": [
+   "(UTC-10) Hawaii",
+   "(UTC-10) Hawaii"
+  ],
+  "(UTC-10)阿达克": [
+   "(UTC-10) Adak",
+   "(UTC-10) Adak"
+  ],
+  "(UTC-2)中大西洋": [
+   "(UTC-2) Mid-Atlantic",
+   "(UTC-2) Atlanticul Central"
+  ],
+  "(UTC-3)巴西利亚": [
+   "(UTC-3) Brasilia",
+   "(UTC-3) Brasilia"
+  ],
+  "(UTC-4)圣地亚哥": [
+   "(UTC-4) Santiago",
+   "(UTC-4) Santiago"
+  ],
+  "(UTC-6)复活节岛": [
+   "(UTC-6) Easter Island",
+   "(UTC-6) Insula Paștelui"
+  ],
+  "(UTC-7)亚利桑那": [
+   "(UTC-7) Arizona",
+   "(UTC-7) Arizona"
+  ],
+  "(UTC-8)皮特克恩": [
+   "(UTC-8) Pitcairn",
+   "(UTC-8) Pitcairn"
+  ],
+  "(UTC-9)阿拉斯加": [
+   "(UTC-9) Alaska",
+   "(UTC-9) Alaska"
+  ],
+  "-DHCP静态IP分配": [
+   "- DHCP static IP assignment",
+   "- Atribuire IP static DHCP"
+  ],
+  "5G-Game连网设备": [
+   "5G-Game connected devices",
+   "Dispozitive conectate 5G-Game"
+  ],
+  "LAN IPv6前缀：": [
+   "LAN IPv6 prefix:",
+   "Prefix IPv6 LAN:"
+  ],
+  "LAN IPv6地址：": [
+   "LAN IPv6 address:",
+   "Adresă IPv6 LAN:"
+  ],
+  "WAN IPv4地址：": [
+   "WAN IPv4 address:",
+   "Adresă IPv4 WAN:"
+  ],
+  "WAN IPv6地址：": [
+   "WAN IPv6 address:",
+   "Adresă IPv6 WAN:"
+  ],
+  "WAN IPv6网关：": [
+   "WAN IPv6 gateway:",
+   "Gateway IPv6 WAN:"
+  ],
+  "WAN口转发规则列表：": [
+   "WAN port forwarding rule list:",
+   "Listă reguli redirecționare port WAN:"
+  ],
+  "Xiaomi万兆路由器": [
+   "Xiaomi 10G Router",
+   "Router Xiaomi 10G"
+  ],
+  "“常用设置-上网设置”": [
+   "\"Common settings - Internet settings\"",
+   "\"Setări uzuale - Setări internet\""
+  ],
+  "你确定要解除此项绑定？": [
+   "Are you sure you want to unbind this item?",
+   "Sigur doriți să disociați acest element?"
+  ],
+  "修改 Wi-Fi 设置": [
+   "Change Wi-Fi settings",
+   "Modificare setări Wi-Fi"
+  ],
+  "创建AccessKey": [
+   "Create AccessKey",
+   "Creare AccessKey"
+  ],
+  "发生未知错误，测速失败": [
+   "An unknown error occurred, speed test failed",
+   "A apărut o eroare necunoscută, testul de viteză a eșuat"
+  ],
+  "宽带因欠费无法继续使用": [
+   "Broadband service cannot continue due to unpaid fees",
+   "Serviciul de bandă largă nu poate continua din cauza taxelor neachitate"
+  ],
+  "小米路由器AC2100": [
+   "Xiaomi Router AC2100",
+   "Router Xiaomi AC2100"
+  ],
+  "尝试工作模式切换失败了": [
+   "Work mode switch attempt failed",
+   "Încercarea de schimbare a modului de lucru a eșuat"
+  ],
+  "强制更新（默认1小时）": [
+   "Force update (default 1 hour)",
+   "Actualizare forțată (implicit 1 oră)"
+  ],
+  "当前QoS服务暂未开启": [
+   "QoS service is not currently enabled",
+   "Serviciul QoS nu este activat în prezent"
+  ],
+  "当前使用的MAC地址是": [
+   "The MAC address currently in use is",
+   "Adresa MAC utilizată în prezent este"
+  ],
+  "数字输入格式为&#34": [
+   "Numbers must be entered in the format \"",
+   "Numerele trebuie introduse în formatul \""
+  ],
+  "日期输入格式为&#34": [
+   "Dates must be entered in the format \"",
+   "Datele trebuie introduse în formatul \""
+  ],
+  "服务热线 950816": [
+   "Service hotline 950816",
+   "Linie de asistență 950816"
+  ],
+  "根据应用优先级分配网速": [
+   "Allocate network speed by application priority",
+   "Alocare viteză rețea după prioritatea aplicațiilor"
+  ],
+  "正在扫描附近的无线网络": [
+   "Scanning nearby wireless networks",
+   "Se scanează rețelele wireless din apropiere"
+  ],
+  "正在检测模式列表...": [
+   "Detecting mode list...",
+   "Se detectează lista de moduri..."
+  ],
+  "此操作需要重启才能生效": [
+   "This operation requires a restart to take effect",
+   "Această operație necesită repornire pentru a avea efect"
+  ],
+  "状态检查（默认五分钟）": [
+   "Status check (default 5 minutes)",
+   "Verificare stare (implicit 5 minute)"
+  ],
+  "确定要删除这条规则吗？": [
+   "Are you sure you want to delete this rule?",
+   "Sigur doriți să ștergeți această regulă?"
+  ],
+  "网络异常，获取列表失败": [
+   "Network error, failed to get the list",
+   "Eroare de rețea, obținerea listei a eșuat"
+  ],
+  "聚合未开启，请配置聚合": [
+   "Aggregation is not enabled, please configure aggregation",
+   "Agregarea nu este activată, configurați agregarea"
+  ],
+  "设置WiFi名称和密码": [
+   "Set Wi-Fi name and password",
+   "Setare nume și parolă Wi-Fi"
+  ],
+  "请输入设备的MAC地址": [
+   "Enter the device's MAC address",
+   "Introduceți adresa MAC a dispozitivului"
+  ],
+  "通过MAC地址添加设备": [
+   "Add device by MAC address",
+   "Adăugare dispozitiv după adresa MAC"
+  ],
+  "(UTC+0)协调世界时": [
+   "(UTC+0) Coordinated Universal Time",
+   "(UTC+0) Timp universal coordonat"
+  ],
+  "(UTC+10)布里斯班": [
+   "(UTC+10) Brisbane",
+   "(UTC+10) Brisbane"
+  ],
+  "(UTC+10)雅库茨克": [
+   "(UTC+10) Yakutsk",
+   "(UTC+10) Iakuțk"
+  ],
+  "(UTC+14)基里巴斯": [
+   "(UTC+14) Kiribati",
+   "(UTC+14) Kiribati"
+  ],
+  "(UTC+2)伊斯坦布尔": [
+   "(UTC+2) Istanbul",
+   "(UTC+2) Istanbul"
+  ],
+  "(UTC+3)加里宁格勒": [
+   "(UTC+3) Kaliningrad",
+   "(UTC+3) Kaliningrad"
+  ],
+  "(UTC+6)叶卡捷琳堡": [
+   "(UTC+6) Yekaterinburg",
+   "(UTC+6) Ekaterinburg"
+  ],
+  "(UTC+6:30)仰光": [
+   "(UTC+6:30) Yangon",
+   "(UTC+6:30) Yangon"
+  ],
+  "(UTC+7)新西伯利亚": [
+   "(UTC+7) Novosibirsk",
+   "(UTC+7) Novosibirsk"
+  ],
+  "(UTC+9)伊尔库茨克": [
+   "(UTC+9) Irkutsk",
+   "(UTC+9) Irkuțk"
+  ],
+  "(UTC+9)平壤，首尔": [
+   "(UTC+9) Pyongyang, Seoul",
+   "(UTC+9) Phenian, Seul"
+  ],
+  "(UTC-1)亚速尔群岛": [
+   "(UTC-1) Azores",
+   "(UTC-1) Azore"
+  ],
+  "(UTC-1)佛得角群岛": [
+   "(UTC-1) Cape Verde Islands",
+   "(UTC-1) Insulele Capului Verde"
+  ],
+  "(UTC-10)火奴鲁鲁": [
+   "(UTC-10) Honolulu",
+   "(UTC-10) Honolulu"
+  ],
+  "(UTC-3)蒙得维的亚": [
+   "(UTC-3) Montevideo",
+   "(UTC-3) Montevideo"
+  ],
+  "(UTC-6)加拉帕戈斯": [
+   "(UTC-6) Galapagos",
+   "(UTC-6) Galápagos"
+  ],
+  "(UTC-6)萨斯克彻温": [
+   "(UTC-6) Saskatchewan",
+   "(UTC-6) Saskatchewan"
+  ],
+  "2. QoS智能限速服务": [
+   "2. QoS smart speed limit service",
+   "2. Serviciu de limitare inteligentă a vitezei QoS"
+  ],
+  "IPTV VLAN优先级": [
+   "IPTV VLAN priority",
+   "Prioritate VLAN IPTV"
+  ],
+  "LAN IPv6前缀长度": [
+   "LAN IPv6 prefix length",
+   "Lungime prefix IPv6 LAN"
+  ],
+  "Wi-Fi 5 兼容模式": [
+   "Wi-Fi 5 compatibility mode",
+   "Mod compatibilitate Wi-Fi 5"
+  ],
+  "Wi-Fi 信号强度设置": [
+   "Wi-Fi signal strength settings",
+   "Setări putere semnal Wi-Fi"
+  ],
+  "Wi-Fi密码: 未设置": [
+   "Wi-Fi password: not set",
+   "Parolă Wi-Fi: nesetată"
+  ],
+  "你未选择文件，请重新选择": [
+   "You haven't selected a file, please select again",
+   "Nu ați selectat niciun fișier, selectați din nou"
+  ],
+  "公云（3322.org）": [
+   "Public cloud (3322.org)",
+   "Cloud public (3322.org)"
+  ],
+  "去小米网购买5G智能设备": [
+   "Buy 5G smart devices on Xiaomi store",
+   "Cumpărați dispozitive inteligente 5G din magazinul Xiaomi"
+  ],
+  "发现新版本,升级包大小为": [
+   "New version found, upgrade package size is",
+   "Versiune nouă găsită, dimensiunea pachetului de actualizare este"
+  ],
+  "宽带拨号账号密码输入错误": [
+   "Broadband dial-up account or password is incorrect",
+   "Contul sau parola de apelare bandă largă sunt incorecte"
+  ],
+  "小米路由器 AX3000": [
+   "Xiaomi Router AX3000",
+   "Router Xiaomi AX3000"
+  ],
+  "小米路由器 AX6000": [
+   "Xiaomi Router AX6000",
+   "Router Xiaomi AX6000"
+  ],
+  "强加密(WPA2个人版)": [
+   "Strong encryption (WPA2 Personal)",
+   "Criptare puternică (WPA2 Personal)"
+  ],
+  "搜索Mesh子路由...": [
+   "Searching for Mesh sub-routers...",
+   "Se caută sub-routere Mesh..."
+  ],
+  "文件格式错误，请重新选择": [
+   "Wrong file format, please select again",
+   "Format de fișier greșit, selectați din nou"
+  ],
+  "无加密(允许所有人连接)": [
+   "No encryption (anyone can connect)",
+   "Fără criptare (oricine se poate conecta)"
+  ],
+  "正在设置中，请稍候...": [
+   "Applying settings, please wait...",
+   "Se aplică setările, așteptați..."
+  ],
+  "没有未添加的设备连接进来": [
+   "No unadded devices have connected",
+   "Niciun dispozitiv neadăugat nu s-a conectat"
+  ],
+  "确认是否关闭双WAN功能": [
+   "Confirm turning off the dual WAN feature?",
+   "Confirmați dezactivarea funcției dual WAN?"
+  ],
+  "确认是否关闭游戏网口功能": [
+   "Confirm turning off the gaming port feature?",
+   "Confirmați dezactivarea funcției port jocuri?"
+  ],
+  "网络异常，请检查是否联网": [
+   "Network error, please check your internet connection",
+   "Eroare de rețea, verificați conexiunea la internet"
+  ],
+  "请手工选择需要的工作模式": [
+   "Please select the work mode manually",
+   "Selectați manual modul de lucru"
+  ],
+  "请检查您输入的电话区号。": [
+   "Check the phone area code you entered.",
+   "Verificați prefixul telefonic introdus."
+  ],
+  "请检查您输入的电话号码。": [
+   "Check the phone number you entered.",
+   "Verificați numărul de telefon introdus."
+  ],
+  "请检查您输入的银行账号。": [
+   "Check the bank account number you entered.",
+   "Verificați numărul contului bancar introdus."
+  ],
+  "(UTC+11)罗德豪维岛": [
+   "(UTC+11) Lord Howe Island",
+   "(UTC+11) Insula Lord Howe"
+  ],
+  "(UTC+13)努库阿洛法": [
+   "(UTC+13) Nuku'alofa",
+   "(UTC+13) Nuku'alofa"
+  ],
+  "(UTC+14)基里蒂马蒂": [
+   "(UTC+14) Kiritimati",
+   "(UTC+14) Kiritimati"
+  ],
+  "(UTC+2)加沙，希伯伦": [
+   "(UTC+2) Gaza, Hebron",
+   "(UTC+2) Gaza, Hebron"
+  ],
+  "(UTC+3:30)德黑兰": [
+   "(UTC+3:30) Tehran",
+   "(UTC+3:30) Teheran"
+  ],
+  "(UTC+4:30)喀布尔": [
+   "(UTC+4:30) Kabul",
+   "(UTC+4:30) Kabul"
+  ],
+  "(UTC+5:30)科伦坡": [
+   "(UTC+5:30) Colombo",
+   "(UTC+5:30) Colombo"
+  ],
+  "(UTC+7)雅加达，坤甸": [
+   "(UTC+7) Jakarta, Pontianak",
+   "(UTC+7) Jakarta, Pontianak"
+  ],
+  "(UTC+8:45)尤克拉": [
+   "(UTC+8:45) Eucla",
+   "(UTC+8:45) Eucla"
+  ],
+  "(UTC+9:30)达尔文": [
+   "(UTC+9:30) Darwin",
+   "(UTC+9:30) Darwin"
+  ],
+  "(UTC-11)协调世界时": [
+   "(UTC-11) Coordinated Universal Time",
+   "(UTC-11) Timp universal coordonat"
+  ],
+  "(UTC-11)萨摩亚群岛": [
+   "(UTC-11) Samoa Islands",
+   "(UTC-11) Insulele Samoa"
+  ],
+  "(UTC-3:30)纽芬兰": [
+   "(UTC-3:30) Newfoundland",
+   "(UTC-3:30) Newfoundland"
+  ],
+  "1. 当前无线网络名称为：": [
+   "1. The current wireless network name is:",
+   "1. Numele rețelei wireless curente este:"
+  ],
+  "IPv6自动配置模式应用中": [
+   "IPv6 auto-configuration mode is being applied",
+   "Modul de configurare automată IPv6 este în curs de aplicare"
+  ],
+  "WAN1优先，WAN2备份": [
+   "WAN1 primary, WAN2 backup",
+   "WAN1 principal, WAN2 rezervă"
+  ],
+  "WAN2优先，WAN1备份": [
+   "WAN2 primary, WAN1 backup",
+   "WAN2 principal, WAN1 rezervă"
+  ],
+  "s后才能开启，请稍候...": [
+   "s before it can be enabled, please wait...",
+   "s înainte de activare, așteptați..."
+  ],
+  "你什么都没改变，提交什么啊": [
+   "You changed nothing, what is there to submit",
+   "Nu ați modificat nimic, ce să trimiteți"
+  ],
+  "原因，路由器设置备份失败！": [
+   "Reason: router settings backup failed!",
+   "Motiv: copia de rezervă a setărilor routerului a eșuat!"
+  ],
+  "存在IP冲突，请检查输入项": [
+   "IP conflict exists, please check your input",
+   "Există un conflict IP, verificați datele introduse"
+  ],
+  "小米Wi-Fi 7 路由器": [
+   "Xiaomi Wi-Fi 7 Router",
+   "Router Xiaomi Wi-Fi 7"
+  ],
+  "小米路由器的管理后台IP为": [
+   "The router's admin console IP is",
+   "IP-ul consolei de administrare a routerului este"
+  ],
+  "搜索要添加的Mesh子路由": [
+   "Search for a Mesh sub-router to add",
+   "Căutare sub-router Mesh de adăugat"
+  ],
+  "未找到可用的Mesh子路由": [
+   "No available Mesh sub-router found",
+   "Nu s-a găsit niciun sub-router Mesh disponibil"
+  ],
+  "正在检测更新，请稍候...": [
+   "Checking for updates, please wait...",
+   "Se verifică actualizările, așteptați..."
+  ],
+  "添加要使用VPN的服务地址": [
+   "Add the service addresses that should use the VPN",
+   "Adăugați adresele serviciilor care vor folosi VPN-ul"
+  ],
+  "联系运营商查询宽带是否欠费": [
+   "Contact your ISP to check whether the broadband account is overdue",
+   "Contactați furnizorul pentru a verifica dacă abonamentul de bandă largă are restanțe"
+  ],
+  "花生壳（oray.com）": [
+   "Oray (oray.com)",
+   "Oray (oray.com)"
+  ],
+  "请检查账号密码是否输入正确": [
+   "Check that the account and password are entered correctly",
+   "Verificați dacă contul și parola sunt introduse corect"
+  ],
+  "请选择一个网口作为游戏网口": [
+   "Select a port to be the gaming port",
+   "Selectați un port ca port de jocuri"
+  ],
+  "请选择要扩大范围的无线网络": [
+   "Select the wireless network to extend",
+   "Selectați rețeaua wireless de extins"
+  ],
+  "请选择需要使用VPN的设备": [
+   "Select the devices that should use the VPN",
+   "Selectați dispozitivele care vor folosi VPN-ul"
+  ],
+  "超强加密(WPA3个人版)": [
+   "Ultra-strong encryption (WPA3 Personal)",
+   "Criptare ultra-puternică (WPA3 Personal)"
+  ],
+  "路由器名称和路由器管理密码": [
+   "Router name and router admin password",
+   "Numele routerului și parola de administrare"
+  ],
+  "选择要添加的Mesh子路由": [
+   "Select the Mesh sub-router to add",
+   "Selectați sub-routerul Mesh de adăugat"
+  ],
+  "(UTC+10)关岛，塞班岛": [
+   "(UTC+10) Guam, Saipan",
+   "(UTC+10) Guam, Saipan"
+  ],
+  "(UTC+3)科威特,利雅得": [
+   "(UTC+3) Kuwait, Riyadh",
+   "(UTC+3) Kuweit, Riad"
+  ],
+  "(UTC+5:45)加德满都": [
+   "(UTC+5:45) Kathmandu",
+   "(UTC+5:45) Kathmandu"
+  ],
+  "(UTC+8)吉隆坡,新加坡": [
+   "(UTC+8) Kuala Lumpur, Singapore",
+   "(UTC+8) Kuala Lumpur, Singapore"
+  ],
+  "(UTC+9:30)阿德莱德": [
+   "(UTC+9:30) Adelaide",
+   "(UTC+9:30) Adelaide"
+  ],
+  "(UTC-3)卡宴,福塔雷萨": [
+   "(UTC-3) Cayenne, Fortaleza",
+   "(UTC-3) Cayenne, Fortaleza"
+  ],
+  "(UTC-3)布宜诺斯艾利斯": [
+   "(UTC-3) Buenos Aires",
+   "(UTC-3) Buenos Aires"
+  ],
+  "(UTC-3:30)圣约翰斯": [
+   "(UTC-3:30) St. John's",
+   "(UTC-3:30) St. John's"
+  ],
+  "(UTC-4:30)加拉加斯": [
+   "(UTC-4:30) Caracas",
+   "(UTC-4:30) Caracas"
+  ],
+  "(UTC-8)下加利福尼亚州": [
+   "(UTC-8) Baja California",
+   "(UTC-8) Baja California"
+  ],
+  ", 等待自动跳转... 用时": [
+   ", waiting for automatic redirect... elapsed",
+   ", se așteaptă redirecționarea automată... timp scurs"
+  ],
+  "DHCP服务和局域网IP设置": [
+   "DHCP service and LAN IP settings",
+   "Serviciu DHCP și setări IP LAN"
+  ],
+  "你的版本是最新的，无需升级。": [
+   "Your version is the latest, no upgrade needed.",
+   "Versiunea dvs. este cea mai recentă, nu este necesară actualizarea."
+  ],
+  "双WAN设置中，请稍等...": [
+   "Dual WAN is being set up, please wait...",
+   "Se configurează dual WAN, așteptați..."
+  ],
+  "域名需从服务商平台申请获得。": [
+   "The domain name must be obtained from the provider's platform.",
+   "Numele de domeniu trebuie obținut de pe platforma furnizorului."
+  ],
+  "如何扩展1000台终端接入？": [
+   "How to support 1000 connected terminals?",
+   "Cum se acceptă 1000 de terminale conectate?"
+  ],
+  "局域网设备获取IP地址方式：": [
+   "How LAN devices obtain IP addresses:",
+   "Cum obțin dispozitivele LAN adrese IP:"
+  ],
+  "数字前面好像有多余的 0 。": [
+   "There seems to be an extra 0 before the number.",
+   "Pare să existe un 0 în plus înaintea numărului."
+  ],
+  "新建的有线中继无线网络名称为": [
+   "The new wired repeater wireless network name is",
+   "Numele noii rețele wireless a repetorului prin cablu este"
+  ],
+  "无限速阈值，请先进行限速设置": [
+   "No speed limit threshold, please set a speed limit first",
+   "Nu există prag de viteză, setați mai întâi o limită de viteză"
+  ],
+  "正在连接Mesh子路由...": [
+   "Connecting to Mesh sub-router...",
+   "Se conectează la sub-routerul Mesh..."
+  ],
+  "确认是否关闭LAN口聚合功能": [
+   "Confirm turning off the LAN port aggregation feature?",
+   "Confirmați dezactivarea funcției de agregare porturi LAN?"
+  ],
+  "系统根据设备需要自动调配网速": [
+   "The system allocates network speed automatically according to device needs",
+   "Sistemul alocă automat viteza rețelei în funcție de nevoile dispozitivelor"
+  ],
+  "联网方式设置中，请稍等...": [
+   "Connection method is being set up, please wait...",
+   "Metoda de conectare este în curs de configurare, așteptați..."
+  ],
+  "设置成功，正在重启，请等待…": [
+   "Settings saved, restarting, please wait…",
+   "Setări salvate, se repornește, așteptați…"
+  ],
+  "请不要关闭浏览器或断开路由器": [
+   "Do not close the browser or disconnect the router",
+   "Nu închideți browserul și nu deconectați routerul"
+  ],
+  "请检查您输入的电话分机号码。": [
+   "Check the phone extension you entered.",
+   "Verificați interiorul telefonic introdus."
+  ],
+  "请选择网口作为WAN口，并在": [
+   "Select a port as the WAN port, and in",
+   "Selectați un port ca port WAN și în"
+  ],
+  "请选择需要聚合的两个LAN口": [
+   "Select the two LAN ports to aggregate",
+   "Selectați cele două porturi LAN de agregat"
+  ],
+  "需在-85~-55范围内取值": [
+   "Value must be in the range -85 to -55",
+   "Valoarea trebuie să fie în intervalul -85 până la -55"
+  ],
+  "需在-90~-60范围内取值": [
+   "Value must be in the range -90 to -60",
+   "Valoarea trebuie să fie în intervalul -90 până la -60"
+  ],
+  "需在-95~-65范围内取值": [
+   "Value must be in the range -95 to -65",
+   "Valoarea trebuie să fie în intervalul -95 până la -65"
+  ],
+  "，正在尝试特殊拨号模式...": [
+   ", trying special dial-up mode...",
+   ", se încearcă modul special de apelare..."
+  ],
+  "，正在检测更新，请稍候...": [
+   ", checking for updates, please wait...",
+   ", se verifică actualizările, așteptați..."
+  ],
+  "(UTC)蒙罗维亚,雷克雅未克": [
+   "(UTC) Monrovia, Reykjavik",
+   "(UTC) Monrovia, Reykjavik"
+  ],
+  "(UTC+11)符拉迪沃斯托克": [
+   "(UTC+11) Vladivostok",
+   "(UTC+11) Vladivostok"
+  ],
+  "(UTC+12)奥克兰,惠灵顿": [
+   "(UTC+12) Auckland, Wellington",
+   "(UTC+12) Auckland, Wellington"
+  ],
+  "(UTC+12:45)查塔姆岛": [
+   "(UTC+12:45) Chatham Islands",
+   "(UTC+12:45) Insulele Chatham"
+  ],
+  "(UTC+2)雅典,布加勒斯特": [
+   "(UTC+2) Athens, Bucharest",
+   "(UTC+2) Atena, București"
+  ],
+  "(UTC+5)伊斯兰堡,卡拉奇": [
+   "(UTC+5) Islamabad, Karachi",
+   "(UTC+5) Islamabad, Karachi"
+  ],
+  "(UTC+8)克拉斯诺亚尔斯克": [
+   "(UTC+8) Krasnoyarsk",
+   "(UTC+8) Krasnoiarsk"
+  ],
+  "(UTC+9)大阪,札幌,东京": [
+   "(UTC+9) Osaka, Sapporo, Tokyo",
+   "(UTC+9) Osaka, Sapporo, Tokyo"
+  ],
+  "(UTC-2)协调世界时-02": [
+   "(UTC-2) Coordinated Universal Time-02",
+   "(UTC-2) Timp universal coordonat-02"
+  ],
+  "(UTC-7)奇瓦瓦，马萨特兰": [
+   "(UTC-7) Chihuahua, Mazatlan",
+   "(UTC-7) Chihuahua, Mazatlán"
+  ],
+  "1. 此路由已生效的VPN服务": [
+   "1. VPN services already in effect on this router",
+   "1. Servicii VPN deja active pe acest router"
+  ],
+  "2、将主路由升至最新固件版本；": [
+   "2. Upgrade the main router to the latest firmware version;",
+   "2. Actualizați routerul principal la cea mai recentă versiune de firmware;"
+  ],
+  "Redmi路由器 AX3000": [
+   "Redmi Router AX3000",
+   "Router Redmi AX3000"
+  ],
+  "WAN/LAN口自适应（推荐）": [
+   "WAN/LAN port auto-adaptive (recommended)",
+   "Adaptare automată port WAN/LAN (recomandat)"
+  ],
+  "Xiaomi路由器BE6500": [
+   "Xiaomi Router BE6500",
+   "Router Xiaomi BE6500"
+  ],
+  "Xiaomi路由器BE7000": [
+   "Xiaomi Router BE7000",
+   "Router Xiaomi BE7000"
+  ],
+  "关闭成功，生效中，请稍候...": [
+   "Turned off successfully, taking effect, please wait...",
+   "Dezactivat cu succes, se aplică, așteptați..."
+  ],
+  "支持小米Mesh组网的路由产品": [
+   "Router products that support Xiaomi Mesh networking",
+   "Routere care acceptă rețele Xiaomi Mesh"
+  ],
+  "是否确定切换路由器的工作模式？": [
+   "Are you sure you want to switch the router's work mode?",
+   "Sigur doriți să schimbați modul de lucru al routerului?"
+  ],
+  "智能识别网口“1”作为WAN口": [
+   "Smart detection: port \"1\" as the WAN port",
+   "Detectare inteligentă: portul \"1\" ca port WAN"
+  ],
+  "确认要解除选中项目的绑定关系？": [
+   "Unbind the selected items?",
+   "Disociați elementele selectate?"
+  ],
+  "经过检测，建议使用静态IP方式": [
+   "Detection suggests using a static IP",
+   "Detectarea sugerează utilizarea unui IP static"
+  ],
+  "错误：策略数量最大值为1000": [
+   "Error: the maximum number of policies is 1000",
+   "Eroare: numărul maxim de politici este 1000"
+  ],
+  "阿里云（alidns.com）": [
+   "Alibaba Cloud (alidns.com)",
+   "Alibaba Cloud (alidns.com)"
+  ],
+  "需在-100~-70范围内取值": [
+   "Value must be in the range -100 to -70",
+   "Valoarea trebuie să fie în intervalul -100 până la -70"
+  ],
+  "，你的版本是最新的，无需升级。": [
+   ", your version is the latest, no upgrade needed.",
+   ", versiunea dvs. este cea mai recentă, nu este necesară actualizarea."
+  ],
+  "(UTC+1)卡萨布兰卡，阿伊恩": [
+   "(UTC+1) Casablanca, El Aaiún",
+   "(UTC+1) Casablanca, El Aaiún"
+  ],
+  "(UTC+10)关岛,莫尔兹比港": [
+   "(UTC+10) Guam, Port Moresby",
+   "(UTC+10) Guam, Port Moresby"
+  ],
+  "(UTC+10)布里斯班，林德曼": [
+   "(UTC+10) Brisbane, Lindeman",
+   "(UTC+10) Brisbane, Lindeman"
+  ],
+  "(UTC+12)协调世界时+12": [
+   "(UTC+12) Coordinated Universal Time+12",
+   "(UTC+12) Timp universal coordonat+12"
+  ],
+  "(UTC+2)哈拉雷,比勒陀利亚": [
+   "(UTC+2) Harare, Pretoria",
+   "(UTC+2) Harare, Pretoria"
+  ],
+  "(UTC+3)莫斯科，辛菲罗波尔": [
+   "(UTC+3) Moscow, Simferopol",
+   "(UTC+3) Moscova, Simferopol"
+  ],
+  "(UTC+4)阿布扎比,马斯喀特": [
+   "(UTC+4) Abu Dhabi, Muscat",
+   "(UTC+4) Abu Dhabi, Muscat"
+  ],
+  "(UTC+6:30)仰光，科科斯": [
+   "(UTC+6:30) Yangon, Cocos",
+   "(UTC+6:30) Yangon, Cocos"
+  ],
+  "(UTC+7)曼谷,河内,雅加达": [
+   "(UTC+7) Bangkok, Hanoi, Jakarta",
+   "(UTC+7) Bangkok, Hanoi, Jakarta"
+  ],
+  "(UTC+8:30)朝鲜标准时间": [
+   "(UTC+8:30) Korea Standard Time",
+   "(UTC+8:30) Ora standard a Coreei"
+  ],
+  "(UTC-11)中途岛，帕果帕果": [
+   "(UTC-11) Midway, Pago Pago",
+   "(UTC-11) Midway, Pago Pago"
+  ],
+  "(UTC-12)国际日期变更线西": [
+   "(UTC-12) International Date Line West",
+   "(UTC-12) Linia internațională a datei (vest)"
+  ],
+  "(UTC-5)印第安纳州(东部)": [
+   "(UTC-5) Indiana (East)",
+   "(UTC-5) Indiana (Est)"
+  ],
+  "(UTC-5)波哥大,利马,基多": [
+   "(UTC-5) Bogota, Lima, Quito",
+   "(UTC-5) Bogotá, Lima, Quito"
+  ],
+  "(UTC-9:30)马克萨斯群岛": [
+   "(UTC-9:30) Marquesas Islands",
+   "(UTC-9:30) Insulele Marquesas"
+  ],
+  "3. WAN/LAN口自适应功能": [
+   "3. WAN/LAN port auto-adaptive feature",
+   "3. Funcția de adaptare automată port WAN/LAN"
+  ],
+  "TWT节能模式兼容性问题解决办法": [
+   "Fix for TWT power saving mode compatibility issues",
+   "Remedierea problemelor de compatibilitate ale modului TWT"
+  ],
+  "优先保证看视频的网速，高清也流畅": [
+   "Prioritizes network speed for video, smooth even in HD",
+   "Prioritizează viteza rețelei pentru video, fluid chiar și în HD"
+  ],
+  "字节（网络正常情况下不建议修改）": [
+   "bytes (changing is not recommended when the network is normal)",
+   "octeți (modificarea nu este recomandată când rețeaua funcționează normal)"
+  ],
+  "小米AIoT路由器 AX1800": [
+   "Xiaomi AIoT Router AX1800",
+   "Router Xiaomi AIoT AX1800"
+  ],
+  "小米AIoT路由器 AX3600": [
+   "Xiaomi AIoT Router AX3600",
+   "Router Xiaomi AIoT AX3600"
+  ],
+  "少数设备可能不支持中文或特殊字符": [
+   "A few devices may not support Chinese or special characters",
+   "Unele dispozitive pot să nu accepte caractere chinezești sau speciale"
+  ],
+  "端口转发开启了，不可以设置DMZ": [
+   "Port forwarding is enabled, DMZ cannot be set",
+   "Redirecționarea porturilor este activată, DMZ nu poate fi setat"
+  ],
+  "联系运营商了解是否当地有线路故障": [
+   "Contact your ISP to find out whether there is a local line fault",
+   "Contactați furnizorul pentru a afla dacă există o defecțiune locală a liniei"
+  ],
+  "(UTC-10)拉罗汤加，塔希提岛": [
+   "(UTC-10) Rarotonga, Tahiti",
+   "(UTC-10) Rarotonga, Tahiti"
+  ],
+  "(UTC-2)诺罗尼亚，南乔治亚岛": [
+   "(UTC-2) Noronha, South Georgia",
+   "(UTC-2) Noronha, Georgia de Sud"
+  ],
+  "(UTC-4)大西洋时间(加拿大)": [
+   "(UTC-4) Atlantic Time (Canada)",
+   "(UTC-4) Ora Atlanticului (Canada)"
+  ],
+  "2. VPN服务与智能VPN分流。": [
+   "2. VPN service and smart VPN traffic splitting.",
+   "2. Serviciu VPN și distribuire inteligentă a traficului VPN."
+  ],
+  "2. 当前小米路由器的IP地址为：": [
+   "2. The current Xiaomi router IP address is:",
+   "2. Adresa IP curentă a routerului Xiaomi este:"
+  ],
+  "IPTV VLAN优先级(0~7)": [
+   "IPTV VLAN priority (0~7)",
+   "Prioritate VLAN IPTV (0~7)"
+  ],
+  "WAN1口/WAN2口转发比例设置": [
+   "WAN1/WAN2 forwarding ratio settings",
+   "Setări raport redirecționare WAN1/WAN2"
+  ],
+  "上网设置(拨号方式和宽带账号密码)": [
+   "Internet settings (dial-up method and broadband account/password)",
+   "Setări internet (metodă de apelare și cont/parolă bandă largă)"
+  ],
+  "优先保证打游戏的网速，不卡顿不掉线": [
+   "Prioritizes network speed for gaming, no lag or drops",
+   "Prioritizează viteza rețelei pentru jocuri, fără lag sau căderi"
+  ],
+  "优先保证浏览网页的网速，大图秒打开": [
+   "Prioritizes network speed for web browsing, large images open instantly",
+   "Prioritizează viteza rețelei pentru navigare, imaginile mari se deschid instant"
+  ],
+  "升级失败，系统错误或路由硬盘已满。": [
+   "Upgrade failed: system error or the router disk is full.",
+   "Actualizare eșuată: eroare de sistem sau discul routerului este plin."
+  ],
+  "恭喜，小米路由器一键中继设置成功！": [
+   "Congratulations, Xiaomi router one-tap repeater setup succeeded!",
+   "Felicitări, configurarea repetorului Xiaomi cu o atingere a reușit!"
+  ],
+  "无线网络的名称密码与目标路由器一致": [
+   "The wireless network name and password match the target router",
+   "Numele și parola rețelei wireless coincid cu cele ale routerului țintă"
+  ],
+  "有线中继工作模式（扩展现有的网络）": [
+   "Wired repeater work mode (extend an existing network)",
+   "Mod repetor prin cablu (extinde o rețea existentă)"
+  ],
+  "检查WAN口接入的宽带是否已经变更": [
+   "Check whether the broadband connected to the WAN port has changed",
+   "Verificați dacă conexiunea de bandă largă de la portul WAN s-a schimbat"
+  ],
+  "检查失败，网络繁忙请刷新页面重试。": [
+   "Check failed, the network is busy, refresh the page and try again.",
+   "Verificare eșuată, rețeaua este ocupată, reîncărcați pagina și încercați din nou."
+  ],
+  "此操作需要重启才能生效，是否提交?": [
+   "This operation requires a restart to take effect. Submit?",
+   "Această operație necesită repornire pentru a avea efect. Trimiteți?"
+  ],
+  "混合加密(WPA/WPA2个人版)": [
+   "Mixed encryption (WPA/WPA2 Personal)",
+   "Criptare mixtă (WPA/WPA2 Personal)"
+  ],
+  "白名单模式（只允许列表中设备访问）": [
+   "Allowlist mode (only devices in the list can access)",
+   "Mod listă permisă (doar dispozitivele din listă au acces)"
+  ],
+  "黑名单模式（不允许列表中设备访问）": [
+   "Blocklist mode (devices in the list cannot access)",
+   "Mod listă blocată (dispozitivele din listă nu au acces)"
+  ],
+  "(UTC+10)堪培拉,墨尔本,悉尼": [
+   "(UTC+10) Canberra, Melbourne, Sydney",
+   "(UTC+10) Canberra, Melbourne, Sydney"
+  ],
+  "(UTC+5:30)斯里加亚渥登普拉": [
+   "(UTC+5:30) Sri Jayawardenepura",
+   "(UTC+5:30) Sri Jayawardenepura"
+  ],
+  "3.中继模式下部分功能和插件将被屏蔽": [
+   "3. Some features and plug-ins are disabled in repeater mode",
+   "3. Unele funcții și plugin-uri sunt dezactivate în modul repetor"
+  ],
+  "IPv6网络方式设置中，请稍等...": [
+   "IPv6 network method is being set up, please wait...",
+   "Metoda de rețea IPv6 este în curs de configurare, așteptați..."
+  ],
+  "仅支持WPA加密方式的设备将无法连接": [
+   "Devices that only support WPA encryption will not be able to connect",
+   "Dispozitivele care acceptă doar criptarea WPA nu se vor putea conecta"
+  ],
+  "安装失败，系统错误或路由器空间不足。": [
+   "Installation failed: system error or insufficient router space.",
+   "Instalare eșuată: eroare de sistem sau spațiu insuficient pe router."
+  ],
+  "将两个LAN口聚合，实现网口速率叠加": [
+   "Aggregate two LAN ports to add up the port speeds",
+   "Agregați două porturi LAN pentru a însuma vitezele porturilor"
+  ],
+  "最多接入设备为1000台，请重新设置": [
+   "The maximum number of connected devices is 1000, please set again",
+   "Numărul maxim de dispozitive conectate este 1000, setați din nou"
+  ],
+  "未能扫描到Wi-Fi,请确保射频开启": [
+   "No Wi-Fi found, make sure the radio is on",
+   "Nu s-a găsit Wi-Fi, asigurați-vă că radioul este pornit"
+  ],
+  "设置成功，稍后生效，请等待一会刷新。": [
+   "Settings saved, they will take effect shortly, please wait and refresh.",
+   "Setări salvate, vor avea efect în curând, așteptați și reîncărcați."
+  ],
+  "通过MAC地址添加要使用VPN的设备": [
+   "Add devices that should use the VPN by MAC address",
+   "Adăugați după adresa MAC dispozitivele care vor folosi VPN-ul"
+  ],
+  "(UTC)都柏林,爱丁堡,里斯本,伦敦": [
+   "(UTC) Dublin, Edinburgh, Lisbon, London",
+   "(UTC) Dublin, Edinburgh, Lisabona, Londra"
+  ],
+  "(UTC+1)阿布贾，阿尔及尔，突尼斯": [
+   "(UTC+1) Abuja, Algiers, Tunis",
+   "(UTC+1) Abuja, Alger, Tunis"
+  ],
+  "(UTC+11:30)诺福克岛标准时间": [
+   "(UTC+11:30) Norfolk Island Standard Time",
+   "(UTC+11:30) Ora standard a Insulei Norfolk"
+  ],
+  "(UTC+8)中国澳门，上海，中国台北": [
+   "(UTC+8) Macau, Shanghai, Taipei",
+   "(UTC+8) Macao, Shanghai, Taipei"
+  ],
+  "(UTC-10)夏威夷－阿留申标准时间": [
+   "(UTC-10) Hawaii-Aleutian Standard Time",
+   "(UTC-10) Ora standard Hawaii-Aleutine"
+  ],
+  "(UTC-5)东部时间(美国和加拿大)": [
+   "(UTC-5) Eastern Time (US and Canada)",
+   "(UTC-5) Ora de Est (SUA și Canada)"
+  ],
+  "(UTC-6)中部时间(美国和加拿大)": [
+   "(UTC-6) Central Time (US and Canada)",
+   "(UTC-6) Ora centrală (SUA și Canada)"
+  ],
+  "(UTC-7)奇瓦瓦,拉巴斯,马萨特兰": [
+   "(UTC-7) Chihuahua, La Paz, Mazatlan",
+   "(UTC-7) Chihuahua, La Paz, Mazatlán"
+  ],
+  "(UTC-7)山地时间(美国和加拿大)": [
+   "(UTC-7) Mountain Time (US and Canada)",
+   "(UTC-7) Ora muntelui (SUA și Canada)"
+  ],
+  "Xiaomi路由器BE6500 Pro": [
+   "Xiaomi Router BE6500 Pro",
+   "Router Xiaomi BE6500 Pro"
+  ],
+  "判断是否超出DHCP服务所设定的IP段": [
+   "Checks whether the IP exceeds the range set by the DHCP service",
+   "Verifică dacă IP-ul depășește intervalul setat de serviciul DHCP"
+  ],
+  "强混合加密(WPA3/WPA2个人版)": [
+   "Strong mixed encryption (WPA3/WPA2 Personal)",
+   "Criptare mixtă puternică (WPA3/WPA2 Personal)"
+  ],
+  "接入到运营商宽带的网线可以插在任意网口": [
+   "The cable from the ISP broadband can be plugged into any port",
+   "Cablul de la furnizorul de bandă largă poate fi conectat la orice port"
+  ],
+  "提示：中继模式下部分功能和插件将被屏蔽": [
+   "Note: some features and plug-ins are disabled in repeater mode",
+   "Notă: unele funcții și plugin-uri sunt dezactivate în modul repetor"
+  ],
+  "无线中继工作模式（扩展现有的无线网络）": [
+   "Wireless repeater work mode (extend an existing wireless network)",
+   "Mod repetor wireless (extinde o rețea wireless existentă)"
+  ],
+  "无线中继模式下，暂不支持Mesh组网。": [
+   "Mesh networking is not supported in wireless repeater mode.",
+   "Rețeaua Mesh nu este acceptată în modul repetor wireless."
+  ],
+  "星期一,星期二,星期三,星期四,星期五": [
+   "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "Luni, Marți, Miercuri, Joi, Vineri"
+  ],
+  "普通路由器工作模式（创建一个无线网络）": [
+   "Normal router work mode (create a wireless network)",
+   "Mod normal de router (creează o rețea wireless)"
+  ],
+  "添加失败，Mesh路由不能添加到黑名单": [
+   "Add failed, a Mesh router cannot be added to the blocklist",
+   "Adăugare eșuată, un router Mesh nu poate fi adăugat în lista blocată"
+  ],
+  "若当前已完成Mesh组网，将自动断开。": [
+   "If a Mesh network has already been set up, it will be disconnected automatically.",
+   "Dacă o rețea Mesh a fost deja configurată, va fi deconectată automat."
+  ],
+  "该MAC地址与当前使用的MAC地址相同": [
+   "This MAC address is the same as the one currently in use",
+   "Această adresă MAC este aceeași cu cea utilizată în prezent"
+  ],
+  "黑白名单名称不支持特殊字符$ &#38": [
+   "Allow/block list names do not support the special characters $ &",
+   "Numele listelor permise/blocate nu acceptă caracterele speciale $ &"
+  ],
+  "(UTC+11)所罗门群岛,新喀里多尼亚": [
+   "(UTC+11) Solomon Islands, New Caledonia",
+   "(UTC+11) Insulele Solomon, Noua Caledonie"
+  ],
+  "(UTC+12)惠灵顿，麦克默多，奥克兰": [
+   "(UTC+12) Wellington, McMurdo, Auckland",
+   "(UTC+12) Wellington, McMurdo, Auckland"
+  ],
+  "(UTC+12:45)查塔姆群岛标准时间": [
+   "(UTC+12:45) Chatham Islands Standard Time",
+   "(UTC+12:45) Ora standard a Insulelor Chatham"
+  ],
+  "(UTC+13)恩德伯里，法考福，通塔普": [
+   "(UTC+13) Enderbury, Fakaofo, Tongatapu",
+   "(UTC+13) Enderbury, Fakaofo, Tongatapu"
+  ],
+  "(UTC+2)开罗，特里波利，加里宁格勒": [
+   "(UTC+2) Cairo, Tripoli, Kaliningrad",
+   "(UTC+2) Cairo, Tripoli, Kaliningrad"
+  ],
+  "(UTC+9:30)阿德莱德，布罗肯希尔": [
+   "(UTC+9:30) Adelaide, Broken Hill",
+   "(UTC+9:30) Adelaide, Broken Hill"
+  ],
+  "(UTC-1)斯科尔斯比松德，亚速尔群岛": [
+   "(UTC-1) Scoresbysund, Azores",
+   "(UTC-1) Scoresbysund, Azore"
+  ],
+  "(UTC-8)太平洋时间(美国和加拿大)": [
+   "(UTC-8) Pacific Time (US and Canada)",
+   "(UTC-8) Ora Pacificului (SUA și Canada)"
+  ],
+  "(UTC-9:30)马克萨斯群岛标准时间": [
+   "(UTC-9:30) Marquesas Islands Standard Time",
+   "(UTC-9:30) Ora standard a Insulelor Marquesas"
+  ],
+  "1. 到相应终端制造商官网下载更新驱动；": [
+   "1. Download updated drivers from the terminal manufacturer's website;",
+   "1. Descărcați drivere actualizate de pe site-ul producătorului terminalului;"
+  ],
+  "双WAN模式下，不支持在此处设置外网带宽": [
+   "In dual WAN mode, setting WAN bandwidth here is not supported",
+   "În modul dual WAN, setarea lățimii de bandă WAN aici nu este acceptată"
+  ],
+  "可用端口不足，请先关闭其他端口功能后再试": [
+   "Not enough ports available, turn off other port features first and try again",
+   "Nu sunt suficiente porturi disponibile, dezactivați mai întâi alte funcții de port și încercați din nou"
+  ],
+  "开启或关闭此路由器的网络和系统状态指示灯": [
+   "Turn the router's network and system status lights on or off",
+   "Pornește sau oprește luminile de stare ale rețelei și sistemului routerului"
+  ],
+  "日期输入格式为 YYYY-MM-DD 。": [
+   "Dates must be entered in the format YYYY-MM-DD.",
+   "Datele trebuie introduse în formatul YYYY-MM-DD."
+  ],
+  "聚合失败，检测到聚合的LAN口未插入网线": [
+   "Aggregation failed, no cable detected in the aggregated LAN ports",
+   "Agregare eșuată, nu s-a detectat cablu în porturile LAN agregate"
+  ],
+  "设置成功正在重启，需要30秒请等待...": [
+   "Settings saved, restarting, it takes 30 seconds, please wait...",
+   "Setări salvate, se repornește, durează 30 de secunde, așteptați..."
+  ],
+  "路由器设置恢复成功，重启路由器即可生效！": [
+   "Router settings restored successfully, restart the router to apply them!",
+   "Setările routerului au fost restabilite, reporniți routerul pentru a le aplica!"
+  ],
+  "(UTC+0)加那利，法罗，马德拉，里斯本": [
+   "(UTC+0) Canary, Faroe, Madeira, Lisbon",
+   "(UTC+0) Canare, Feroe, Madeira, Lisabona"
+  ],
+  "(UTC+0)根西岛，马恩岛，泽西岛，伦敦": [
+   "(UTC+0) Guernsey, Isle of Man, Jersey, London",
+   "(UTC+0) Guernsey, Insula Man, Jersey, Londra"
+  ],
+  "(UTC+10)柯里，霍巴特，墨尔本，悉尼": [
+   "(UTC+10) Currie, Hobart, Melbourne, Sydney",
+   "(UTC+10) Currie, Hobart, Melbourne, Sydney"
+  ],
+  "(UTC+10:30)澳大利亚远东标准时间": [
+   "(UTC+10:30) Australian Far East Standard Time",
+   "(UTC+10:30) Ora standard a Extremului Orient australian"
+  ],
+  "(UTC+2)约翰内斯堡，马塞卢，姆巴巴内": [
+   "(UTC+2) Johannesburg, Maseru, Mbabane",
+   "(UTC+2) Johannesburg, Maseru, Mbabane"
+  ],
+  "(UTC+4)莫斯科,圣彼得堡,伏尔加格勒": [
+   "(UTC+4) Moscow, St. Petersburg, Volgograd",
+   "(UTC+4) Moscova, Sankt Petersburg, Volgograd"
+  ],
+  "(UTC-6)瓜达拉哈拉,墨西哥城,蒙特雷": [
+   "(UTC-6) Guadalajara, Mexico City, Monterrey",
+   "(UTC-6) Guadalajara, Ciudad de México, Monterrey"
+  ],
+  "1、漫游调优功能仅在Mesh组网模式下支持": [
+   "1. Roaming optimization is only supported in Mesh networking mode",
+   "1. Optimizarea roamingului este acceptată doar în modul rețea Mesh"
+  ],
+  "2.将信息添加到服务中，并启用该VPN服务": [
+   "2. Add the information to the service and enable the VPN service",
+   "2. Adăugați informațiile la serviciu și activați serviciul VPN"
+  ],
+  "2、保存子网掩码配置，系统将自动重启并开启": [
+   "2. After saving the subnet mask configuration, the system restarts and turns on automatically",
+   "2. După salvarea configurației măștii de subrețea, sistemul repornește și pornește automat"
+  ],
+  "WAN IPv6地址前缀长度默认为128位": [
+   "The default WAN IPv6 prefix length is 128 bits",
+   "Lungimea implicită a prefixului IPv6 WAN este de 128 de biți"
+  ],
+  "你可以自定义哪些服务或设备会走VPN的流量": [
+   "You can customize which services or devices use VPN traffic",
+   "Puteți personaliza ce servicii sau dispozitive folosesc traficul VPN"
+  ],
+  "在路由器工作模式和中继工作模式之间进行切换": [
+   "Switch between router work mode and repeater work mode",
+   "Comutare între modul router și modul repetor"
+  ],
+  "恭喜，小米路由器一键有线中继模式设置成功！": [
+   "Congratulations, Xiaomi router one-tap wired repeater setup succeeded!",
+   "Felicitări, configurarea repetorului Xiaomi prin cablu cu o atingere a reușit!"
+  ],
+  "您可以选择以下两种方式来新增Mesh子路由": [
+   "You can add a Mesh sub-router in the following two ways",
+   "Puteți adăuga un sub-router Mesh în următoarele două moduri"
+  ],
+  "聚合中，请确保接入聚合口的设备支持聚合功能": [
+   "Aggregating, make sure the devices on the aggregated ports support aggregation",
+   "Se agregă, asigurați-vă că dispozitivele de pe porturile agregate acceptă agregarea"
+  ],
+  "黑白名单名称不支持特殊字符$ | ；‘ ·": [
+   "Allow/block list names do not support the special characters $ | ; ' ·",
+   "Numele listelor permise/blocate nu acceptă caracterele speciale $ | ; ' ·"
+  ],
+  "(UTC-4)乔治敦,拉巴斯,马瑙斯,圣湖安": [
+   "(UTC-4) Georgetown, La Paz, Manaus, San Juan",
+   "(UTC-4) Georgetown, La Paz, Manaus, San Juan"
+  ],
+  "外网接口为需进行DDNS服务解析的WAN口；": [
+   "The WAN interface is the WAN port that needs DDNS resolution;",
+   "Interfața WAN este portul WAN care necesită rezolvare DDNS;"
+  ],
+  "该操作会关闭路由器所有指示灯及氛围灯，请确认": [
+   "This will turn off all router indicator lights and ambient lights, please confirm",
+   "Aceasta va opri toate indicatoarele luminoase și luminile ambientale ale routerului, confirmați"
+  ],
+  "(UTC+1)布鲁塞尔,哥本哈根,马德里,巴黎": [
+   "(UTC+1) Brussels, Copenhagen, Madrid, Paris",
+   "(UTC+1) Bruxelles, Copenhaga, Madrid, Paris"
+  ],
+  "(UTC+12)富纳富蒂，夸贾林，马朱罗，瑙鲁": [
+   "(UTC+12) Funafuti, Kwajalein, Majuro, Nauru",
+   "(UTC+12) Funafuti, Kwajalein, Majuro, Nauru"
+  ],
+  "2.切换为无线中继模式后，Mesh功能将不可用": [
+   "2. After switching to wireless repeater mode, the Mesh feature will be unavailable",
+   "2. După trecerea la modul repetor wireless, funcția Mesh nu va fi disponibilă"
+  ],
+  "4、将待添加的子路由升至最新固件，并重置后重试": [
+   "4. Upgrade the sub-router to be added to the latest firmware, reset it, and try again",
+   "4. Actualizați sub-routerul de adăugat la cel mai recent firmware, resetați-l și încercați din nou"
+  ],
+  "切换为无线中继模式后，您的访客wifi将被关闭": [
+   "After switching to wireless repeater mode, your guest Wi-Fi will be turned off",
+   "După trecerea la modul repetor wireless, Wi-Fi-ul pentru oaspeți va fi dezactivat"
+  ],
+  "切换为有线中继模式后，您的访客wifi将被关闭": [
+   "After switching to wired repeater mode, your guest Wi-Fi will be turned off",
+   "După trecerea la modul repetor prin cablu, Wi-Fi-ul pentru oaspeți va fi dezactivat"
+  ],
+  "办法4:尝试调整WAN口协商速率，然后重新拨号": [
+   "Method 4: try adjusting the WAN port negotiated speed, then dial again",
+   "Metoda 4: încercați să ajustați viteza negociată a portului WAN, apoi apelați din nou"
+  ],
+  "恭喜，小米路由器切换为普通路由器工作模式成功！": [
+   "Congratulations, Xiaomi router switched to normal router work mode!",
+   "Felicitări, routerul Xiaomi a trecut în modul normal de router!"
+  ],
+  "手工模式下路由器会根据您设置的速度调整带宽分配": [
+   "In manual mode the router adjusts bandwidth allocation to the speed you set",
+   "În modul manual, routerul ajustează alocarea lățimii de bandă la viteza setată de dvs."
+  ],
+  "系统检测你的路由器未接入网线，请接好网线并继续": [
+   "The system detected no cable connected to your router, connect a cable and continue",
+   "Sistemul a detectat că routerul nu are cablu conectat, conectați un cablu și continuați"
+  ],
+  "经过检测，你的WAN口无法连通，可能网线没插好": [
+   "Detection shows your WAN port cannot connect, the cable may not be plugged in properly",
+   "Detectarea arată că portul WAN nu se poate conecta, cablul poate să nu fie conectat corect"
+  ],
+  "聚合失败，检测到选定的LAN口实际生效速率不同": [
+   "Aggregation failed, the selected LAN ports actually run at different speeds",
+   "Agregare eșuată, porturile LAN selectate funcționează de fapt la viteze diferite"
+  ],
+  "设置已经生效，等待30秒后 Wi-Fi 重启。": [
+   "Settings are in effect, Wi-Fi restarts in 30 seconds.",
+   "Setările sunt active, Wi-Fi-ul repornește în 30 de secunde."
+  ],
+  "黑白名单名称不支持特殊字符$   | ；‘ ·": [
+   "Allow/block list names do not support the special characters $ | ; ' ·",
+   "Numele listelor permise/blocate nu acceptă caracterele speciale $ | ; ' ·"
+  ],
+  "(UTC+1)萨拉热窝,斯科普里,华沙,萨格勒布": [
+   "(UTC+1) Sarajevo, Skopje, Warsaw, Zagreb",
+   "(UTC+1) Sarajevo, Skopje, Varșovia, Zagreb"
+  ],
+  "(UTC+5:30)钦奈,加尔各答,孟买,新德里": [
+   "(UTC+5:30) Chennai, Kolkata, Mumbai, New Delhi",
+   "(UTC+5:30) Chennai, Kolkata, Mumbai, New Delhi"
+  ],
+  "(UTC+9)奇塔，帝力，坎迪加，雅库茨克，帕劳": [
+   "(UTC+9) Chita, Dili, Khandyga, Yakutsk, Palau",
+   "(UTC+9) Chita, Dili, Khandyga, Iakuțk, Palau"
+  ],
+  "(UTC-4)格拉斯湾，鹅湾，哈利法克斯，百慕大": [
+   "(UTC-4) Glace Bay, Goose Bay, Halifax, Bermuda",
+   "(UTC-4) Glace Bay, Goose Bay, Halifax, Bermude"
+  ],
+  "(UTC-5)底特律，拿骚，纽约，太子港，多伦多": [
+   "(UTC-5) Detroit, Nassau, New York, Port-au-Prince, Toronto",
+   "(UTC-5) Detroit, Nassau, New York, Port-au-Prince, Toronto"
+  ],
+  "1. 通过DDNS服务商获得域名及账号密码信息；": [
+   "1. Obtain the domain name and account/password from the DDNS provider;",
+   "1. Obțineți numele de domeniu și contul/parola de la furnizorul DDNS;"
+  ],
+  "1.恢复出厂设置操作会抹掉当前路由器的所有设置；": [
+   "1. A factory reset erases all current router settings;",
+   "1. Restabilirea setărilor din fabrică șterge toate setările curente ale routerului;"
+  ],
+  "2.旧路由器与小米路由处于同一局域网中，可以互访": [
+   "2. The old router and the Xiaomi router are on the same LAN and can access each other",
+   "2. Routerul vechi și routerul Xiaomi sunt în aceeași rețea LAN și se pot accesa reciproc"
+  ],
+  "IPv4（PPPoE） + IPv6（自动配置）": [
+   "IPv4 (PPPoE) + IPv6 (auto-configuration)",
+   "IPv4 (PPPoE) + IPv6 (configurare automată)"
+  ],
+  "Wi-Fi设置(Wi-Fi名称、Wi-Fi密码)": [
+   "Wi-Fi settings (Wi-Fi name, Wi-Fi password)",
+   "Setări Wi-Fi (nume Wi-Fi, parolă Wi-Fi)"
+  ],
+  "可以通过添加设备来限定哪些设备可以使用VPN流量": [
+   "Add devices to limit which devices can use VPN traffic",
+   "Adăugați dispozitive pentru a limita ce dispozitive pot folosi traficul VPN"
+  ],
+  "未检测到宽带网线接入，请将网线连接到任意高亮网口": [
+   "No broadband cable detected, connect the cable to any highlighted port",
+   "Nu s-a detectat cablu de bandă largă, conectați cablul la orice port evidențiat"
+  ],
+  "未检测到网络，请用网线将猫连接到路由器的任一网口": [
+   "No network detected, connect the modem to any port on the router with a cable",
+   "Nu s-a detectat rețea, conectați modemul la orice port al routerului cu un cablu"
+  ],
+  "请确认主路由器和中继路由器的Wi-Fi均已开启。": [
+   "Make sure Wi-Fi is on on both the main router and the repeater router.",
+   "Asigurați-vă că Wi-Fi este pornit pe routerul principal și pe routerul repetor."
+  ],
+  "重新连接vpn后该设置将生效，是否确认重新连接？": [
+   "This setting takes effect after reconnecting the VPN. Reconnect now?",
+   "Această setare are efect după reconectarea VPN-ului. Reconectați acum?"
+  ],
+  "(UTC+2)布兰太尔，布琼布拉，哈博罗内，哈拉雷": [
+   "(UTC+2) Blantyre, Bujumbura, Gaborone, Harare",
+   "(UTC+2) Blantyre, Bujumbura, Gaborone, Harare"
+  ],
+  "(UTC+8)北京,重庆,香港特别行政区,乌鲁木齐": [
+   "(UTC+8) Beijing, Chongqing, Hong Kong SAR, Urumqi",
+   "(UTC+8) Beijing, Chongqing, Hong Kong RAS, Urumqi"
+  ],
+  "(UTC-5)阿蒂科坎，坎昆，开曼，牙买加，巴拿马": [
+   "(UTC-5) Atikokan, Cancun, Cayman, Jamaica, Panama",
+   "(UTC-5) Atikokan, Cancún, Cayman, Jamaica, Panama"
+  ],
+  "可以通过添加服务地址来限定哪些服务流量会经过VPN": [
+   "Add service addresses to limit which service traffic goes through the VPN",
+   "Adăugați adrese de servicii pentru a limita ce trafic de servicii trece prin VPN"
+  ],
+  "当安装失败或需要降级到前一版本时使用手动安装插件。": [
+   "Use manual plug-in installation when installation fails or a downgrade to the previous version is needed.",
+   "Folosiți instalarea manuală a plugin-ului când instalarea eșuează sau este necesară revenirea la versiunea anterioară."
+  ],
+  "经过检测，无法识别你的上网类型，请手工选择上网方式": [
+   "Detection could not identify your Internet connection type, select it manually",
+   "Detectarea nu a putut identifica tipul conexiunii dvs. la internet, selectați-l manual"
+  ],
+  "配置生效过程中路由器会短暂断开网络，现在保存配置？": [
+   "The router briefly disconnects from the network while the configuration takes effect. Save the configuration now?",
+   "Routerul se deconectează scurt de la rețea în timp ce configurația are efect. Salvați configurația acum?"
+  ],
+  "(UTC+7)河内，曼谷，巴瑙尔，胡志明，新西伯利亚": [
+   "(UTC+7) Hanoi, Bangkok, Barnaul, Ho Chi Minh, Novosibirsk",
+   "(UTC+7) Hanoi, Bangkok, Barnaul, Ho Și Min, Novosibirsk"
+  ],
+  "(UTC-8)道森，洛杉矶，蒂华纳，温哥华，怀特霍斯": [
+   "(UTC-8) Dawson, Los Angeles, Tijuana, Vancouver, Whitehorse",
+   "(UTC-8) Dawson, Los Angeles, Tijuana, Vancouver, Whitehorse"
+  ],
+  "1.请确保小米路由器的WAN口与旧路由器通过网线连接": [
+   "1. Make sure the Xiaomi router's WAN port is connected to the old router with a cable",
+   "1. Asigurați-vă că portul WAN al routerului Xiaomi este conectat la routerul vechi printr-un cablu"
+  ],
+  "3. 用miwifi.com也可以访问路由器管理页面": [
+   "3. You can also use miwifi.com to access the router admin page",
+   "3. Puteți folosi și miwifi.com pentru a accesa pagina de administrare a routerului"
+  ],
+  "3、路由器局域网IP地址：登录网页版配置后台的地址。": [
+   "3. Router LAN IP address: the address used to log in to the web admin console.",
+   "3. Adresa IP LAN a routerului: adresa folosită pentru autentificarea în consola web de administrare."
+  ],
+  "您将当前设备添加至黑名单，保存后本机将无法访问网络！": [
+   "You are adding this device to the blocklist, after saving it will not be able to access the network!",
+   "Adăugați acest dispozitiv în lista blocată, după salvare nu va mai avea acces la rețea!"
+  ],
+  "检测到未启用Wi-Fi多频合一，无法打开MLO开关。": [
+   "Wi-Fi multi-band combining is not enabled, MLO cannot be turned on.",
+   "Combinarea multi-bandă Wi-Fi nu este activată, MLO nu poate fi pornit."
+  ],
+  "(UTC+1)班吉，布拉柴维尔，杜阿拉，金沙萨，拉各斯": [
+   "(UTC+1) Bangui, Brazzaville, Douala, Kinshasa, Lagos",
+   "(UTC+1) Bangui, Brazzaville, Douala, Kinshasa, Lagos"
+  ],
+  "(UTC+6)沃斯托克，阿拉木图，达卡，鄂木斯克，廷布": [
+   "(UTC+6) Vostok, Almaty, Dhaka, Omsk, Thimphu",
+   "(UTC+6) Vostok, Almaty, Dhaka, Omsk, Thimphu"
+  ],
+  "(UTC-6)巴伊亚班德拉斯，梅里达，墨西哥城，蒙特雷": [
+   "(UTC-6) Bahia Banderas, Merida, Mexico City, Monterrey",
+   "(UTC-6) Bahía de Banderas, Mérida, Ciudad de México, Monterrey"
+  ],
+  "(UTC-7)博伊西，剑桥湾，丹佛，埃德蒙顿，奥吉纳加": [
+   "(UTC-7) Boise, Cambridge Bay, Denver, Edmonton, Ojinaga",
+   "(UTC-7) Boise, Cambridge Bay, Denver, Edmonton, Ojinaga"
+  ],
+  "2.服务器地址可以是域名或IP地址，具体由服务商提供。": [
+   "2. The server address can be a domain name or an IP address, as provided by the provider.",
+   "2. Adresa serverului poate fi un nume de domeniu sau o adresă IP, furnizată de furnizor."
+  ],
+  "备份路由器的配置，重新刷机或重置路由器后可以用来恢复。": [
+   "Back up the router configuration; it can be used to restore it after reflashing or resetting the router.",
+   "Faceți o copie de rezervă a configurației routerului; poate fi folosită pentru restabilire după reinstalarea firmware-ului sau resetarea routerului."
+  ],
+  "小米路由器支持IPv6网络，该路由器提供如下设置方式：": [
+   "The Xiaomi router supports IPv6 networks and provides the following setup methods:",
+   "Routerul Xiaomi acceptă rețele IPv6 și oferă următoarele metode de configurare:"
+  ],
+  "当前正在连接的VPN将被断开，重新连接后该设置将生效。": [
+   "The VPN currently connected will be disconnected, and this setting takes effect after reconnecting.",
+   "VPN-ul conectat în prezent va fi deconectat, iar această setare are efect după reconectare."
+  ],
+  "当前管理终端的MAC地址，可以手动更改为其他MAC地址": [
+   "The MAC address of the current management terminal; it can be changed to another MAC address manually",
+   "Adresa MAC a terminalului de administrare curent; poate fi schimbată manual cu altă adresă MAC"
+  ],
+  "当前频宽不支持将要切换的信道，系统已自动选择可用的频宽": [
+   "The current bandwidth does not support the channel you are switching to, the system selected an available bandwidth automatically",
+   "Lățimea de bandă curentă nu acceptă canalul către care comutați, sistemul a selectat automat o lățime de bandă disponibilă"
+  ],
+  "经过检测，建议使用DHCP方式(系统自动分配IP地址)": [
+   "Detection suggests using DHCP (the system assigns the IP address automatically)",
+   "Detectarea sugerează utilizarea DHCP (sistemul atribuie automat adresa IP)"
+  ],
+  "经过检测，建议使用PPPoE方式(需要输入账号与密码)": [
+   "Detection suggests using PPPoE (account and password required)",
+   "Detectarea sugerează utilizarea PPPoE (sunt necesare cont și parolă)"
+  ],
+  "请检查您输入的身份证号码，目前只支持15位或者18位。": [
+   "Check the ID number you entered, only 15 or 18 digits are currently supported.",
+   "Verificați numărul de identitate introdus, în prezent sunt acceptate doar 15 sau 18 cifre."
+  ],
+  "请注意，开启以下功能后游戏网口的优先转发功能将会失效：": [
+   "Note: after enabling the following features, the gaming port's priority forwarding will stop working:",
+   "Notă: după activarea următoarelor funcții, redirecționarea prioritară a portului de jocuri nu va mai funcționa:"
+  ],
+  "(UTC+1)伯尔尼，柏林，哥本哈根，马德里，巴黎，罗马": [
+   "(UTC+1) Bern, Berlin, Copenhagen, Madrid, Paris, Rome",
+   "(UTC+1) Berna, Berlin, Copenhaga, Madrid, Paris, Roma"
+  ],
+  "(UTC+3)巴格达，科威特，卡塔尔，利雅得，伊斯坦布尔": [
+   "(UTC+3) Baghdad, Kuwait, Qatar, Riyadh, Istanbul",
+   "(UTC+3) Bagdad, Kuweit, Qatar, Riad, Istanbul"
+  ],
+  "(UTC+4)迪拜，阿斯特拉罕，萨拉托夫，马海，毛里求斯": [
+   "(UTC+4) Dubai, Astrakhan, Saratov, Mahe, Mauritius",
+   "(UTC+4) Dubai, Astrahan, Saratov, Mahé, Mauritius"
+  ],
+  "(UTC+8)文莱，伊尔库茨克，吉隆坡，新加坡，乌兰巴托": [
+   "(UTC+8) Brunei, Irkutsk, Kuala Lumpur, Singapore, Ulaanbaatar",
+   "(UTC+8) Brunei, Irkuțk, Kuala Lumpur, Singapore, Ulaanbaatar"
+  ],
+  "2. 若最新驱动仍无法解决兼容性问题，建议先关闭该功能。": [
+   "2. If the latest driver still does not fix the compatibility problem, turn this feature off first.",
+   "2. Dacă cel mai recent driver tot nu rezolvă problema de compatibilitate, dezactivați mai întâi această funcție."
+  ],
+  "2.关闭5GHz Wi-Fi，将无法添加子Mesh节点；": [
+   "2. If 5GHz Wi-Fi is turned off, sub Mesh nodes cannot be added;",
+   "2. Dacă Wi-Fi 5GHz este dezactivat, nodurile Mesh secundare nu pot fi adăugate;"
+  ],
+  "3.开启VPN功能后，游戏网口的优先转发特性将无法生效。": [
+   "3. After enabling the VPN feature, the gaming port's priority forwarding will not take effect.",
+   "3. După activarea funcției VPN, redirecționarea prioritară a portului de jocuri nu va avea efect."
+  ],
+  "3.请勿将WAN1或WAN2口与其他Mesh组网设备相连": [
+   "3. Do not connect the WAN1 or WAN2 port to other Mesh networking devices",
+   "3. Nu conectați portul WAN1 sau WAN2 la alte dispozitive din rețeaua Mesh"
+  ],
+  "你手工选择的当前信道有可能造成部分机型较旧的设备无法连接": [
+   "The channel you selected manually may prevent some older devices from connecting",
+   "Canalul selectat manual poate împiedica conectarea unor dispozitive mai vechi"
+  ],
+  "当前工作模式切换为普通路由器会恢复为之前路由器的所有设置": [
+   "Switching the current work mode to normal router restores all of the router's previous settings",
+   "Trecerea la modul normal de router restabilește toate setările anterioare ale routerului"
+  ],
+  "当外网下载带宽超过50Mbps时，建议无需开启QoS功能": [
+   "When the WAN download bandwidth exceeds 50Mbps, QoS is not recommended",
+   "Când lățimea de bandă de descărcare WAN depășește 50Mbps, QoS nu este recomandat"
+  ],
+  "您没有将当前设备添加至白名单，保存后本机将无法访问网络！": [
+   "You have not added this device to the allowlist, after saving it will not be able to access the network!",
+   "Nu ați adăugat acest dispozitiv în lista permisă, după salvare nu va mai avea acces la rețea!"
+  ],
+  "推荐使用自动(80M)频宽，以获得更好的覆盖及抗干扰性能": [
+   "Auto (80M) bandwidth is recommended for better coverage and interference resistance",
+   "Se recomandă lățimea de bandă automată (80M) pentru acoperire și rezistență la interferențe mai bune"
+  ],
+  "注：检测到未开启Wi-Fi多频合一，无法打开MLO开关。": [
+   "Note: Wi-Fi multi-band combining is not enabled, MLO cannot be turned on.",
+   "Notă: combinarea multi-bandă Wi-Fi nu este activată, MLO nu poate fi pornit."
+  ],
+  "(UTC+2)赫尔辛基,基辅,里加,索非亚,塔林,维尔纽斯": [
+   "(UTC+2) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+   "(UTC+2) Helsinki, Kiev, Riga, Sofia, Tallinn, Vilnius"
+  ],
+  "(UTC-5)波哥大，埃里伦佩，瓜亚基尔，利马，里奥布兰科": [
+   "(UTC-5) Bogota, Eirunepe, Guayaquil, Lima, Rio Branco",
+   "(UTC-5) Bogotá, Eirunepé, Guayaquil, Lima, Rio Branco"
+  ],
+  "(UTC-6)芝加哥，马塔莫罗斯，新塞勒姆，雷尼河，温尼伯": [
+   "(UTC-6) Chicago, Matamoros, New Salem, Rainy River, Winnipeg",
+   "(UTC-6) Chicago, Matamoros, New Salem, Rainy River, Winnipeg"
+  ],
+  "1、将未配置过的子路由WAN口与主路由LAN口通过网线连接": [
+   "1. Connect the unconfigured sub-router's WAN port to the main router's LAN port with a cable",
+   "1. Conectați portul WAN al sub-routerului neconfigurat la portul LAN al routerului principal printr-un cablu"
+  ],
+  "1、确认主路由与待添加的子路由均支持小米Mesh组网功能：": [
+   "1. Confirm that both the main router and the sub-router to add support Xiaomi Mesh networking:",
+   "1. Confirmați că atât routerul principal, cât și sub-routerul de adăugat acceptă rețele Xiaomi Mesh:"
+  ],
+  "当前MTU小于1280，开启IPv6后将自动设置为1280": [
+   "The current MTU is below 1280, it will be set to 1280 automatically after IPv6 is enabled",
+   "MTU curent este sub 1280, va fi setat automat la 1280 după activarea IPv6"
+  ],
+  "注：检测到已开启Wi-Fi5兼容模式，无法打开MLO开关。": [
+   "Note: Wi-Fi 5 compatibility mode is enabled, MLO cannot be turned on.",
+   "Notă: modul de compatibilitate Wi-Fi 5 este activat, MLO nu poate fi pornit."
+  ],
+  "注：检测到已开启Wi-Fi5兼容模式，无法打开TWT开关。": [
+   "Note: Wi-Fi 5 compatibility mode is enabled, TWT cannot be turned on.",
+   "Notă: modul de compatibilitate Wi-Fi 5 este activat, TWT nu poate fi pornit."
+  ],
+  "配置为C类IP地址时，请使用掩码255.255.255.0": [
+   "When configured as a class C IP address, use the mask 255.255.255.0",
+   "Când este configurat ca adresă IP de clasă C, folosiți masca 255.255.255.0"
+  ],
+  "(UTC+1)贝尔格莱德,布拉迪斯拉发,布达佩斯,卢布尔雅那": [
+   "(UTC+1) Belgrade, Bratislava, Budapest, Ljubljana",
+   "(UTC+1) Belgrad, Bratislava, Budapesta, Ljubljana"
+  ],
+  "(UTC+2)雅典，布加勒斯特，赫尔辛基，基辅，马里利亚哈姆": [
+   "(UTC+2) Athens, Bucharest, Helsinki, Kyiv, Mariehamn",
+   "(UTC+2) Atena, București, Helsinki, Kiev, Mariehamn"
+  ],
+  "(UTC+5)阿克托贝，杜尚贝，撒马尔罕，塔什干，叶卡捷琳堡": [
+   "(UTC+5) Aktobe, Dushanbe, Samarkand, Tashkent, Yekaterinburg",
+   "(UTC+5) Aktobe, Dușanbe, Samarkand, Tașkent, Ekaterinburg"
+  ],
+  "(UTC-6)伯利兹，哥斯达黎加，萨尔瓦多，危地马拉，马那瓜": [
+   "(UTC-6) Belize, Costa Rica, El Salvador, Guatemala, Managua",
+   "(UTC-6) Belize, Costa Rica, El Salvador, Guatemala, Managua"
+  ],
+  "(UTC-7)克丽顿，道森克里克，纳尔逊堡，赫莫西略，凤凰城": [
+   "(UTC-7) Creston, Dawson Creek, Fort Nelson, Hermosillo, Phoenix",
+   "(UTC-7) Creston, Dawson Creek, Fort Nelson, Hermosillo, Phoenix"
+  ],
+  "2、终端漫游体验不仅依赖于路由器，也与终端的无线漫游策略相关": [
+   "2. Terminal roaming experience depends not only on the router but also on the terminal's wireless roaming policy",
+   "2. Experiența de roaming a terminalului depinde nu doar de router, ci și de politica de roaming wireless a terminalului"
+  ],
+  "该MAC地址与WAN2口MAC地址冲突，请输入其他MAC地址": [
+   "This MAC address conflicts with the WAN2 port MAC address, enter a different MAC address",
+   "Această adresă MAC intră în conflict cu adresa MAC a portului WAN2, introduceți altă adresă MAC"
+  ],
+  "(UTC-4)坎波格兰德，加拉加斯，圭亚那，拉巴斯，波尔图韦略": [
+   "(UTC-4) Campo Grande, Caracas, Guyana, La Paz, Porto Velho",
+   "(UTC-4) Campo Grande, Caracas, Guyana, La Paz, Porto Velho"
+  ],
+  "1、局域网IP地址管理栏中，选择255.255.0.0掩码段。": [
+   "1. In the LAN IP address management bar, select the 255.255.0.0 mask range.",
+   "1. În bara de administrare a adreselor IP LAN, selectați intervalul de mască 255.255.0.0."
+  ],
+  "办法3:尝试在路由器上网设置中进行mac地址克隆，然后重新拨号": [
+   "Method 3: try cloning the MAC address in the router's Internet settings, then dial again",
+   "Metoda 3: încercați clonarea adresei MAC în setările de internet ale routerului, apoi apelați din nou"
+  ],
+  "如果您已配置了以下内容，掩码的更改将会导致以下内容需重新配置：": [
+   "If you have configured the following, changing the mask means they must be reconfigured:",
+   "Dacă ați configurat următoarele, schimbarea măștii înseamnă că trebuie reconfigurate:"
+  ],
+  "该修改会导致路由器重启，所有设备会短暂失去连接，是否确认修改？": [
+   "This change restarts the router and all devices briefly lose connection. Confirm the change?",
+   "Această modificare repornește routerul și toate dispozitivele pierd scurt conexiunea. Confirmați modificarea?"
+  ],
+  "(UTC+0)达喀尔，蒙罗维亚，圣多美，丹马克斯沙文，雷克雅未克": [
+   "(UTC+0) Dakar, Monrovia, Sao Tome, Danmarkshavn, Reykjavik",
+   "(UTC+0) Dakar, Monrovia, São Tomé, Danmarkshavn, Reykjavik"
+  ],
+  "(UTC+1)阿姆斯特丹,柏林,伯尔尼,罗马,斯德歌尔摩,维也纳": [
+   "(UTC+1) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+   "(UTC+1) Amsterdam, Berlin, Berna, Roma, Stockholm, Viena"
+  ],
+  "(UTC-4)勃朗萨布隆，格林纳达，西班牙港，波多黎各，圣多明各": [
+   "(UTC-4) Blanc-Sablon, Grenada, Port of Spain, Puerto Rico, Santo Domingo",
+   "(UTC-4) Blanc-Sablon, Grenada, Port of Spain, Puerto Rico, Santo Domingo"
+  ],
+  "1.该操作将重启Wi-Fi并导致Wi-Fi下的所有设备失去连接；": [
+   "1. This restarts Wi-Fi and all devices on the Wi-Fi lose connection;",
+   "1. Aceasta repornește Wi-Fi-ul și toate dispozitivele de pe Wi-Fi pierd conexiunea;"
+  ],
+  "4、默认网关：路由器下接入设备的默认网关，默认是路由器内网IP。": [
+   "4. Default gateway: the default gateway for devices connected to the router, by default the router's internal IP.",
+   "4. Gateway implicit: gateway-ul implicit pentru dispozitivele conectate la router, implicit IP-ul intern al routerului."
+  ],
+  "为保证正常上网，请在“常用设置”-“上网设置”中进行WAN口配置": [
+   "To ensure normal Internet access, configure the WAN port in \"Common settings\" - \"Internet settings\"",
+   "Pentru acces normal la internet, configurați portul WAN în „Setări uzuale” - „Setări internet”"
+  ],
+  "可以通过内置的DDNS运营商去该运营商官网去注册账号及申请域名；": [
+   "You can register an account and apply for a domain on the website of the built-in DDNS provider;",
+   "Puteți înregistra un cont și solicita un domeniu pe site-ul furnizorului DDNS integrat;"
+  ],
+  "网口协商速率不同时，将无法聚合成功。对端网卡需开启LACP协议。": [
+   "Aggregation fails if the port negotiated speeds differ. The peer NIC must have LACP enabled.",
+   "Agregarea eșuează dacă vitezele negociate ale porturilor diferă. Placa de rețea de la celălalt capăt trebuie să aibă LACP activat."
+  ],
+  "(UTC+11)麦格理，马加丹，萨哈林，斯莱德内科林斯克，布干维尔": [
+   "(UTC+11) Macquarie, Magadan, Sakhalin, Srednekolymsk, Bougainville",
+   "(UTC+11) Macquarie, Magadan, Sahalin, Srednekolimsk, Bougainville"
+  ],
+  "(UTC-9)安克雷奇，朱诺，梅特拉卡特拉，诺姆，西特卡，雅库塔特": [
+   "(UTC-9) Anchorage, Juneau, Metlakatla, Nome, Sitka, Yakutat",
+   "(UTC-9) Anchorage, Juneau, Metlakatla, Nome, Sitka, Yakutat"
+  ],
+  "2、保存子网掩码配置，系统将自动重启并开启1000台终端接入支持。": [
+   "2. After saving the subnet mask configuration, the system restarts automatically and enables support for 1000 connected terminals.",
+   "2. După salvarea configurației măștii de subrețea, sistemul repornește automat și activează suportul pentru 1000 de terminale conectate."
+  ],
+  "强制检查为WAN口IP的检查时间，如无特殊需求，建议使用默认配置；": [
+   "The check time for forcing the WAN IP check; unless you have special needs, use the default;",
+   "Timpul de verificare pentru forțarea verificării IP-ului WAN; dacă nu aveți cerințe speciale, folosiți valoarea implicită;"
+  ],
+  "160MHz频宽只适用于36至64信道，系统将自动为您切换至36信道": [
+   "160MHz bandwidth only applies to channels 36 to 64, the system will switch you to channel 36 automatically",
+   "Lățimea de bandă de 160MHz se aplică doar canalelor 36 până la 64, sistemul vă va comuta automat la canalul 36"
+  ],
+  "如果您已开启访客wifi，切换为有线中继模式后，访客wifi将会关闭": [
+   "If guest Wi-Fi is on, it will be turned off after switching to wired repeater mode",
+   "Dacă Wi-Fi-ul pentru oaspeți este pornit, va fi oprit după trecerea la modul repetor prin cablu"
+  ],
+  "强制更新为域名与IP强制更新的时间，如无特殊需求，建议使用默认配置；": [
+   "Force update is the time for forced domain-to-IP updates; unless you have special needs, use the default;",
+   "Actualizarea forțată este intervalul pentru actualizările forțate domeniu-IP; dacă nu aveți cerințe speciale, folosiți valoarea implicită;"
+  ],
+  "您没有在列表中添加任何设备，保存后所有设备将无法访问网络！请返回修改": [
+   "You haven't added any device to the list, after saving no device will be able to access the network! Go back and edit",
+   "Nu ați adăugat niciun dispozitiv în listă, după salvare niciun dispozitiv nu va avea acces la rețea! Reveniți și modificați"
+  ],
+  "游戏网口传输的数据会被优先转发，使得延迟更低，更适用于游戏和语音场景": [
+   "Data on the gaming port is forwarded with priority, giving lower latency, better for gaming and voice",
+   "Datele de pe portul de jocuri sunt redirecționate prioritar, cu latență mai mică, potrivit pentru jocuri și voce"
+  ],
+  "(UTC+3)亚的斯亚贝巴，阿斯马拉，达累斯萨拉姆，内罗毕，塔那那利佛": [
+   "(UTC+3) Addis Ababa, Asmara, Dar es Salaam, Nairobi, Antananarivo",
+   "(UTC+3) Addis Abeba, Asmara, Dar es Salaam, Nairobi, Antananarivo"
+  ],
+  "(UTC-3)布宜诺斯艾利斯，圣路易斯，马塞奥，蒙得维的亚，帕拉马里博": [
+   "(UTC-3) Buenos Aires, San Luis, Maceio, Montevideo, Paramaribo",
+   "(UTC-3) Buenos Aires, San Luis, Maceió, Montevideo, Paramaribo"
+  ],
+  "优先级模式下路由器会动态调整带宽分配，保证优先级较高的设备网络体验流畅": [
+   "In priority mode the router adjusts bandwidth allocation dynamically, keeping higher-priority devices smooth",
+   "În modul prioritate, routerul ajustează dinamic alocarea lățimii de bandă, menținând fluide dispozitivele cu prioritate mai mare"
+  ],
+  "办法1:尝试关闭调制解调器(猫)和路由器，几分钟后重新通电再次尝试拨号": [
+   "Method 1: try turning off the modem and router, power them back on after a few minutes, and dial again",
+   "Metoda 1: încercați să opriți modemul și routerul, reporniți-le după câteva minute și apelați din nou"
+  ],
+  "1.如果您已开启访客wifi，切换为无线中继模式后，访客wifi将会关闭": [
+   "1. If guest Wi-Fi is on, it will be turned off after switching to wireless repeater mode",
+   "1. Dacă Wi-Fi-ul pentru oaspeți este pornit, va fi oprit după trecerea la modul repetor wireless"
+  ],
+  "1、将待添加的子路由靠近主路由并重试（注意保持1米以外的距离以免干扰）；": [
+   "1. Move the sub-router to be added close to the main router and retry (keep more than 1 meter apart to avoid interference);",
+   "1. Apropiați sub-routerul de adăugat de routerul principal și reîncercați (păstrați peste 1 metru distanță pentru a evita interferențele);"
+  ],
+  "3、将待添加的子路由靠近主路由并重试（注意保持1米以外的距离以免干扰）；": [
+   "3. Move the sub-router to be added close to the main router and retry (keep more than 1 meter apart to avoid interference);",
+   "3. Apropiați sub-routerul de adăugat de routerul principal și reîncercați (păstrați peste 1 metru distanță pentru a evita interferențele);"
+  ],
+  "自动模式下路由器会根据当前网络使用情况动态调整带宽分配，保证网络体验流畅": [
+   "In auto mode the router adjusts bandwidth allocation dynamically according to current network usage, keeping the network smooth",
+   "În modul automat, routerul ajustează dinamic alocarea lățimii de bandă în funcție de utilizarea curentă a rețelei, menținând rețeaua fluidă"
+  ],
+  "1.VPN用户名、密码、服务器地址、协议类型等信息需要向VPN服务商获取。": [
+   "1. The VPN username, password, server address, protocol type and other details must be obtained from the VPN provider.",
+   "1. Numele de utilizator, parola, adresa serverului, tipul de protocol și alte detalii VPN trebuie obținute de la furnizorul VPN."
+  ],
+  "160MHz频宽只适用于36至64信道，系统将自动为您切换至80MHz频宽": [
+   "160MHz bandwidth only applies to channels 36 to 64, the system will switch you to 80MHz bandwidth automatically",
+   "Lățimea de bandă de 160MHz se aplică doar canalelor 36 până la 64, sistemul vă va comuta automat la lățimea de bandă de 80MHz"
+  ],
+  "2. 开启DDNS服务，添加服务，输入前一步获取的信息，保存并启用该服务。": [
+   "2. Turn on the DDNS service, add a service, enter the information obtained in the previous step, then save and enable the service.",
+   "2. Activați serviciul DDNS, adăugați un serviciu, introduceți informațiile obținute la pasul anterior, apoi salvați și activați serviciul."
+  ],
+  "4. 静态IP模式：通过手动填写IPv6相关信息配置静态IPv6上网方式；": [
+   "4. Static IP mode: configure a static IPv6 connection by entering the IPv6 details manually;",
+   "4. Mod IP static: configurați o conexiune IPv6 statică introducând manual datele IPv6;"
+  ],
+  "切换国家或地区将会变更路由器的无线网络工作信道，需要重启后生效，是否确定？": [
+   "Switching country or region changes the router's wireless channels and requires a restart. Are you sure?",
+   "Schimbarea țării sau regiunii modifică canalele wireless ale routerului și necesită repornire. Sigur doriți?"
+  ],
+  "开启IPv6防火墙后，将禁止所有外网对局域网设备的主动访问，提高网络安全性": [
+   "With the IPv6 firewall on, all external active access to LAN devices is blocked, improving network security",
+   "Cu firewall-ul IPv6 activat, orice acces activ din exterior la dispozitivele LAN este blocat, ceea ce îmbunătățește securitatea rețelei"
+  ],
+  "搜索并添加Mesh节点时，请先到Wi-Fi设置页面，开启5G Wi-Fi。": [
+   "When searching for and adding Mesh nodes, first go to the Wi-Fi settings page and turn on 5G Wi-Fi.",
+   "La căutarea și adăugarea nodurilor Mesh, mergeți mai întâi la pagina de setări Wi-Fi și activați Wi-Fi 5G."
+  ],
+  "配置生效过程中连接在路由器上的有线设备会短暂断开网络，请确认是否保存修改？": [
+   "Wired devices connected to the router briefly lose the network while the configuration takes effect. Save the changes?",
+   "Dispozitivele conectate prin cablu la router pierd scurt rețeaua în timp ce configurația are efect. Salvați modificările?"
+  ],
+  "(UTC+10)杜蒙特杜尔维尔，乌斯特内拉，弗拉迪沃斯托克，楚克，莫尔斯比港": [
+   "(UTC+10) Dumont d'Urville, Ust-Nera, Vladivostok, Chuuk, Port Moresby",
+   "(UTC+10) Dumont d'Urville, Ust-Nera, Vladivostok, Chuuk, Port Moresby"
+  ],
+  "*请确保此路由器处于未配置状态，如已配置请长按Reset按键5秒以上进行重置": [
+   "*Make sure this router is unconfigured; if it is configured, hold the Reset button for more than 5 seconds to reset it",
+   "*Asigurați-vă că acest router este neconfigurat; dacă este configurat, țineți apăsat butonul Reset peste 5 secunde pentru resetare"
+  ],
+  "4.双WAN功能仅支持IPv4，IPV6及IPTV功能仅支持在WAN1上部署": [
+   "4. Dual WAN only supports IPv4; IPv6 and IPTV are only supported on WAN1",
+   "4. Dual WAN acceptă doar IPv4; IPv6 și IPTV sunt acceptate doar pe WAN1"
+  ],
+  "开启DMZ功能可以将内网某一个设备的IP映射到外网，方便从外网访问到该设备。": [
+   "Enabling DMZ maps the IP of one LAN device to the Internet, so it can be reached from outside.",
+   "Activarea DMZ mapează IP-ul unui dispozitiv din LAN către internet, astfel încât să poată fi accesat din exterior."
+  ],
+  "配置生效过程中连接在路由器上的有线设备会短暂断开网络，且以下功能会无法使用：": [
+   "Wired devices connected to the router briefly lose the network while the configuration takes effect, and the following features will be unavailable:",
+   "Dispozitivele conectate prin cablu la router pierd scurt rețeaua în timp ce configurația are efect, iar următoarele funcții vor fi indisponibile:"
+  ],
+  "如果出现老旧终端在此路由开启TWT节能模式后出现兼容性问题，建议尝试以下方法：": [
+   "If older terminals have compatibility problems after TWT power saving mode is enabled, try the following:",
+   "Dacă terminalele mai vechi au probleme de compatibilitate după activarea modului de economisire a energiei TWT, încercați următoarele:"
+  ],
+  "开启后访问协议将自动重定向为https，需要重新登录Web管理后台。确认开启？": [
+   "After enabling, the access protocol is redirected to https and you need to log in to the web console again. Confirm?",
+   "După activare, protocolul de acces este redirecționat către https și trebuie să vă autentificați din nou în consola web. Confirmați?"
+  ],
+  "该IP不在可用IP范围内，请重新输入。您可以参考DHCP服务可用IP段来设定。": [
+   "This IP is not in the available range, enter it again. Refer to the DHCP service's available IP range.",
+   "Acest IP nu este în intervalul disponibil, introduceți-l din nou. Consultați intervalul IP disponibil al serviciului DHCP."
+  ],
+  "2. DHCPv6：此模式会根据NAT 6方式采用情况动态配置IPv6上网方式；": [
+   "2. DHCPv6: this mode configures IPv6 access dynamically according to the NAT 6 method in use;",
+   "2. DHCPv6: acest mod configurează dinamic accesul IPv6 în funcție de metoda NAT 6 utilizată;"
+  ],
+  "VPN属于远程访问技术，应用举例：出差员工在外地通过VPN服务访问企业内部网络。": [
+   "A VPN is a remote access technology, for example: a traveling employee accessing the company's internal network through a VPN service.",
+   "VPN este o tehnologie de acces la distanță, de exemplu: un angajat aflat în deplasare accesează rețeaua internă a companiei printr-un serviciu VPN."
+  ],
+  "后，相关功能将无法使用。如要再次使用，你需要在当前界面开启该任务。 你确认要结束": [
+   "after that, related features will be unavailable. To use it again, you need to enable this task on the current page. Are you sure you want to end",
+   "după aceea, funcțiile aferente vor fi indisponibile. Pentru a-l folosi din nou, trebuie să activați această sarcină în pagina curentă. Sigur doriți să încheiați"
+  ],
+  "在配置DDNS规则IP地址类型时，请确保外网接口被正常分配了对应类型的IP地址。": [
+   "When configuring the DDNS rule IP address type, make sure the WAN interface has been assigned an IP address of the corresponding type.",
+   "La configurarea tipului de adresă IP al regulii DDNS, asigurați-vă că interfeței WAN i s-a atribuit o adresă IP de tipul corespunzător."
+  ],
+  "恢复出厂设置操作会抹掉当前路由器的所有设置，建议您先进行配置备份再恢复出厂设置。": [
+   "A factory reset erases all current router settings. Back up the configuration first, then reset.",
+   "Restabilirea setărilor din fabrică șterge toate setările curente ale routerului. Faceți mai întâi o copie de rezervă a configurației, apoi resetați."
+  ],
+  "部分DDNS服务商不支持IPv6地址，若使用IPv6地址，需确认服务商支持情况。": [
+   "Some DDNS providers do not support IPv6 addresses. If you use IPv6, check that the provider supports it.",
+   "Unii furnizori DDNS nu acceptă adrese IPv6. Dacă folosiți IPv6, verificați dacă furnizorul îl acceptă."
+  ],
+  "2.若此前已完成Mesh组网，子路由将会失去连接，待恢复出厂设置后需重新进行组网。": [
+   "2. If Mesh networking was set up before, the sub-router loses its connection and must be re-networked after the factory reset.",
+   "2. Dacă rețeaua Mesh a fost configurată anterior, sub-routerul pierde conexiunea și trebuie reconectat în rețea după restabilirea setărilor din fabrică."
+  ],
+  "2、将子路由上电，启动完成后将自动进行组网，组网时子路由Internet指示灯快闪": [
+   "2. Power on the sub-router; after startup it joins the network automatically, and its Internet light flashes quickly while networking",
+   "2. Porniți sub-routerul; după pornire se alătură automat rețelei, iar indicatorul Internet clipește rapid în timpul conectării"
+  ],
+  "2、接通子路由电源，等待System指示灯变成蓝色或白色常亮（颜色取决于具体型号）": [
+   "2. Connect power to the sub-router and wait for the System light to turn solid blue or white (color depends on the model)",
+   "2. Conectați alimentarea sub-routerului și așteptați ca indicatorul System să devină albastru sau alb continuu (culoarea depinde de model)"
+  ],
+  "3、将待添加的子路由升至最新固件，并重置后重试（长按Reset按钮5秒后即可重置）": [
+   "3. Upgrade the sub-router to be added to the latest firmware, reset it and retry (hold the Reset button for 5 seconds to reset)",
+   "3. Actualizați sub-routerul de adăugat la cel mai recent firmware, resetați-l și reîncercați (țineți apăsat butonul Reset 5 secunde pentru resetare)"
+  ],
+  "该操作将重启 Wi-Fi 并导致 Wi-Fi 下的所有设备失去连接，是否确认修改？": [
+   "This restarts Wi-Fi and all devices on the Wi-Fi lose connection. Confirm the change?",
+   "Aceasta repornește Wi-Fi-ul și toate dispozitivele de pe Wi-Fi pierd conexiunea. Confirmați modificarea?"
+  ],
+  "2、确保待添加的子路由处于未配置状态（长按Reset按钮5秒后即可恢复成未配置状态）": [
+   "2. Make sure the sub-router to be added is unconfigured (hold the Reset button for 5 seconds to return it to the unconfigured state)",
+   "2. Asigurați-vă că sub-routerul de adăugat este neconfigurat (țineți apăsat butonul Reset 5 secunde pentru a-l readuce la starea neconfigurată)"
+  ],
+  "你的浏览器禁止了Javascript功能，会造成无法使用系统进行路由器管理，请开启。": [
+   "Your browser has JavaScript disabled, so the router cannot be managed. Please enable it.",
+   "Browserul dvs. are JavaScript dezactivat, deci routerul nu poate fi administrat. Vă rugăm activați-l."
+  ],
+  "双WAN功能是指支持两条外网宽带线路同时工作以带来更佳的网络体验，其主要的功能如下：": [
+   "The dual WAN feature supports two Internet broadband lines working at the same time for a better network experience. Its main functions are:",
+   "Funcția dual WAN acceptă două linii de bandă largă care funcționează simultan pentru o experiență de rețea mai bună. Funcțiile sale principale sunt:"
+  ],
+  "若网络内存在多个节点，当终端的无线信号强度低于阈值时，引导终端漫游到更优的信号节点。": [
+   "If there are multiple nodes in the network, when a terminal's wireless signal strength falls below the threshold, the terminal is guided to roam to a better node.",
+   "Dacă există mai multe noduri în rețea, când puterea semnalului wireless al unui terminal scade sub prag, terminalul este ghidat să facă roaming către un nod mai bun."
+  ],
+  "该信道属于DFS信道，当与不支持DFS信道的设备组网时，可能导致组网失败，是否继续？": [
+   "This channel is a DFS channel. Networking with devices that do not support DFS channels may fail. Continue?",
+   "Acest canal este un canal DFS. Conectarea în rețea cu dispozitive care nu acceptă canale DFS poate eșua. Continuați?"
+  ],
+  "1.开启双WAN功能后会与部分功能冲突，若仍想使用冲突功能，请先尝试关闭双WAN后再试": [
+   "1. Enabling dual WAN conflicts with some features. To use a conflicting feature, try turning off dual WAN first",
+   "1. Activarea dual WAN intră în conflict cu unele funcții. Pentru a folosi o funcție în conflict, încercați mai întâi să dezactivați dual WAN"
+  ],
+  "DDNS（Dynamic Domain Name Server）是动态域名服务的缩写。": [
+   "DDNS (Dynamic Domain Name Server) is short for dynamic domain name service.",
+   "DDNS (Dynamic Domain Name Server) este abrevierea pentru serviciul de nume de domeniu dinamic."
+  ],
+  "开启白名单功能后，将只允许名单中的设备访问管理后台，每次开启会将本机自动添加至白名单。": [
+   "After enabling the allowlist, only the devices in the list can access the admin console. Each time it is enabled, this device is added to the allowlist automatically.",
+   "După activarea listei permise, doar dispozitivele din listă pot accesa consola de administrare. De fiecare dată când este activată, acest dispozitiv este adăugat automat în lista permisă."
+  ],
+  "请注意：升级将会使所有已连接设备的网络中断，升级过程中请勿断开路由器电源或关闭本页面！": [
+   "Note: upgrading interrupts the network for all connected devices. Do not unplug the router or close this page during the upgrade!",
+   "Atenție: actualizarea întrerupe rețeaua pentru toate dispozitivele conectate. Nu deconectați routerul și nu închideți această pagină în timpul actualizării!"
+  ],
+  "1.首先需要在VPN服务商官网上注册账号，获得用户名、密码、服务器地址、协议类型等信息。": [
+   "1. First register an account on the VPN provider's website to obtain the username, password, server address, protocol type and other details.",
+   "1. Înregistrați mai întâi un cont pe site-ul furnizorului VPN pentru a obține numele de utilizator, parola, adresa serverului, tipul de protocol și alte detalii."
+  ],
+  "启用此功能后，小米路由器将开启IPv6上网功能（使用前请咨询网络运营商是否支持IPv6）": [
+   "After enabling, the Xiaomi router turns on IPv6 Internet access (ask your ISP whether IPv6 is supported before using it)",
+   "După activare, routerul Xiaomi pornește accesul la internet IPv6 (întrebați furnizorul dacă IPv6 este acceptat înainte de utilizare)"
+  ],
+  "请检查您选择的图片文件路径，只支持jpg、jpeg、png、gif、tif、bmp格式。": [
+   "Check the image file path you selected, only jpg, jpeg, png, gif, tif and bmp formats are supported.",
+   "Verificați calea fișierului imagine selectat, sunt acceptate doar formatele jpg, jpeg, png, gif, tif și bmp."
+  ],
+  "三频模式覆盖明显弱于双频模式，该修改会导致路由器重启，所有设备会短暂失去连接，是否确认修改？": [
+   "Tri-band coverage is clearly weaker than dual-band. This change restarts the router and all devices briefly lose connection. Confirm the change?",
+   "Acoperirea tri-band este mult mai slabă decât cea dual-band. Această modificare repornește routerul și toate dispozitivele pierd scurt conexiunea. Confirmați modificarea?"
+  ],
+  "（1）增加带宽（带宽聚合模式）：可同时使用两条外网宽带线路以增加外网总带宽，实现更大的下载速率": [
+   "(1) Increase bandwidth (bandwidth aggregation mode): use two WAN broadband lines at the same time to increase total WAN bandwidth for higher download speeds",
+   "(1) Creșterea lățimii de bandă (mod agregare lățime de bandă): folosiți simultan două linii de bandă largă WAN pentru a crește lățimea de bandă totală și viteza de descărcare"
+  ],
+  "WPA3为新一代加密技术，可使安全性大大加强，但选择该选项后部分旧设备会存在兼容性问题而无法接入": [
+   "WPA3 is a new-generation encryption technology that greatly improves security, but after choosing it some older devices have compatibility problems and cannot connect",
+   "WPA3 este o tehnologie de criptare de nouă generație care îmbunătățește mult securitatea, dar după selectarea ei unele dispozitive mai vechi au probleme de compatibilitate și nu se pot conecta"
+  ],
+  "路由器正常工作情况下建议使用系统升级检测进行升级。当系统无法升级时使用手动上传ROM包进行升级。": [
+   "When the router works normally, use the system upgrade check to upgrade. When the system cannot be upgraded, upload a ROM package manually to upgrade.",
+   "Când routerul funcționează normal, folosiți verificarea actualizărilor sistemului pentru actualizare. Când sistemul nu poate fi actualizat, încărcați manual un pachet ROM."
+  ],
+  "3. PPPoEv6：此模式将默认复用IPv4拨号链路，也可以手动输入IPv6宽带账号密码手动配置；": [
+   "3. PPPoEv6: this mode reuses the IPv4 dial-up link by default; you can also enter the IPv6 broadband account and password manually;",
+   "3. PPPoEv6: acest mod reutilizează implicit legătura de apelare IPv4; puteți introduce manual și contul și parola de bandă largă IPv6;"
+  ],
+  "开启IPv6后，MTU取值范围为[1280-1492]，如需打开IPv6，请在上网设置中修改MTU值": [
+   "After IPv6 is enabled, the MTU range is [1280-1492]. To enable IPv6, change the MTU in the Internet settings",
+   "După activarea IPv6, intervalul MTU este [1280-1492]. Pentru a activa IPv6, modificați MTU în setările de internet"
+  ],
+  "此页面仅支持对路由器灯效进行简单管理，如需自定义或定时控制灯效请使用米家App绑定此路由器后进行管理": [
+   "This page only supports simple management of the router's light effects. For custom or scheduled light control, bind this router in the Mi Home app and manage it there",
+   "Această pagină acceptă doar administrarea simplă a efectelor luminoase ale routerului. Pentru control personalizat sau programat, asociați acest router în aplicația Mi Home și administrați-l de acolo"
+  ],
+  "WAN/LAN 自适应功能可以自动判断接入网口的设备是WAN设备还是LAN设备，并相应地配置端口的工作模式": [
+   "WAN/LAN auto-adaptive can automatically determine whether a device on a port is a WAN device or a LAN device, and configure the port's work mode accordingly",
+   "Adaptarea automată WAN/LAN poate determina automat dacă un dispozitiv de pe un port este dispozitiv WAN sau LAN și configurează modul de lucru al portului în consecință"
+  ],
+  "2、租期：IP 地址分配给局域网计算机以后，如果使用时间超过这个租期，小米路由将给计算机分配新的 IP 地址。": [
+   "2. Lease: after an IP address is assigned to a LAN computer, if it is used longer than this lease, the Xiaomi router assigns the computer a new IP address.",
+   "2. Închiriere: după ce o adresă IP este atribuită unui computer din LAN, dacă este folosită mai mult decât această durată, routerul Xiaomi atribuie computerului o adresă IP nouă."
+  ],
+  "办法2:使用电脑或者旧路由器完成拨号，然后手工选择“结束连接”或“关闭连接”，再尝试使用Redmi路由器拨号。": [
+   "Method 2: complete the dial-up with a computer or old router, manually choose \"End connection\" or \"Close connection\", then try dialing with the Redmi router.",
+   "Metoda 2: finalizați apelarea cu un computer sau un router vechi, alegeți manual „Încheiere conexiune” sau „Închidere conexiune”, apoi încercați apelarea cu routerul Redmi."
+  ],
+  "多频合一情况下，此路由器会默认开启MLO多链路连接，由Wi-Fi7终端自主选择并发频段接入，提高速率降低延迟。": [
+   "With multi-band combining, this router enables MLO multi-link connection by default; Wi-Fi 7 terminals choose bands to use concurrently, increasing speed and reducing latency.",
+   "Cu combinarea multi-bandă, acest router activează implicit conexiunea multi-link MLO; terminalele Wi-Fi 7 aleg singure benzile folosite simultan, crescând viteza și reducând latența."
+  ],
+  "5. Passthrough：此模式透传IPv6数据，启用后相应数据将在路由器WAN侧和LAN侧之间点对点传输。": [
+   "5. Passthrough: this mode passes IPv6 data through; once enabled, the data is transferred point to point between the router's WAN side and LAN side.",
+   "5. Passthrough: acest mod transmite datele IPv6 direct; după activare, datele sunt transferate punct la punct între partea WAN și partea LAN a routerului."
+  ],
+  "关闭MLO多链路加速将会重启Wi-Fi模块，此期间所有接入此路由器的设备都会断开Wi-Fi连接，请确认是否继续。": [
+   "Turning off MLO multi-link acceleration restarts the Wi-Fi module. During this time all devices connected to this router lose Wi-Fi. Continue?",
+   "Dezactivarea accelerării multi-link MLO repornește modulul Wi-Fi. În acest timp, toate dispozitivele conectate la acest router pierd Wi-Fi-ul. Continuați?"
+  ],
+  "1、将未配置过的路由器作为子路由，放置在需要Wi-Fi信号覆盖的房间 （如已配置请长按Reset按键5秒以上进行重置）": [
+   "1. Place an unconfigured router as a sub-router in the room that needs Wi-Fi coverage (if configured, hold the Reset button for more than 5 seconds to reset it)",
+   "1. Plasați un router neconfigurat ca sub-router în camera care necesită acoperire Wi-Fi (dacă este configurat, țineți apăsat butonul Reset peste 5 secunde pentru resetare)"
+  ],
+  "WiFi双频合一关闭，5GHz会默认使用2.4GHz相同的网络名称（加后缀_5G）和密码，如需设成不一样，请进行修改。": [
+   "With Wi-Fi dual-band combining off, 5GHz uses the same network name as 2.4GHz by default (with the suffix _5G) and the same password. Change them if you want them to differ.",
+   "Cu combinarea dual-band Wi-Fi dezactivată, 5GHz folosește implicit același nume de rețea ca 2.4GHz (cu sufixul _5G) și aceeași parolă. Modificați-le dacă doriți să fie diferite."
+  ],
+  "为保证Mesh网络良好的使用体验，当前至多可支持10台Mesh路由器组网，更多Mesh路由器建议组成新的Mesh网络。": [
+   "For a good Mesh experience, up to 10 Mesh routers are currently supported in one network. For more Mesh routers, form a new Mesh network.",
+   "Pentru o experiență Mesh bună, în prezent sunt acceptate până la 10 routere Mesh într-o rețea. Pentru mai multe routere Mesh, creați o nouă rețea Mesh."
+  ],
+  "开启TWT节能模式后，可通过TWT节能技术降低接入此路由器的Wi-Fi6终端设备功耗，部分老旧终端可能会有兼容性问题。": [
+   "With TWT power saving mode on, TWT technology reduces the power consumption of Wi-Fi 6 terminals connected to this router; some older terminals may have compatibility problems.",
+   "Cu modul de economisire a energiei TWT activat, tehnologia TWT reduce consumul terminalelor Wi-Fi 6 conectate la acest router; unele terminale mai vechi pot avea probleme de compatibilitate."
+  ],
+  "注：此时路由器管理网段将变为10.31前缀，已保存的DHCP静态绑定、端口转发、DMZ主机设置、QoS限速等需要重新配置。": [
+   "Note: the router's management subnet will then use the 10.31 prefix; saved DHCP static bindings, port forwarding, DMZ host settings, QoS speed limits and similar must be reconfigured.",
+   "Notă: subrețeaua de administrare a routerului va folosi prefixul 10.31; asocierile DHCP statice salvate, redirecționarea porturilor, setările gazdei DMZ, limitele de viteză QoS etc. trebuie reconfigurate."
+  ],
+  "用户名、密码、AccessKey ID、AccessKey Secret、Token等账号信息均需从DNS服务商平台获取；": [
+   "Username, password, AccessKey ID, AccessKey Secret, Token and similar account details must be obtained from the DNS provider's platform;",
+   "Numele de utilizator, parola, AccessKey ID, AccessKey Secret, Token și alte detalii de cont trebuie obținute de pe platforma furnizorului DNS;"
+  ],
+  "1. Auto模式：智能配置此路由器IPv6网络为Passthough/ Native / NAT 6 ，推荐选择此配置方式；": [
+   "1. Auto mode: configures this router's IPv6 network as Passthrough / Native / NAT 6 intelligently; this is the recommended setup;",
+   "1. Mod Auto: configurează inteligent rețeaua IPv6 a routerului ca Passthrough / Native / NAT 6; aceasta este configurarea recomandată;"
+  ],
+  "（3）外网路径选择（带宽聚合模式）：可选择部分设备的数据优先通过固定的WAN口宽带，比如部分数据走移动网络，部分数据走电信网络": [
+   "(3) WAN path selection (bandwidth aggregation mode): choose for some devices' data to go preferentially through a fixed WAN broadband line, for example some data through the mobile network and some through the telecom network",
+   "(3) Selecția căii WAN (mod agregare lățime de bandă): puteți alege ca datele unor dispozitive să treacă preferențial printr-o linie de bandă largă WAN fixă, de exemplu unele date prin rețeaua mobilă și altele prin rețeaua de telecomunicații"
+  ],
+  "开启该功能后，需要您重新连接VPN方可生效，且智能分流功能将关闭。若开启后发现路由器App远程访问出现异常，请您关闭。是否确认开启？": [
+   "After enabling, you need to reconnect the VPN for it to take effect, and the smart traffic splitting feature is turned off. If the router app's remote access becomes abnormal after enabling, turn it off. Confirm enabling?",
+   "După activare, trebuie să reconectați VPN-ul pentru a avea efect, iar funcția de distribuire inteligentă a traficului este dezactivată. Dacă accesul de la distanță al aplicației routerului devine anormal după activare, dezactivați-l. Confirmați activarea?"
+  ],
+  "启用异信道部署后，2.4G无线信道将根据环境内信道占用情况，自动调整设备的信道分布，避开拥塞，如需采用自动信道或固定信道，请先关闭功能": [
+   "With different-channel deployment enabled, the 2.4G wireless channel is adjusted automatically according to channel occupancy in the environment to avoid congestion. To use auto channel or a fixed channel, turn this feature off first",
+   "Cu implementarea pe canale diferite activată, canalul wireless 2.4G este ajustat automat în funcție de ocuparea canalelor din mediu pentru a evita congestia. Pentru canal automat sau fix, dezactivați mai întâi această funcție"
+  ],
+  "开启此功能，路由器可自动发现支持畅快连的未初始化Wi-Fi设备，通过米家APP快速配网；修改路由器密码也将自动同步给支持畅快连的设备。": [
+   "With this on, the router can automatically discover uninitialized Wi-Fi devices that support Changkuai Connect and configure their network quickly through the Mi Home app; changing the router password is also synchronized to such devices.",
+   "Cu aceasta activată, routerul poate descoperi automat dispozitive Wi-Fi neinițializate care acceptă Changkuai Connect și le poate configura rapid rețeaua prin aplicația Mi Home; schimbarea parolei routerului este sincronizată și cu aceste dispozitive."
+  ],
+  "开启后，2.4GHz和5GHz将合并显示为同一个名称，路由器将优先为终端选择最佳Wi-Fi网络。合并名称后部分终端可能离线，需重新连接。": [
+   "After enabling, 2.4GHz and 5GHz are shown under one name, and the router prefers the best Wi-Fi network for each terminal. Some terminals may go offline after the names are merged and need to reconnect.",
+   "După activare, 2.4GHz și 5GHz sunt afișate sub același nume, iar routerul alege rețeaua Wi-Fi optimă pentru fiecare terminal. Unele terminale pot ieși din rețea după îmbinarea numelor și trebuie să se reconecteze."
+  ],
+  "2.若某些终端设备出现金融类app无法正常使用的情况，可尝试在“WAN口策略”功能中将该设备设置为“WAN1优先”或“WAN2优先”后再试": [
+   "2. If financial apps do not work on some terminals, try setting the device to \"WAN1 priority\" or \"WAN2 priority\" in the \"WAN port policy\" feature and retry",
+   "2. Dacă aplicațiile financiare nu funcționează pe unele terminale, încercați să setați dispozitivul pe „Prioritate WAN1” sau „Prioritate WAN2” în funcția „Politică port WAN” și reîncercați"
+  ],
+  "5G Wi-Fi是运行在5GHz以上的高频段的独立Wi-Fi比较2.4G Wi-Fi速度更快更稳定，适合电视、盒子包括距离路由器较近的设备": [
+   "5G Wi-Fi is an independent Wi-Fi running on a high band above 5GHz; it is faster and more stable than 2.4G Wi-Fi, suited to TVs, set-top boxes and devices close to the router",
+   "Wi-Fi 5G este un Wi-Fi independent care funcționează pe o bandă înaltă peste 5GHz; este mai rapid și mai stabil decât Wi-Fi 2.4G, potrivit pentru televizoare, set-top box-uri și dispozitive apropiate de router"
+  ],
+  "WiFi多频合一关闭，5GHz和5GHz-2 Wi-Fi会默认使用2.4GHz相同的网络名称（加后缀）和密码，如需设成不一样，请进行修改。": [
+   "With Wi-Fi dual-band combining off, 5GHz and 5GHz-2 Wi-Fi use the same network name as 2.4GHz by default (with a suffix) and the same password. Change them if you want them to differ.",
+   "Cu combinarea multi-bandă Wi-Fi dezactivată, Wi-Fi-urile 5GHz și 5GHz-2 folosesc implicit același nume de rețea ca 2.4GHz (cu un sufix) și aceeași parolă. Modificați-le dacă doriți să fie diferite."
+  ],
+  "如果因为下载导致路由器卡慢，建议你点击 “暂停所有下载” 来解决。若使用结束任务，路由下载功能将被停用，下次使用时你需要在当前界面再次开启": [
+   "If downloads make the router slow, click \"Pause all downloads\" to fix it. If you use End task, the router's download feature is disabled and you need to enable it again on the current page next time",
+   "Dacă descărcările încetinesc routerul, faceți clic pe „Pauză pentru toate descărcările”. Dacă folosiți Încheiere sarcină, funcția de descărcare a routerului este dezactivată și trebuie să o activați din nou în pagina curentă data viitoare"
+  ],
+  "开启后会自动生成一个独立的WiFi，这样在亲朋到好友到来时，独立的WiFi账号和家庭网络彼此隔离，也不用担心家庭网络中的任何隐私会泄露出去": [
+   "After enabling, an independent Wi-Fi is created automatically, so when friends and family visit, their separate Wi-Fi account is isolated from your home network and you needn't worry about any privacy on it leaking",
+   "După activare, se creează automat un Wi-Fi independent, astfel încât atunci când vin prieteni și rude, contul lor Wi-Fi separat este izolat de rețeaua de acasă și nu trebuie să vă faceți griji că vreo informație privată va fi scursă"
+  ],
+  "目前路由器拨号上网获得的多半都是动态IP，DDNS可以将路由器变化的外网IP和固定的域名绑定，从而用户可以在外网通过该固定域名来访问路由器。": [
+   "Most routers now get dynamic IPs from dial-up Internet. DDNS binds the router's changing WAN IP to a fixed domain name, so users can reach the router from outside using that domain name.",
+   "Majoritatea routerelor primesc acum IP-uri dinamice prin conexiunea de internet. DDNS leagă IP-ul WAN variabil al routerului de un nume de domeniu fix, astfel încât utilizatorii pot accesa routerul din exterior folosind acel nume de domeniu."
+  ],
+  "WiFi多频合一关闭，5GHz和5GHz-Game Wi-Fi会默认使用2.4GHz相同的网络名称（加后缀）和密码，如需设成不一样，请进行修改。": [
+   "With Wi-Fi dual-band combining off, 5GHz and 5GHz-Game Wi-Fi use the same network name as 2.4GHz by default (with a suffix) and the same password. Change them if you want them to differ.",
+   "Cu combinarea multi-bandă Wi-Fi dezactivată, Wi-Fi-urile 5GHz și 5GHz-Game folosesc implicit același nume de rețea ca 2.4GHz (cu un sufix) și aceeași parolă. Modificați-le dacă doriți să fie diferite."
+  ],
+  "DNS服务器无法服务，可以尝试自定义DNS解决（114.114.114.114, 114.114.115.115 国外8.8.8.8 8.8.4.4)": [
+   "If the DNS server is unavailable, try a custom DNS (114.114.114.114, 114.114.115.115; abroad 8.8.8.8, 8.8.4.4)",
+   "Dacă serverul DNS nu este disponibil, încercați un DNS personalizat (114.114.114.114, 114.114.115.115; în afara Chinei 8.8.8.8, 8.8.4.4)"
+  ],
+  "MU-MIMO“多用户多入多出”技术，可以让路由器与多台终端同时通信，极大改善无线资源利用效率，提升Wi-Fi体验。该功能生效需要路由器和终端同时支持。": [
+   "MU-MIMO (multi-user multiple-input multiple-output) lets the router communicate with several terminals at once, greatly improving wireless resource efficiency and the Wi-Fi experience. Both the router and the terminals must support it.",
+   "MU-MIMO (multi-user multiple-input multiple-output) permite routerului să comunice simultan cu mai multe terminale, îmbunătățind mult eficiența resurselor wireless și experiența Wi-Fi. Atât routerul, cât și terminalele trebuie să îl accepte."
+  ],
+  "（2）冗余备份（WAN1优先，WAN2备份/WAN2优先，WAN1备份）：如果其中一条外网宽带出现故障，可以数据分流到另一条宽带上，以保障与外部网络连通": [
+   "(2) Redundant backup (WAN1 primary, WAN2 backup / WAN2 primary, WAN1 backup): if one WAN broadband line fails, data is shifted to the other line to keep the connection to the outside network",
+   "(2) Copie de rezervă redundantă (WAN1 principal, WAN2 rezervă / WAN2 principal, WAN1 rezervă): dacă una dintre liniile de bandă largă WAN se defectează, datele sunt trecute pe cealaltă linie pentru a menține conexiunea cu rețeaua externă"
+  ],
+  "某些老设备对Wi-Fi6协议支持不好，可能扫描不到信号或者连接不上等。开启此开关后，将会切换到Wi-Fi5模式，解决兼容问题。但同时会关闭Wi-Fi6的相关功能，如OFDMA、TWT、BSS Coloring等。": [
+   "Some old devices do not support the Wi-Fi 6 protocol well and may not find the signal or connect. With this switch on, Wi-Fi 5 mode is used to solve the compatibility problem, but Wi-Fi 6 features such as OFDMA, TWT and BSS Coloring are turned off.",
+   "Unele dispozitive vechi nu acceptă bine protocolul Wi-Fi 6 și pot să nu găsească semnalul sau să nu se conecteze. Cu acest comutator activat se folosește modul Wi-Fi 5 pentru a rezolva problema de compatibilitate, dar funcțiile Wi-Fi 6 precum OFDMA, TWT și BSS Coloring sunt dezactivate."
+  ],
+  "5、静态 IP 地址绑定：通常计算机的 IP 地址由路由器动态分配。如果希望计算机拥有静态 IP 地址，可以在静态 IP 地址绑定列表中手动添加计算机的 MAC 地址和希望使用的静态 IP 地址。注意：静态 IP 地址需与路由器的局域网 IP 地址在同一网段。": [
+   "5. Static IP address binding: a computer's IP address is normally assigned dynamically by the router. To give a computer a static IP address, add its MAC address and the desired static IP address manually in the static IP binding list. Note: the static IP address must be in the same subnet as the router's LAN IP address.",
+   "5. Asociere adresă IP statică: adresa IP a unui computer este de obicei atribuită dinamic de router. Pentru a da unui computer o adresă IP statică, adăugați manual adresa MAC și adresa IP statică dorită în lista de asocieri IP statice. Notă: adresa IP statică trebuie să fie în aceeași subrețea cu adresa IP LAN a routerului."
+  ],
+  "PPTP（Point to Point Tunneling Protocol）和L2TP（Layer 2 Tunneling Protocol）为两种互联网隧道协议，都属于VPN（Virtual Private Network）虚拟专用网络的不同协议分类方式。": [
+   "PPTP (Point to Point Tunneling Protocol) and L2TP (Layer 2 Tunneling Protocol) are two Internet tunneling protocols, both classified as VPN (Virtual Private Network) protocols.",
+   "PPTP (Point to Point Tunneling Protocol) și L2TP (Layer 2 Tunneling Protocol) sunt două protocoale de tunelare pe internet, ambele clasificate ca protocoale VPN (Virtual Private Network)."
+  ],
+  "台": [
+   "devices",
+   "dispozitive"
+  ],
+  "1、DHCP 服务器：开启后，小米路由可以自动为接入设备分配 IP 地址、DNS 服务器地址等网络参数，并通过此功能实现 IP 地址的集中管理；关闭后，小米路由将不为计算机自动分配 IP 地址、DNS 服务器地址等网络参数，当另一台路由器通过 Wi-Fi 中继方式连接此路由器时，中继连接将会失败。": [
+   "1. DHCP server: when on, the Xiaomi router automatically assigns IP addresses, DNS server addresses and other network parameters to connected devices, giving centralized IP address management; when off, the router no longer assigns them automatically, and if another router connects to this router as a Wi-Fi repeater, the repeater connection will fail.",
+   "1. Server DHCP: când este activat, routerul Xiaomi atribuie automat dispozitivelor conectate adrese IP, adrese de server DNS și alți parametri de rețea, oferind administrare centralizată a adreselor IP; când este dezactivat, routerul nu le mai atribuie automat, iar dacă un alt router se conectează la acest router ca repetor Wi-Fi, conexiunea repetorului va eșua."
+  ],
+  "设置成功正在重启，遵照国家法律法规，路由器正在做退避雷达信号探测，Wi-Fi信号要": [
+   "Settings saved, restarting. In compliance with national laws and regulations, the router is performing radar-avoidance signal detection, and the Wi-Fi signal will",
+   "Setări salvate, se repornește. Conform legilor și reglementărilor naționale, routerul efectuează detectarea semnalului radar pentru evitare, iar semnalul Wi-Fi va"
+  ],
+  "吗？": [
+   "?",
+   "?"
+  ]
+ },
+ "patterns": [
+  {
+   "re": "^(\\d{4})年(\\d{1,2})月(\\d{1,2})日(.*)$",
+   "en": "$1-$2-$3$4",
+   "ro": "$1-$2-$3$4"
+  },
+  {
+   "re": "^连接设备数量：(\\d+)$",
+   "en": "Connected devices: $1",
+   "ro": "Dispozitive conectate: $1"
+  },
+  {
+   "re": "^(.+?)\\s*\\(家\\)$",
+   "en": "$1 (Home)",
+   "ro": "$1 (Acasă)"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Xiaomi BE6500 Manager
+Comment=Manage the Xiaomi BE6500 router in English or Romanian
+Exec=@EXEC@
+Icon=com.florin.xiaomi_be6500_manager
+Terminal=false
+Categories=Settings;HardwareSettings;
+StartupWMClass=com.florin.xiaomi_be6500_manager

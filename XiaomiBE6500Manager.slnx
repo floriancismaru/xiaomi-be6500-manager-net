@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/XiaomiBE6500Manager.Core/XiaomiBE6500Manager.Core.csproj" />
+    <Project Path="src/XiaomiBE6500Manager.Tests/XiaomiBE6500Manager.Tests.csproj" />
+    <Project Path="src/XiaomiBE6500Manager/XiaomiBE6500Manager.csproj" />
+  </Folder>
+</Solution>
