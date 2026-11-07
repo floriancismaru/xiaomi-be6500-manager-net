@@ -13,6 +13,30 @@ public partial class MainWindow : Window
         public override string ToString() => Label;
     }
 
+    static readonly Dictionary<string, Avalonia.Media.Imaging.Bitmap> Flags = [];
+
+    /// <summary>Language name followed by its flag.</summary>
+    static readonly Avalonia.Controls.Templates.IDataTemplate LangItem =
+        new Avalonia.Controls.Templates.FuncDataTemplate<object>((item, _) =>
+        {
+            var code = item switch { AppLang a => a.Code, BrowserLang b => b.Code, _ => "" };
+            // Avalonia also asks for a template with a null item while it recycles containers.
+            if (code is not ("en" or "ro" or "zh")) return new Control();
+            if (!Flags.TryGetValue(code, out var flag))
+                Flags[code] = flag = new Avalonia.Media.Imaging.Bitmap(
+                    AssetLoader.Open(new Uri($"avares://xiaomi-be6500-manager/Assets/flags/{code}.png")));
+            return new StackPanel
+            {
+                Orientation = Avalonia.Layout.Orientation.Horizontal,
+                Spacing = 8,
+                Children =
+                {
+                    new TextBlock { Text = item?.ToString(), VerticalAlignment = Avalonia.Layout.VerticalAlignment.Center },
+                    new Image { Source = flag, Width = 22, Height = 15, VerticalAlignment = Avalonia.Layout.VerticalAlignment.Center },
+                },
+            };
+        });
+
     readonly Settings _settings = Settings.Load();
     RouterProxy? _proxy;
     NativeWebView? _web;
@@ -24,6 +48,14 @@ public partial class MainWindow : Window
     {
         InitializeComponent();
         IpBox.Text = _settings.Ip;
+        LangBox.ItemTemplate = LangItem;
+        BrowserLangBox.ItemTemplate = LangItem;
+        BrowserLangBox.ItemsSource = new[]
+        {
+            new BrowserLang("zh", Strings.Tr(AppLang.En, "original")),
+            new BrowserLang("en", AppLang.En.Label),
+            new BrowserLang("ro", AppLang.Ro.Label),
+        };
         LangBox.ItemsSource = AppLang.All;
         LangBox.SelectedItem = Lang;
         LangBox.SelectionChanged += (_, _) =>
@@ -59,12 +91,6 @@ public partial class MainWindow : Window
 
         _updating = true;
         var code = _proxy?.Lang ?? l.Code;
-        BrowserLangBox.ItemsSource = new[]
-        {
-            new BrowserLang("zh", Strings.Tr(l, "original")),
-            new BrowserLang("en", AppLang.En.Label),
-            new BrowserLang("ro", AppLang.Ro.Label),
-        };
         BrowserLangBox.SelectedIndex = code switch { "zh" => 0, "ro" => 2, _ => 1 };
         _updating = false;
     }
@@ -73,6 +99,32 @@ public partial class MainWindow : Window
     {
         ErrorText.IsVisible = key != null;
         ErrorText.Text = key == null ? null : Strings.Tr(Lang, key);
+    }
+
+    async Task ShowErrorDialogAsync(string message, string details)
+    {
+        var ok = new Button { Content = Strings.Tr(Lang, "ok"), MinWidth = 90, HorizontalAlignment = Avalonia.Layout.HorizontalAlignment.Right };
+        var dialog = new Window
+        {
+            Title = Strings.Tr(Lang, "errorTitle"),
+            Width = 460,
+            SizeToContent = SizeToContent.Height,
+            CanResize = false,
+            WindowStartupLocation = WindowStartupLocation.CenterOwner,
+            Content = new StackPanel
+            {
+                Margin = new Avalonia.Thickness(24),
+                Spacing = 12,
+                Children =
+                {
+                    new TextBlock { Text = message, TextWrapping = Avalonia.Media.TextWrapping.Wrap },
+                    new TextBlock { Text = details, TextWrapping = Avalonia.Media.TextWrapping.Wrap, Opacity = 0.65, FontSize = 12 },
+                    ok,
+                },
+            },
+        };
+        ok.Click += (_, _) => dialog.Close();
+        await dialog.ShowDialog(this);
     }
 
     async Task ConnectAsync()
@@ -106,9 +158,13 @@ public partial class MainWindow : Window
             ApplyTexts();
             web.Navigate(new Uri(_proxy.EntryUrl));
         }
-        catch
+        catch (Exception ex)
         {
-            ShowError("unreachable");
+            if (_proxy != null) { await _proxy.DisposeAsync(); _proxy = null; }
+            var inner = ex.InnerException?.Message ?? ex.Message;
+            await ShowErrorDialogAsync(
+                string.Format(Strings.Tr(Lang, "cannotConnect"), ip),
+                string.Format(Strings.Tr(Lang, "details"), inner));
         }
         finally
         {

@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <AvaloniaResource Include="Assets\app_icon.png" />
+    <AvaloniaResource Include="Assets\flags\*.png" />
     <ProjectReference Include="..\XiaomiBE6500Manager.Core\XiaomiBE6500Manager.Core.csproj" />
   </ItemGroup>
 </Project>

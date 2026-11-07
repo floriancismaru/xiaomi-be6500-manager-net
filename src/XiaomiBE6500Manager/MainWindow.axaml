@@ -7,6 +7,8 @@
     <!-- Home screen -->
     <Grid x:Name="HomePanel">
       <StackPanel Width="420" VerticalAlignment="Center" Spacing="6">
+        <Image Source="avares://xiaomi-be6500-manager/Assets/app_icon.png" Width="160" Height="160"
+               HorizontalAlignment="Center" Margin="0,0,0,18" />
         <TextBlock x:Name="IpLabel" />
         <TextBox x:Name="IpBox" Text="192.168.31.1" />
         <TextBlock x:Name="LangLabel" Margin="0,10,0,0" />
